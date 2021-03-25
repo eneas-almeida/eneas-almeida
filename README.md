@@ -4,17 +4,17 @@ Bacharel em Administração pela FACISA, 2007. Estudante de Engenharia de Comput
 
 ### Áreas de conhecimento
 
-#### Stack de back-end:
+#### Stack back-end:
 
 -   Typescript
--   NodeJs / Express / Jest
--   Postgres / MongoDB / Redis
+-   NodeJs / Express / Jest / TypeORM
+-   Postgres / MongoDB / Redis (Docker)
 
 #### Arquitetura de software
 
 -   MVC
+-   Domain Driven Design (DDD)
 -   Feature by Package
--   DDD
 
 #### Front-end (sem framework)
 
@@ -24,11 +24,12 @@ Bacharel em Administração pela FACISA, 2007. Estudante de Engenharia de Comput
 
 #### Servidor linux
 
--   Python
+-   Python (Automação de processos)
 -   Nginx
 -   Varnish
 
 #### Outros
 
+-   Deploy (CI-CD - Budy Works)
 -   Docker
 -   Java
