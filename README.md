@@ -6,9 +6,9 @@ Bacharel em Administração pela FACISA, 2007. Estudante de Engenharia de Comput
 
 #### Arquitetura de software
 
--   MVC
--   Domain Driven Design (DDD)
 -   Feature by Package
+-   Domain Driven Design (DDD)
+-   MVC
 
 #### Stack back-end:
 
