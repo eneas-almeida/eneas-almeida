@@ -34,3 +34,9 @@ Bacharel em Administração pela FACISA, 2007. Estudante de Engenharia de Comput
 -   Deploy (CI-CD - Budy Works)
 -   Docker
 -   Java
+
+#### Linkedin
+
+<a href="https://www.linkedin.com/in/venzel/">
+  <img align="left" alt="Allan Bispo | Linkedin" width="22px" height="22px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
+</a>
