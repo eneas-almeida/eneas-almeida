@@ -4,11 +4,11 @@ Analista de infraestrutura de TI no Pragmatismo Político (desde 2011). Bacharel
 
 Entusiasta por Engenharia e Arquitetura de Software, utilizando coinceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_.
 
-<img align="center" alt="DDD" width="350px" height="350px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" /><br><br>
+<img style="float:left; width: 450px; height: 450px; margin: auto;" alt="DDD" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" /><br><br>
 
 <hr>
 <a href="https://www.linkedin.com/in/venzel/">
-  <img align="left" alt="Enéas Almeida | Linkedin" width="28px" height="28px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
+  <img alt="Enéas Almeida | Linkedin" width="28px" height="28px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
 </a><br><br>
 
 ### Áreas de conhecimento
