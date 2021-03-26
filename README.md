@@ -4,7 +4,9 @@ Analista de infraestrutura de TI no Pragmatismo Político (desde 2011). Bacharel
 
 Entusiasta por Engenharia e Arquitetura de Software, utilizando coinceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_.
 
-<img alt="DDD" width="550px" height="550px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" /><br><br>
+<p align="center">
+<img alt="DDD" width="550px" height="550px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
+</p>
 
 Imagem: Otávio Lemos
 
