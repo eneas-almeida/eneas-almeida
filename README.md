@@ -4,7 +4,7 @@ Analista de infraestrutura de TI no Pragmatismo Político (desde 2011). Bacharel
 
 Entusiasta por Engenharia e Arquitetura de Software, utilizando coinceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venzel)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <img alt="DDD" width="550px" height="550px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
