@@ -1,6 +1,6 @@
-### Olá, meu nome é Enéas! :bomb: :collision:
+### Olá, meu nome é Enéas!
 
-Analista de infraestrutura de TI no Pragmatismo Político (desde 2011). Bacharel em Administração de Empresas, Unifacisa, 2007. Estudante de Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB) desde 2017.
+Estudante de Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período. Graduado em Administração de Empresas. Analista de TI no Pragmatismo Político.
 
 Entusiasta por Engenharia e Arquitetura de Software, utilizando coinceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_.
 
