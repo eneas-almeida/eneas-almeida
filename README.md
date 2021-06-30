@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período. Graduado em Administração de Empresas. Analista de TI no Pragmatismo Político.
 
-Entusiasta por Engenharia e Arquitetura de Software, utilizando coinceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_.
+Entusiasta por Engenharia e Arquitetura de Software, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_.
 
 <p align="center">
 <img alt="DDD" width="550px" height="550px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
