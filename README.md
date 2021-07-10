@@ -1,8 +1,8 @@
 ### Olá, meu nome é Enéas!
 
-Estudante de Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período. Graduado em Administração de Empresas. Analista de TI no Pragmatismo Político.
+Estudante de Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período.
 
-Entusiasta por Engenharia e Arquitetura de Software, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_.
+Apaixonado por Engenharia e Arquitetura de Software, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring.
 
 <p align="center">
 <img alt="DDD" width="550px" height="550px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
