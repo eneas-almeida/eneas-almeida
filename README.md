@@ -41,7 +41,7 @@ Os tutores citados abaixo são fontes de referência em minha jornada de estudo 
 
 ### Últimos projetos
 
-Repositórios com código de projetos que venho desenvolvendo e aprendendo nos últimos meses.
+Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
 
 - <a href="https://github.com/venzel/food">Food Delivery</a> (API de delivery, projeto com Spring Boot)
 - <a href="https://github.com/venzel/be_happy">Be Happy</a> (API de combate ao bullying, projeto com NodeJS)<br><br>
