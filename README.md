@@ -6,7 +6,7 @@
 
 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022.
 
-Espírito de empreendedor por natureza e apaixonado por <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
+Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
 <p align="center">
 <img alt="DDD" width="450px" height="450px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
@@ -17,6 +17,8 @@ Crédito de imagem: Otávio Lemos<br><br>
 <hr>
 
 ### Meus tutores
+
+Os tutores citados abaixo são fontes de referência em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
 - AlgaWorks (Spring Boot)
 - Rocketseat (Stack backend NodeJS)
