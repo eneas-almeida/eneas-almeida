@@ -10,7 +10,7 @@ Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width="30" height="30" /> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" width="150" height="40" /> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" width="150" height="30" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="30" height="30" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="30" height="30" /> 
 </p>
