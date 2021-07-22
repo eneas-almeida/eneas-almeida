@@ -33,7 +33,7 @@ Imagem: Otávio Lemos
 - Dev Soltinho (Javascript)
 - Rodrigo Branas (Javascript)
 - Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
-- CodarMe (NodeJS)<br>
+- CodarMe (NodeJS)<br><br>
 
 <hr>
 
@@ -42,7 +42,7 @@ Imagem: Otávio Lemos
 Repositórios com código de projetos que venho desenvolvendo e aprendendo nos últimos meses.
 
 - <a href="https://github.com/venzel/food">Food Delivery</a> (API de delivery, projeto com Spring Boot)
-- <a href="https://github.com/venzel/be_happy">Be Happy</a> (API de combate ao bullying, projeto com NodeJS)<br>
+- <a href="https://github.com/venzel/be_happy">Be Happy</a> (API de combate ao bullying, projeto com NodeJS)<br><br>
 
 <hr>
 
