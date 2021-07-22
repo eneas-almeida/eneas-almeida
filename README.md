@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/venzel/">
   <img alt="Enéas Almeida | Linkedin" width="38px" height="38px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
-</a><br><br>
+</a><br>
 
 ### Olá, meu nome é Enéas!
 
