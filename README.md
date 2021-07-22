@@ -2,7 +2,7 @@
   <img alt="Enéas Almeida | Linkedin" width="38px" height="38px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
 </a><br>
 
-### Olá, meu nome é Enéas!
+### Olá, meu nome é Enéas Almeida (Venzel)
 
 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022.
 
