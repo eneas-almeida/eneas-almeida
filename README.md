@@ -15,7 +15,7 @@ Imagem: Otávio Lemos
   <img alt="Enéas Almeida | Linkedin" width="28px" height="28px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
 </a><br><br>
 
-### Meus tutores
+## Meus tutores
 
 - AlgaWorks (Spring Boot)
 - Rocketseat (Stack backend NodeJS)
@@ -34,7 +34,7 @@ Imagem: Otávio Lemos
 - Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
 - CodarMe (NodeJS)
 
-### Áreas de conhecimento
+## Áreas de conhecimento
 
 #### Stack back-end
 
