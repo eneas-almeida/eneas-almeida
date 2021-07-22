@@ -50,6 +50,10 @@ Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos 
 
 ### Áreas de conhecimento
 
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="arduino" width="50" height="50"/></a>
+ </p>
+
 #### Stack back-end
 
 -   Typescript
