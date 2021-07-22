@@ -34,6 +34,14 @@ Imagem: Otávio Lemos
 - Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
 - CodarMe (NodeJS)
 
+## Últimos projetos
+
+* Repositórios com código de projetos que venho desenvolvendo e aprendendo nos últimos meses.
+
+- <a href="https://github.com/venzel/food">Food Delivery</a> (API de delivery, projeto com Spring Boot)
+- <a href="https://github.com/venzel/be_happy">Be Happy</a> (API de combate ao bullyng, projeto com NodeJS)
+
+
 ## Áreas de conhecimento
 
 #### Stack back-end
