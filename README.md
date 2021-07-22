@@ -52,8 +52,8 @@ Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos 
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width="60" height="50" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="60" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="60" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="60" height="50" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="60" height="50" /> 
 </p>
 
