@@ -6,6 +6,13 @@
 
 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022.
 
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="50" height="50" /> 
+</p>
+
 Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
 <p align="center">
@@ -49,13 +56,6 @@ Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos 
 <hr>
 
 ### Áreas de conhecimento
-
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width="50" height="50" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="50" height="50" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="50" height="50" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="50" height="50" /> 
-</p>
 
 #### Stack back-end
 
