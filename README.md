@@ -16,7 +16,7 @@ Imagem: Otávio Lemos
 
 <hr>
 
-## Meus tutores
+### Meus tutores
 
 - AlgaWorks (Spring Boot)
 - Rocketseat (Stack backend NodeJS)
