@@ -15,6 +15,25 @@ Imagem: Otávio Lemos
   <img alt="Enéas Almeida | Linkedin" width="28px" height="28px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
 </a><br><br>
 
+### Meus tutores
+
+- AlgaWorks (Spring Boot)
+- Rocketseat (Stack backend NodeJS)
+- Fernando Daciuk (Javascript e Git avançado)
+- Leonardo Moura (Docker, Java e Typescript)
+- Otávio Lemos (Arquitetura e TDD com Typescript)
+- Nélio Alves (Spring Boot)
+- Fábio Akita (Dicas de estudo Pragmático)
+- Henrique Cunha (Algorítmos)
+- César Vasconcelos (Java)
+- Otávio Miranda (Typescript + Padões de projeto)
+- Erick Wendel (NodeJS avançado)
+- Linux Tips (Docker, Kubernetes)
+- Dev Soltinho (Javascript)
+- Rodrigo Branas (Javascript)
+- Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
+- CodarMe (NodeJS)
+
 ### Áreas de conhecimento
 
 #### Stack back-end
@@ -47,22 +66,3 @@ Imagem: Otávio Lemos
 -   Git
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker
-
-### Meus tutores
-
-- AlgaWorks (Spring Boot)
-- Rocketseat (Stack backend NodeJS)
-- Fernando Daciuk (Javascript e Git avançado)
-- Leonardo Moura (Docker, Java e Typescript)
-- Otávio Lemos (Arquitetura e TDD com Typescript)
-- Nélio Alves (Spring Boot)
-- Fábio Akita (Dicas de estudo Pragmático)
-- Henrique Cunha (Algorítmos)
-- César Vasconcelos (Java)
-- Otávio Miranda (Typescript + Padões de projeto)
-- Erick Wendel (NodeJS avançado)
-- Linux Tips (Docker, Kubernetes)
-- Dev Soltinho (Javascript)
-- Rodrigo Branas (Javascript)
-- Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
-- CodarMe (NodeJS)
