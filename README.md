@@ -1,19 +1,19 @@
 ### Olá, meu nome é Enéas!
 
-Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período.
+Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022.
 
 Espírito de empreendedor por natureza e apaixonado por <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
 <p align="center">
-<img alt="DDD" width="550px" height="550px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
+<img alt="DDD" width="450px" height="450px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
 </p>
 
 Imagem: Otávio Lemos
 
 <hr>
 <a href="https://www.linkedin.com/in/venzel/">
-  <img alt="Enéas Almeida | Linkedin" width="18px" height="18px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
-</a><br><br>
+  <img alt="Enéas Almeida | Linkedin" width="38px" height="38px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
+</a><br>
 
 ## Meus tutores
 
