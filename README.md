@@ -12,7 +12,7 @@ Imagem: Otávio Lemos
 
 <hr>
 <a href="https://www.linkedin.com/in/venzel/">
-  <img alt="Enéas Almeida | Linkedin" width="28px" height="28px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
+  <img alt="Enéas Almeida | Linkedin" width="18px" height="18px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
 </a><br><br>
 
 ## Meus tutores
