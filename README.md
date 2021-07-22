@@ -16,7 +16,7 @@ Crédito de imagem: Otávio Lemos<br><br>
 
 <hr>
 
-### Meus tutores
+### Meus tutores e mestres
 
 Os tutores citados abaixo são fontes de referência em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
