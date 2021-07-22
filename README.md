@@ -1,10 +1,10 @@
+<a href="https://www.linkedin.com/in/venzel/">
+  <img alt="Enéas Almeida | Linkedin" width="38px" height="38px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
+</a><br><br>
+
 ### Olá, meu nome é Enéas!
 
 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022.
-
-<a href="https://www.linkedin.com/in/venzel/">
-  <img alt="Enéas Almeida | Linkedin" width="38px" height="38px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
-</a><br>
 
 Espírito de empreendedor por natureza e apaixonado por <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
