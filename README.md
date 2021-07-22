@@ -12,7 +12,7 @@ Espírito de empreendedor por natureza e apaixonado por <b>Engenharia e Arquitet
 <img alt="DDD" width="450px" height="450px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
 </p>
 
-Imagem: Otávio Lemos
+Crédito de imagem: Otávio Lemos<br><br>
 
 <hr>
 
