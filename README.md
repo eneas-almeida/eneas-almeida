@@ -79,6 +79,8 @@ Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos 
 -   Java + Spring Boot
 -   Git
 -   Deploy (CI-CD - Budy Works, CodeShip)
--   Docker
+-   Docker<br><br>
+
+<hr>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=venzel&label=Profile%20views&color=0e75b6&style=flat" alt="venzel" /></p>
