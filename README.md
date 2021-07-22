@@ -54,6 +54,7 @@ Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos 
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Docker" width="100" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" width="100" height="50"/>
 </p>
 
 #### Stack back-end
