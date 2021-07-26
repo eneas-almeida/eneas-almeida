@@ -84,6 +84,7 @@ Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos 
 #### Outros
 
 -   Java + Spring Boot
+-   Shell script
 -   Git
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker<br><br>
