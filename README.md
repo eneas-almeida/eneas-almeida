@@ -34,7 +34,7 @@ Os tutores citados abaixo são fontes de referência em minha jornada de estudo 
 - Otávio Lemos (Arquitetura e TDD com Typescript)
 - Nélio Alves (Spring Boot)
 - Fábio Akita (Dicas de estudo Pragmático)
-- Henrique Cunha (Algorítmos)
+- Henrique Cunha (Algoritmos)
 - César Vasconcelos (Java)
 - Otávio Miranda (Padões de projeto com Typescript)
 - Erick Wendel (NodeJS avançado)
