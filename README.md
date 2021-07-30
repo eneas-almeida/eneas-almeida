@@ -23,6 +23,16 @@ Crédito de imagem: Otávio Lemos<br><br>
 
 <hr>
 
+### Projetos em andamento
+
+Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
+
+- <a href="https://github.com/venzel/store">Store</a> (API de venda de produtos, projeto com Spring Boot)
+- <a href="https://github.com/venzel/food">Food</a> (API de restaurante, projeto com Spring Boot)
+- <a href="https://github.com/venzel/be_happy">Be Happy</a> (API de combate ao bullying, projeto com NodeJS)<br><br>
+
+<hr>
+
 ### Meus tutores e mestres
 
 Os tutores citados abaixo são fontes de referência em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
@@ -43,15 +53,6 @@ Os tutores citados abaixo são fontes de referência em minha jornada de estudo 
 - Rodrigo Branas (Javascript)
 - Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
 - CodarMe (NodeJS)<br><br>
-
-<hr>
-
-### Últimos projetos
-
-Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
-
-- <a href="https://github.com/venzel/food">Food Delivery</a> (API de delivery, projeto com Spring Boot)
-- <a href="https://github.com/venzel/be_happy">Be Happy</a> (API de combate ao bullying, projeto com NodeJS)<br><br>
 
 <hr>
 
