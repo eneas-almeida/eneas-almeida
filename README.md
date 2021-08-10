@@ -15,7 +15,7 @@ Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _
 <img alt="DDD" width="450px" height="450px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
 </p>
 
-Crédito de imagem: Otávio Lemos<br><br>
+Crédito de imagem: Otávio Lemos<br /><br />
 
 <hr>
 
@@ -23,8 +23,8 @@ Crédito de imagem: Otávio Lemos<br><br>
 
 Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
 
-👉 <a href="https://github.com/venzel/bestore">BeStore</a> (API de venda de produtos, projeto com Spring Boot)
-👉 <a href="https://github.com/venzel/bekid">BeKid</a> (API de mapeamento de emoções, projeto com NodeJS)<br><br>
+👉 <a href="https://github.com/venzel/bestore">BeStore</a> (API de venda de produtos, projeto com Spring Boot)<br />
+👉 <a href="https://github.com/venzel/bekid">BeKid</a> (API de mapeamento de emoções, projeto com NodeJS)<br /><br />
 
 <hr>
 
@@ -47,7 +47,7 @@ Os tutores citados abaixo são fontes de referência em minha jornada de estudo 
 - Dev Soltinho (Javascript)
 - Rodrigo Branas (Javascript)
 - Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
-- CodarMe (NodeJS)<br><br>
+- CodarMe (NodeJS)<br /><br />
 
 <hr>
 
@@ -85,7 +85,7 @@ Stack back end (Java)
 
 -   Git / Gitflow
 -   Deploy (CI-CD - Budy Works, CodeShip)
--   Docker<br><br>
+-   Docker<br /><br />
 
 <hr>
 
