@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Enéas Almeida (Venzel)
 
-Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022.<br /><a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
+Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022. <a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
 
 Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
@@ -13,7 +13,7 @@ Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _
 
 <hr>
 
-## Projetos em andamento
+### Projetos em andamento
 
 Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
 
@@ -22,7 +22,7 @@ Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos 
 
 <hr>
 
-## Meus tutores e mestres
+### Meus tutores e mestres
 
 Os tutores citados abaixo são fontes de referência em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
@@ -45,37 +45,37 @@ Os tutores citados abaixo são fontes de referência em minha jornada de estudo 
 
 <hr>
 
-## Áreas de conhecimento
+### Áreas de conhecimento
 
 Stack back end (Java)
 
 - Java / Spring Boot / JPA / Hibernate
 - MySQL / MongoDB (Docker)
 
-### Stack back end (Javascript)
+#### Stack back end (Javascript)
 
 -   Typescript
 -   NodeJS / Express / Jest / TypeORM
 -   Postgres / MySQL / MongoDB / Redis
 
-### Arquitetura de software
+#### Arquitetura de software
 
 -   Feature by Package (Utilizado em meus projetos)
 -   MVC
 
-### Front end (sem framework)
+#### Front end (sem framework)
 
 -   HTML
 -   LESS (CSS)
 -   Javascript
 
-### Servidor linux
+#### Servidor linux
 
 -   Python (Automação de processos simples)
 -   Nginx
 -   Varnish
 
-### Outros
+#### Outros
 
 -   Git / Gitflow
 -   Deploy (CI-CD - Budy Works, CodeShip)
