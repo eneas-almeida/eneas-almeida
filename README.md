@@ -1,10 +1,6 @@
-<a href="https://www.linkedin.com/in/venzel/">
-  <img alt="Enéas Almeida | Linkedin" width="38px" height="38px" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" />
-</a><br>
+### 👋 Olá, meu nome é Enéas Almeida (Venzel)
 
-### Olá, meu nome é Enéas Almeida (Venzel)
-
-Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022.
+> Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022.<br /><a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
 
 Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
@@ -27,9 +23,8 @@ Crédito de imagem: Otávio Lemos<br><br>
 
 Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
 
-- <a href="https://github.com/venzel/store">Store</a> (API de venda de produtos, projeto com Spring Boot)
-- <a href="https://github.com/venzel/food">Food</a> (API de restaurante, projeto com Spring Boot)
-- <a href="https://github.com/venzel/be_happy">Be Happy</a> (API de combate ao bullying, projeto com NodeJS)<br><br>
+👉 <a href="https://github.com/venzel/bestore">BeStore</a> (API de venda de produtos, projeto com Spring Boot)
+👉 <a href="https://github.com/venzel/bekid">BeKid</a> (API de mapeamento de emoções, projeto com NodeJS)<br><br>
 
 <hr>
 
@@ -58,7 +53,12 @@ Os tutores citados abaixo são fontes de referência em minha jornada de estudo 
 
 ### Áreas de conhecimento
 
-#### Stack back-end
+Stack back end (Java)
+
+- Java / Spring Boot / JPA / Hibernate
+- MySQL / MongoDB (Docker)
+
+#### Stack back end (Javascript)
 
 -   Typescript
 -   NodeJS / Express / Jest / TypeORM
@@ -66,11 +66,10 @@ Os tutores citados abaixo são fontes de referência em minha jornada de estudo 
 
 #### Arquitetura de software
 
--   Feature by Package + use cases (Utilizado em meus projetos)
--   Domain Driven Design
+-   Feature by Package (Utilizado em meus projetos)
 -   MVC
 
-#### Front-end (sem framework)
+#### Front end (sem framework)
 
 -   HTML
 -   LESS (CSS)
@@ -84,9 +83,7 @@ Os tutores citados abaixo são fontes de referência em minha jornada de estudo 
 
 #### Outros
 
--   Java + Spring Boot
--   Shell script
--   Git
+-   Git / Gitflow
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker<br><br>
 
