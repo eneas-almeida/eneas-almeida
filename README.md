@@ -11,14 +11,6 @@ Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring" width="35" height="35" /> 
 </p>
 
-<p align="center">
-<img alt="DDD" width="450px" height="450px" src="https://raw.githubusercontent.com/venzel/venzel/master/images/clean.svg" />
-</p>
-
-Crédito de imagem: Otávio Lemos<br /><br />
-
-<hr>
-
 ### Projetos em andamento
 
 Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
