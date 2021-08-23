@@ -11,7 +11,7 @@ Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _
 Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
 
 👉 <a href="https://github.com/venzel/bestore">BeStore</a> (API de venda de produtos, projeto com Spring Boot)<br />
-👉 <a href="https://github.com/venzel/bekid">BeKid</a> (API de mapeamento de emoções, projeto com Typescript e NodeJS)<br /><br />
+👉 <a href="https://github.com/venzel/bekid">BeKid</a> (API de mapeamento de emoções, projeto com Typescript e NodeJS)<br />
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> (Caso de teste de exaustão, projeto com Typescript, NodeJS e AWS)<br /><br />
 
 <hr>
