@@ -4,13 +4,6 @@ Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB
 
 Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="30" height="30" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="30" height="30" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" title="Java" width="35" height="35" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring" width="35" height="35" /> 
-</p>
-
 <hr>
 
 ### Projetos em andamento
@@ -18,19 +11,29 @@ Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _
 Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
 
 👉 <a href="https://github.com/venzel/bestore">BeStore</a> (API de venda de produtos, projeto com Spring Boot)<br />
-👉 <a href="https://github.com/venzel/bekid">BeKid</a> (API de mapeamento de emoções, projeto com NodeJS)<br /><br />
+👉 <a href="https://github.com/venzel/bekid">BeKid</a> (API de mapeamento de emoções, projeto com Typescript e NodeJS)<br /><br />
+👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> (Caso de teste de exaustão, projeto com Typescript, NodeJS e AWS)<br /><br />
 
 <hr>
-
 
 ### Áreas de conhecimento
 
 Stack back end (Java)
 
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" title="Java" width="35" height="35" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring" width="35" height="35" /> 
+</p>
+
 - Java / Spring Boot / JPA / Hibernate
 - MySQL / MongoDB (Docker)
 
 #### Stack back end (Javascript)
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="30" height="30" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="30" height="30" /> 
+</p>
 
 -   Typescript
 -   NodeJS / Express / Jest / TypeORM
