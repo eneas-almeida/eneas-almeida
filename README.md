@@ -2,6 +2,8 @@
 
 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB). Atualmente no 8a período, com previsão de término em Julho de 2022. <a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
 
+<p align="center"><img src="https://github.com/venzel/venzel/blob/master/images/clean.svg" /></p>
+
 Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
 <hr>
