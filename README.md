@@ -27,7 +27,9 @@ Stack back end (Java)
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" title="Java" width="35" height="35" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring" width="35" height="35" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring" width="35" height="35" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" title="MongoDB" width="35" height="35" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" title="MySQL" width="35" height="35" /> 
 </p>
 
 - Java / Spring Boot / JPA / Hibernate
@@ -37,12 +39,16 @@ Stack back end (Java)
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="30" height="30" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="30" height="30" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgres" title="Postgres" width="35" height="35" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" title="MySQL" width="35" height="35" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" title="MongoDB" width="35" height="35" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" title="Redis" width="35" height="35" />
 </p>
 
 -   Typescript
 -   NodeJS / Express / Jest / TypeORM
--   Postgres / MySQL / MongoDB / Redis
+-   Postgres / MySQL / MongoDB / Redis (Docker)
 
 #### Arquitetura de software
 
