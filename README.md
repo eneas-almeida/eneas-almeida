@@ -5,8 +5,8 @@ Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (IFPB
 Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="35" height="35" /> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" title="NodeJS" width="120" height="35" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="30" height="30" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="30" height="30" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" title="Java" width="35" height="35" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring" width="35" height="35" /> 
 </p>
