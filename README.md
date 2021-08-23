@@ -4,6 +4,8 @@
 
 <p align="center"><img src="https://github.com/venzel/venzel/blob/master/images/clean.svg" /></p>
 
+Imagem: Otávio Lemos
+
 Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
 <hr>
