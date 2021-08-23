@@ -8,7 +8,7 @@ Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _
 
 <hr>
 
-### Projetos em andamento
+### Projetos
 
 Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
 
