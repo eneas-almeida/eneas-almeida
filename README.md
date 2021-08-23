@@ -12,10 +12,10 @@ Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _
 
 Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos últimos meses.
 
-👉 <a href="https://github.com/venzel/bestore">BeStore</a> (API de venda de produtos, projeto com Spring Boot e Mysql)<br />
-👉 <a href="https://github.com/venzel/bekid">BeKid</a> (API de mapeamento de emoções, projeto com Typescript, NodeJS e Postgres)<br />
-👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> (Case de testes (TDD) em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio)<br />
-👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> (Caso de teste de exaustão, projeto com Typescript, NodeJS, Postgres e AWS)<br /><br />
+👉 <a href="https://github.com/venzel/bestore">BeStore</a> - API de venda de produtos, projeto com Spring Boot e Mysql.<br />
+👉 <a href="https://github.com/venzel/bekid">BeKid</a> - API de mapeamento de emoções, projeto com Typescript, NodeJS e Postgres.<br />
+👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Caso de testes **(TDD)** em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio.<br />
+👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Caso de teste **(exaustão)**, projeto com Typescript, NodeJS, Postgres e AWS.<br /><br />
 
 <hr>
 
@@ -86,7 +86,7 @@ Os tutores citados abaixo são fontes de referência em minha jornada de estudo 
 - Dev Soltinho (Javascript)
 - Rodrigo Branas (Javascript)
 - Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
-- CodarMe (NodeJS)<br /><br />
+- Codar.me (NodeJS)<br /><br />
 
 <hr>
 
