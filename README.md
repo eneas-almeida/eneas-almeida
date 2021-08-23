@@ -22,28 +22,6 @@ Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos 
 
 <hr>
 
-### Meus tutores e mestres
-
-Os tutores citados abaixo são fontes de referência em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
-
-- AlgaWorks (Spring Boot)
-- Rocketseat (Stack backend NodeJS)
-- Fernando Daciuk (Javascript e Git avançado)
-- Leonardo Moura (Docker, Java e Typescript)
-- Otávio Lemos (Arquitetura e TDD com Typescript)
-- Nélio Alves (Spring Boot)
-- Fábio Akita (Dicas de estudo Pragmático)
-- Henrique Cunha (Algoritmos)
-- César Vasconcelos (Java)
-- Otávio Miranda (Padões de projeto com Typescript)
-- Erick Wendel (NodeJS avançado)
-- Linux Tips (Linux, Docker e Kubernetes)
-- Dev Soltinho (Javascript)
-- Rodrigo Branas (Javascript)
-- Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
-- CodarMe (NodeJS)<br /><br />
-
-<hr>
 
 ### Áreas de conhecimento
 
@@ -80,6 +58,29 @@ Stack back end (Java)
 -   Git / Gitflow
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker<br /><br />
+
+<hr>
+
+### Meus tutores e mestres
+
+Os tutores citados abaixo são fontes de referência em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
+
+- AlgaWorks (Spring Boot)
+- Rocketseat (Stack backend NodeJS)
+- Fernando Daciuk (Javascript e Git avançado)
+- Leonardo Moura (Docker, Java e Typescript)
+- Otávio Lemos (Arquitetura e TDD com Typescript)
+- Nélio Alves (Spring Boot)
+- Fábio Akita (Dicas de estudo Pragmático)
+- Henrique Cunha (Algoritmos)
+- César Vasconcelos (Java)
+- Otávio Miranda (Padões de projeto com Typescript)
+- Erick Wendel (NodeJS avançado)
+- Linux Tips (Linux, Docker e Kubernetes)
+- Dev Soltinho (Javascript)
+- Rodrigo Branas (Javascript)
+- Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
+- CodarMe (NodeJS)<br /><br />
 
 <hr>
 
