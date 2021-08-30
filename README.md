@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Enéas Almeida (Venzel)
 
-> Graduando em **Engenharia de Computação** pelo Instituto Federal da Paraíba **(IFPB)**. Atualmente no **8a período**, com previsão de término em **Julho de 2022**. <br /> <br />👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
+> Graduando em **Engenharia de Computação** pelo Instituto Federal da Paraíba **(IFPB)**. Atualmente no **8a período**, com previsão de término em **Julho de 2022**. <br /> <br />👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />👉 <a href="http://www.venzel.com.br">Site pessoal</a>
 
 <p align="center"><img src="https://github.com/venzel/venzel/blob/master/images/clean.svg" /></p>
 
