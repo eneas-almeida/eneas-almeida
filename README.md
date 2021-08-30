@@ -6,7 +6,7 @@
 
 Imagem: Otávio Lemos
 
-Focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
+Colaborativo, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
 <hr>
 
@@ -30,8 +30,8 @@ Stack back end (Java)
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring" width="35" height="35" />
 </p>
 
-- Java / Spring Boot / JPA / Hibernate
-- MySQL / MongoDB (Docker)
+-   Java / Spring Boot / JPA / Hibernate
+-   MySQL / MongoDB (Docker)
 
 #### Stack back end (Javascript)
 
@@ -69,26 +69,33 @@ Stack back end (Java)
 
 <hr>
 
+### Interesses futuros
+
+-   Desenvolvimento mobile
+-   GoLang
+-   DevOps
+
 ### Meus tutores e mestres
 
-Os tutores citados abaixo são fontes de referência em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
+Os tutores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
-- AlgaWorks (Spring Boot)
-- Rocketseat (Stack backend NodeJS)
-- Fernando Daciuk (Javascript e Git avançado)
-- Leonardo Moura (Docker, Java e Typescript)
-- Otávio Lemos (Arquitetura e TDD com Typescript)
-- Nélio Alves (Spring Boot)
-- Fábio Akita (Dicas de estudo Pragmático)
-- Henrique Cunha (Algoritmos)
-- César Vasconcelos (Java)
-- Otávio Miranda (Padões de projeto com Typescript)
-- Erick Wendel (NodeJS avançado)
-- Linux Tips (Linux, Docker e Kubernetes)
-- Dev Soltinho (Javascript)
-- Rodrigo Branas (Javascript)
-- Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
-- Codar.me (NodeJS)<br /><br />
+-   AlgaWorks (Spring Boot)
+-   Otávio Lemos (Arquitetura e TDD com Typescript)
+-   Fernando Daciuk (Javascript e Git avançado)
+-   Leonardo Moura (Docker, Java e Typescript)
+-   Rocketseat (Stack backend NodeJS)
+-   Nélio Alves (Spring Boot)
+-   Fábio Akita (Dicas de estudo Pragmático)
+-   Henrique Cunha (Algoritmos)
+-   César Vasconcelos (Java)
+-   Otávio Miranda (Padões de projeto com Typescript)
+-   Erick Wendel (NodeJS avançado)
+-   Linux Tips (Linux, Docker e Kubernetes)
+-   Dev Soltinho (Javascript, Git)
+-   Claudson Oliveira (Trabalho no exterior, GoLang)
+-   Rodrigo Branas (Javascript)
+-   Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
+-   Codar.me (NodeJS)<br /><br />
 
 <hr>
 
