@@ -18,6 +18,7 @@ Repositórios com códigos de projetos que venho desenvolvendo e aprendendo nos 
 👉 <a href="https://github.com/venzel/bekid">BeKid</a> - API de combate ao bullying escolar. projeto com Typescript, NodeJS e TypeORM.<br />
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Caso de testes **(TDD)** em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio.<br />
 👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Caso de teste **(exaustão)**, projeto com Typescript, NodeJS, Postgres e AWS.<br /><br />
+👉 <a href="https://github.com/venzel/entity_ddd">Entity DDD</a> - Caso de uso **(Modelagem de domínio)**, projeto em java utilizando a classe externa Either para tratamento de erros de forma elegante.<br /><br />
 
 <hr>
 
@@ -79,12 +80,15 @@ Stack back end (Java)
 
 Os tutores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
+-   Otávio Augusto Gallego (GoLang)
+-   Ellen körbes (GoLang)
 -   AlgaWorks (Spring Boot)
 -   Otávio Lemos (Arquitetura e TDD com Typescript)
 -   Fernando Daciuk (Javascript e Git avançado)
 -   Leonardo Moura (Docker, Java e Typescript)
 -   Rocketseat (Stack backend NodeJS)
 -   Nélio Alves (Spring Boot)
+-   Ruan Delgado (Algoritmos e dicas de estudo)
 -   Fábio Akita (Dicas de estudo Pragmático)
 -   Henrique Cunha (Algoritmos)
 -   César Vasconcelos (Java)
