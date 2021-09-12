@@ -63,7 +63,7 @@ Stack back end (Java)
 
 #### Servidor linux
 
--   Python (Automação de processos simples)
+-   Python (**Básico** para automação de processos simples)
 -   Nginx
 -   Varnish
 
@@ -71,8 +71,9 @@ Stack back end (Java)
 
 -   Git / Gitflow
 -   Deploy (CI-CD - Budy Works, CodeShip)
--   Docker<br /><br />
-
+-   Docker
+-   GoLang (**Básico**, atualmente focado no aprendizado)
+<br /><br />
 <hr>
 
 ### Interesses futuros
@@ -85,26 +86,26 @@ Stack back end (Java)
 
 Os tutores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
--   Otávio Augusto Gallego (GoLang)
--   Ellen körbes (GoLang)
--   AlgaWorks (Spring Boot)
--   Otávio Lemos (Arquitetura e TDD com Typescript)
--   Fernando Daciuk (Javascript e Git avançado)
--   Leonardo Moura (Docker, Java e Typescript)
--   Rocketseat (Stack backend NodeJS)
--   Nélio Alves (Spring Boot)
--   Ruan Delgado (Algoritmos e dicas de estudo)
--   Fábio Akita (Dicas de estudo Pragmático)
--   Henrique Cunha (Algoritmos)
--   César Vasconcelos (Java)
--   Otávio Miranda (Padões de projeto com Typescript)
--   Erick Wendel (NodeJS avançado)
--   Linux Tips (Linux, Docker e Kubernetes)
--   Dev Soltinho (Javascript, Git)
--   Claudson Oliveira (Trabalho no exterior, GoLang)
--   Rodrigo Branas (Javascript)
--   Jonathan Baraldi (DevOps com Rancher, AWS e GCP)
--   Codar.me (NodeJS)<br /><br />
+-   Otávio Augusto Gallego **(GoLang)**
+-   Ellen körbes **(GoLang)**
+-   AlgaWorks **(Spring Boot)**
+-   Otávio Lemos **(Arquitetura e TDD com Typescript)**
+-   Fernando Daciuk **(Javascript e Git avançado)**
+-   Leonardo Moura **(Docker, Java e Typescript)**
+-   Rocketseat **(Stack backend NodeJS)**
+-   Nélio Alves **(Spring Boot)**
+-   Ruan Delgado **(Algoritmos e dicas de estudo)**
+-   Fábio Akita **(Dicas de estudo Pragmático)**
+-   Henrique Cunha **(Algoritmos)**
+-   César Vasconcelos **(Java)**
+-   Otávio Miranda **(Padões de projeto com Typescript)**
+-   Erick Wendel **(NodeJS avançado)**
+-   Linux Tips **(Linux, Docker e Kubernetes)**
+-   Dev Soltinho **(Javascript, Git)**
+-   Claudson Oliveira **(Trabalho no exterior, GoLang)**
+-   Rodrigo Branas **(Javascript)**
+-   Jonathan Baraldi **(DevOps com Rancher, AWS e GCP)**
+-   Codar.me **(NodeJS)**<br /><br />
 
 <hr>
 
