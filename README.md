@@ -14,14 +14,17 @@ Colaborativo, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando 
 
 Principais repositórios de projetos em desenvolvimento.
 
-👉 <a href="https://github.com/venzel/bestore">BeStore</a> - API de venda de produtos, projeto com Spring Boot e Mysql.<br />
-👉 <a href="https://github.com/venzel/bekid">BeKid</a> - API de combate ao bullying escolar. projeto com Typescript, NodeJS e TypeORM.<br />
+👉 <a href="https://github.com/venzel/bestore">BeStore</a> - API de venda de produtos, projeto com Spring Boot e Mysql.<br /><br />
+👉 <a href="https://github.com/venzel/bekid">BeKid</a> - API de combate ao bullying escolar. projeto em Typescript, NodeJS e TypeORM.<br />
 
 ## Estudos de caso
 
-👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Caso de testes **(TDD)** em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio.<br />
-👉 <a href="https://github.com/venzel/entity_ddd">Entity DDD</a> - Caso de uso na linguagem Java **(Modelagem de domínio)**. Utilizando uma classe Either, a técnica consiste em modelar uma entidade de forma que os erros possam ser gerenciados de forma mais elegante.<br />
-👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Caso de teste **(NodeJs + Postgres)**, projeto com Typescript, NodeJS, Postgres e AWS.<br /><br />
+👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio, baseado em uma Arquitetura Limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.<br /><br />
+👉 <a href="https://github.com/venzel/entity_ddd">Entity DDD</a> - Estudo caso **Domain Model**. Modelagem de uma entidade em Java, utilizando práticas do DDD. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente.<br /><br />
+👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJS + Postgres para testar os limites de sobrecargas de uma instância na AWS.<br /><br />
+👉 <a href="https://github.com/venzel/ci_cd_codeship">Integração continua</a> - Estudo de caso nos serviços da Codeship e Digital Ocean.<br /><br />
+👉 <a href="https://github.com/venzel/create_releases">Create releases</a> - Estudo de caso de criaçao de releases automatizadas no Github.<br /><br />
+👉 <a href="https://github.com/venzel/mongo_spring">Mongo & Spring Boot</a> - Estudo de caso de uma api Spring Boot + MongoDB.<br /><br />
 
 <hr>
 
