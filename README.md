@@ -74,13 +74,13 @@ Principais repositórios de projetos em desenvolvimento.
 -   Git / Gitflow
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker
--   GoLang (**Básico**, atualmente focado no aprendizado)
+-   GoLang (**Básico**, atualmente focado na tecnologia)
 <br /><br />
 <hr>
 
 ### Interesses futuros
 
--   GoLang (Em processo de aprendizado)
+-   GoLang (em processo...)
 -   DevOps
 -   Desenvolvimento mobile
 
