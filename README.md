@@ -12,24 +12,22 @@ Colaborativo, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando 
 
 ## Projetos
 
-Principais repositórios de projetos desenvolvidos nos últimos meses.
+Principais repositórios de projetos em desenvolvimento.
 
 👉 <a href="https://github.com/venzel/bestore">BeStore</a> - API de venda de produtos, projeto com Spring Boot e Mysql.<br />
 👉 <a href="https://github.com/venzel/bekid">BeKid</a> - API de combate ao bullying escolar. projeto com Typescript, NodeJS e TypeORM.<br />
 
 ## Estudos de caso
 
-Principais repositórios de estudos de casos, desenvolvidos nos últimos meses.
-
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Caso de testes **(TDD)** em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio.<br />
-👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Caso de teste **(NodeJs + Postgres)**, projeto com Typescript, NodeJS, Postgres e AWS.<br />
-👉 <a href="https://github.com/venzel/entity_ddd">Entity DDD</a> - Caso de uso **(Modelagem de domínio)**, projeto em java utilizando a classe externa Either para tratamento de erros de forma elegante.<br /><br />
+👉 <a href="https://github.com/venzel/entity_ddd">Entity DDD</a> - Caso de uso na linguagem Java **(Modelagem de domínio)**. Utilizando uma classe Either, a técnica consiste em modelar uma entidade de forma que os erros possam ser gerenciados de forma mais elegante.<br />
+👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Caso de teste **(NodeJs + Postgres)**, projeto com Typescript, NodeJS, Postgres e AWS.<br /><br />
 
 <hr>
 
 ### Áreas de conhecimento
 
-Stack back end (Java)
+#### Backend (Stack Java)
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" title="Java" width="35" height="35" /> 
@@ -39,7 +37,7 @@ Stack back end (Java)
 -   Java / Spring Boot / JPA / Hibernate
 -   MySQL / MongoDB (Docker)
 
-#### Stack back end (Javascript)
+#### Backend (Stack Typescript)
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="30" height="30" /> 
@@ -52,8 +50,9 @@ Stack back end (Java)
 
 #### Arquitetura de software
 
--   Feature by Package (Utilizado em meus projetos)
--   MVC
+-   **DDD** (Utilizando práticas pontuais a exemplo de: aggregate root, domain model, controllers, services, repositories)
+-   **Feature by Package** (Simplificação de uma estrutura DDD. Utilizado em meus projetos)
+-   **MVC**
 
 #### Front end (sem framework)
 
