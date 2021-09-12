@@ -6,7 +6,11 @@
 
 Imagem: Otávio Lemos
 
-Colaborativo, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
+<hr>
+
+## Perfil
+
+Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
 <hr>
 
@@ -14,12 +18,12 @@ Colaborativo, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando 
 
 Principais repositórios de projetos em desenvolvimento.
 
-👉 <a href="https://github.com/venzel/bestore">BeStore</a> - API de venda de produtos, projeto com Spring Boot e Mysql.<br /><br />
-👉 <a href="https://github.com/venzel/bekid">BeKid</a> - API de combate ao bullying escolar. projeto em Typescript, NodeJS e TypeORM.<br />
+👉 <a href="https://github.com/venzel/bestore">BeStore</a> - API Rest de venda de produtos, projeto em Spring Boot e Mysql.<br />
+👉 <a href="https://github.com/venzel/bekid">BeKid</a> - API Rest de combate ao bullying escolar. projeto em Typescript, NodeJS e TypeORM.<br />
 
 ## Estudos de caso
 
-👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio, baseado em uma Arquitetura Limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.<br /><br />
+👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.<br /><br />
 👉 <a href="https://github.com/venzel/entity_ddd">Entity DDD</a> - Estudo caso **Domain Model**. Modelagem de uma entidade em Java, utilizando práticas do DDD. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente.<br /><br />
 👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJS + Postgres para testar os limites de sobrecargas de uma instância na AWS.<br /><br />
 👉 <a href="https://github.com/venzel/ci_cd_codeship">Integração continua</a> - Estudo de caso nos serviços da Codeship e Digital Ocean.<br /><br />
@@ -30,7 +34,7 @@ Principais repositórios de projetos em desenvolvimento.
 
 ### Áreas de conhecimento
 
-#### Backend (Stack Java)
+#### Back end (Stack Java)
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" title="Java" width="35" height="35" /> 
@@ -40,7 +44,7 @@ Principais repositórios de projetos em desenvolvimento.
 -   Java / Spring Boot / JPA / Hibernate
 -   MySQL / MongoDB (Docker)
 
-#### Backend (Stack Typescript)
+#### Back end (Stack Typescript)
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="30" height="30" /> 
@@ -74,7 +78,7 @@ Principais repositórios de projetos em desenvolvimento.
 -   Git / Gitflow
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker
--   GoLang (**Básico**, atualmente focado na tecnologia)
+-   GoLang (**Básico**, atualmente focado em aprender a tecnologia)
 <br /><br />
 <hr>
 
