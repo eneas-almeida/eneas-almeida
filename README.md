@@ -65,7 +65,7 @@ Principais repositórios de projetos em desenvolvimento.
 
 #### Servidor linux
 
--   Python (**Básico** para automação de processos simples)
+-   Python (**Básico**, para automação de processos simples)
 -   Nginx
 -   Varnish
 
@@ -80,9 +80,9 @@ Principais repositórios de projetos em desenvolvimento.
 
 ### Interesses futuros
 
--   Desenvolvimento mobile
--   GoLang
+-   GoLang (Em processo de aprendizado)
 -   DevOps
+-   Desenvolvimento mobile
 
 ### Meus tutores e mestres
 
