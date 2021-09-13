@@ -90,7 +90,7 @@ Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arq
 
 ### Interesses futuros
 
--   Golang (em processo de aprendizagem)
+-   Golang
 -   DevOps (Rancher, Kubernetes e etc.)
 -   Desenvolvimento mobile
 
