@@ -8,20 +8,18 @@ Imagem: Otávio Lemos
 
 <hr>
 
-## Perfil
+### Sobre
 
 Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
 
 <hr>
 
-## Projetos
-
-Principais repositórios de projetos em desenvolvimento.
+### Principais projetos
 
 👉 <a href="https://github.com/venzel/bestore">BeStore</a> - API Rest de venda de produtos, projeto em Spring Boot e Mysql.<br />
 👉 <a href="https://github.com/venzel/bekid">BeKid</a> - API Rest de combate ao bullying escolar. projeto em Typescript, NodeJS e TypeORM.<br />
 
-## Estudos de caso
+### Estudos de caso
 
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.<br />
 👉 <a href="https://github.com/venzel/modelagem_entidade">Modelgem de entidade</a> - Estudo caso **Domain Model**. Modelagem de uma entidade em Java, utilizando práticas do DDD. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente.<br />
