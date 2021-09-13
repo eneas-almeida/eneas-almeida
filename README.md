@@ -23,12 +23,13 @@ Principais repositórios de projetos em desenvolvimento.
 
 ## Estudos de caso
 
-👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.<br /><br />
-👉 <a href="https://github.com/venzel/entity_ddd">Entity DDD</a> - Estudo caso **Domain Model**. Modelagem de uma entidade em Java, utilizando práticas do DDD. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente.<br /><br />
-👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJS + Postgres para testar os limites de sobrecargas de uma instância na AWS.<br /><br />
-👉 <a href="https://github.com/venzel/ci_cd_codeship">Integração continua</a> - Estudo de caso nos serviços da Codeship e Digital Ocean.<br /><br />
-👉 <a href="https://github.com/venzel/create_releases">Create releases</a> - Estudo de caso de criaçao de releases automatizadas no Github.<br /><br />
-👉 <a href="https://github.com/venzel/mongo_spring">Mongo & Spring Boot</a> - Estudo de caso de uma api Spring Boot + MongoDB.<br /><br />
+👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJS, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.<br />
+👉 <a href="https://github.com/venzel/modelagem_entidade">Modelgem de entidade</a> - Estudo caso **Domain Model**. Modelagem de uma entidade em Java, utilizando práticas do DDD. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente.<br />
+👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJS.<br />
+👉 <a href="https://github.com/venzel/deploy_codeship">Deploy Codeship</a> - Estudo de caso de integração continua nos serviços da Codeship.<br />
+👉 <a href="https://github.com/venzel/create_releases">Create releases</a> - Estudo de caso de criaçao de releases automatizadas no Github.<br />
+👉 <a href="https://github.com/venzel/mongo_spring">Mongo & Spring Boot</a> - Estudo de caso de uma api Spring Boot + MongoDB.<br />
+👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Estudo de caso de um CRUD desenvolvido em Java com servelets.<br /><br />
 
 <hr>
 
