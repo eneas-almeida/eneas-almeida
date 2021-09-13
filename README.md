@@ -16,8 +16,8 @@ Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arq
 
 ### Principais projetos
 
-👉 <a href="https://github.com/venzel/bestore">BeStore</a> - API Rest de venda de produtos, projeto em Spring Boot e Mysql.<br />
-👉 <a href="https://github.com/venzel/bekid">BeKid</a> - API Rest de combate ao bullying escolar. projeto em Typescript, NodeJS e TypeORM.<br />
+👉 <a href="https://github.com/venzel/bestore">BeStore</a> - Soft de venda de produtos, API REST em Java com Spring Boot e Mysql.<br />
+👉 <a href="https://github.com/venzel/bekid">BeKid</a> - Soft de combate ao bullying escolar. API REST em Typescript, NodeJS e TypeORM.<br />
 
 ### Estudos de caso
 
