@@ -10,7 +10,14 @@ Imagem: Otávio Lemos
 
 ### Sobre
 
-Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJ e Spring Boot.
+Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS, Spring Boot e Golang.
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" title="Java" width="40" height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="40" height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="Golang" title="Golang" width="35" height="45" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Golang" title="Golang" width="55" height="55" /> 
+</p>
 
 <hr>
 
