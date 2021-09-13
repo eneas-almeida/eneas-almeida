@@ -78,13 +78,13 @@ Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arq
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker
 -   Golang (**Básico**, atualmente focado em aprender a tecnologia)
-<br />
+
 <hr>
 
 ### Interesses futuros
 
 -   Golang (em processo de aprendizagem)
--   DevOps
+-   DevOps (Rancher, Kubernetes e etc.)
 -   Desenvolvimento mobile
 
 ### Meus tutores e mestres
