@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Enéas Almeida (Venzel)
 
-> Graduando em **Engenharia de Computação** pelo Instituto Federal da Paraíba **(IFPB)**. Atualmente no **8a período**, com previsão de término em **Julho de 2022**. <br /> <br />👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />👉 <a href="http://www.venzel.com.br">Site pessoal</a>
+> Graduando em **Engenharia de Computação** pelo Instituto Federal da Paraíba **(IFPB)**. Atualmente no **8a período**, com previsão de término em **Julho de 2022**. <br /><p align="left"><img src="https://komarev.com/ghpvc/?username=venzel&label=Profile%20views&color=0e75b6&style=flat" alt="venzel" /></p>👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />👉 <a href="http://www.venzel.com.br">venzel.com.br</a>
 
 <p align="center"><img src="https://github.com/venzel/venzel/blob/master/images/clean.svg" /></p>
 
@@ -16,7 +16,7 @@ Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arq
 
 ### Principais projetos
 
-👉 <a href="https://github.com/venzel/bestore">BeStore</a> - Soft de venda de produtos, API REST em Java com Spring Boot e Mysql.<br />
+👉 <a href="https://github.com/venzel/bestore">BeStore</a> - Soft de venda de produtos. API REST em Java com Spring Boot e Mysql.<br />
 👉 <a href="https://github.com/venzel/bekid">BeKid</a> - Soft de combate ao bullying escolar. API REST em Typescript, NodeJS e TypeORM.<br />
 
 ### Estudos de caso
@@ -111,7 +111,3 @@ Os tutores citados abaixo são fontes de referências em minha jornada de estudo
 -   Rodrigo Branas **(Javascript)**
 -   Jonathan Baraldi **(DevOps com Rancher, AWS e GCP)**
 -   Codar.me **(NodeJS)**<br /><br />
-
-<hr>
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=venzel&label=Profile%20views&color=0e75b6&style=flat" alt="venzel" /></p>
