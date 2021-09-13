@@ -10,7 +10,7 @@ Imagem: Otávio Lemos
 
 ### Sobre
 
-Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJS e Spring Boot.
+Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_, _Test-Driven Development_, e _Continuos Refactoring_, com NodeJ e Spring Boot.
 
 <hr>
 
@@ -27,7 +27,7 @@ Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arq
 👉 <a href="https://github.com/venzel/deploy_codeship">Deploy Codeship</a> - Estudo de caso de integração continua nos serviços da Codeship.<br />
 👉 <a href="https://github.com/venzel/create_releases">Create releases</a> - Estudo de caso de criaçao de releases automatizadas no Github.<br />
 👉 <a href="https://github.com/venzel/mongo_spring">Mongo & Spring Boot</a> - Estudo de caso de uma api Spring Boot + MongoDB.<br />
-👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Estudo de caso de um CRUD desenvolvido em Java com servelets.<br /><br />
+👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Estudo de caso de um CRUD desenvolvido em Java com servelets.<br />
 
 <hr>
 
@@ -77,19 +77,19 @@ Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arq
 -   Git / Gitflow
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker
--   GoLang (**Básico**, atualmente focado em aprender a tecnologia)
-<br /><br />
+-   Golang (**Básico**, atualmente focado em aprender a tecnologia)
+<br />
 <hr>
 
 ### Interesses futuros
 
--   GoLang (em processo...)
+-   Golang (em processo de aprendizagem)
 -   DevOps
 -   Desenvolvimento mobile
 
 ### Meus tutores e mestres
 
-Os tutores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
+Os autores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
 -   Otávio Augusto Gallego **(GoLang)**
 -   Ellen körbes **(GoLang)**
