@@ -48,18 +48,18 @@ Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arq
 </p>
 
 -   Java / Spring Boot / JPA / Hibernate
--   MySQL / MongoDB (Docker)
+-   MySQL / MongoDB
 
 #### Back end (Stack Typescript)
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="30" height="30" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" title="NodeJS" width="100" height="30" />
 </p>
 
 -   Typescript
 -   NodeJS / Express / Jest / TypeORM
--   Postgres / MySQL / MongoDB / Redis (Docker)
+-   Postgres / MySQL / MongoDB / Redis
 
 #### Arquitetura de software
 
