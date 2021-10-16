@@ -35,6 +35,7 @@ Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arq
 👉 <a href="https://github.com/venzel/create_releases">Create releases</a> - Estudo de caso de criaçao de releases automatizadas no Github.<br />
 👉 <a href="https://github.com/venzel/mongo_spring">Mongo & Spring Boot</a> - Estudo de caso de uma api Spring Boot + MongoDB.<br />
 👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Estudo de caso de um CRUD desenvolvido em Java com servelets.<br />
+👉 <a href="https://github.com/venzel/series-tv-backend">Séries de tv</a> - Estudo de caso de um fullstack em Spring Boot + Angular 12<br />
 
 <hr>
 
