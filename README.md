@@ -68,10 +68,11 @@ Colaborativo e centrado em resultados, atualmente, focado em <b>Engenharia e Arq
 -   **Feature by Package** (Simplificação de uma estrutura DDD. Utilizado em meus projetos)
 -   **MVC**
 
-#### Front end (sem framework)
+#### Front end
 
+-   Angular
 -   HTML
--   LESS (CSS)
+-   CSS
 -   Javascript
 
 #### Servidor linux
@@ -103,7 +104,7 @@ Os autores citados abaixo são fontes de referências em minha jornada de estudo
 
 -   Otávio Augusto Gallego **(GoLang)**
 -   Ellen körbes **(GoLang)**
--   AlgaWorks **(Spring Boot)**
+-   AlgaWorks **(Spring Boot e Angular)**
 -   Otávio Lemos **(Arquitetura e TDD com Typescript)**
 -   Fernando Daciuk **(Javascript e Git avançado)**
 -   Leonardo Moura **(Docker, Java e Typescript)**
