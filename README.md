@@ -1,8 +1,6 @@
 ### 👋 Olá, meu nome é Enéas Almeida (nickname: Venzel)
 
-Graduando em **Engenharia de Computação** pelo Instituto Federal da Paraíba **(IFPB)**.
-
-> ⚠️ **Nota sobre a gradução** <br /><br />Atualmente no **9a período** cursando 4 disciplinas e desenvolvendo o projeto de conclusão de curso. No próximo período (10a), em Março de 2022, restará apenas 1 disciplina optativa **\*obrigatória** para fechar totalmente a graduação.
+Graduando em **Engenharia de Computação** pelo Instituto Federal da Paraíba **(IFPB)**, entre 2017 - 2021.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=venzel&label=Profile%20views&color=0e75b6&style=flat" alt="venzel" /></p>👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />👉 <a href="http://www.venzel.com.br">Site pessoal venzel.com.br</a>
 
