@@ -44,6 +44,7 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 
 ## Estudos de caso
 
+👉 <a href="https://github.com/venzel/nodejs-prisma">NodeJs + Prisma</a> - Cadastro simples de usuários com Prisma e uma arquitetura Feat by package.<br />
 👉 <a href="https://github.com/venzel/todo-vue">TODO</a> - Lista de tarefas com VueJs.<br />
 👉 <a href="https://github.com/venzel/series-tv-backend">Séries de tv</a> - Estudo de caso de um fullstack em Spring Boot + Angular 12.<br />
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJs, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.<br />
