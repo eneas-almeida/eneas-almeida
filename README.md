@@ -2,51 +2,54 @@
 
 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba - IFPB (2017 - 2021). Pré concluinte.
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=venzel&label=Profile%20views&color=0e75b6&style=flat" alt="venzel" /></p>👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />👉 <a href="http://www.venzel.com.br">Site pessoal venzel.com.br</a>
-
-<p align="center"><img src="https://github.com/venzel/venzel/blob/master/images/clean.svg" /></p>
-
-**Autor da imagem:** Otávio Lemos
-
-<hr>
-
 ## Sobre
 
 Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_ e _Test-Driven Development_ com **NodeJs** e **VueJs**.
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" title="NodeJs" width="40" height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJs" title="NodeJs" height="45" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="40" height="40" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" title="Javascript" width="40" height="40" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" alt="Prisma" title="Prisma" width="40" height="40" /> 
+  <img src="./images/jest.svg" alt="Jest" title="Jest" width="40" height="40" />  
   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs" title="VueJs" width="40" height="40" /> 
 </p>
 
-### Focado em...
+### 🔥 Focado nas tecnologias...
 
--   NodeJs / Express / Jest
+-   NodeJs / Express
 -   Typescript / Javascript
--   TypeORM / Postgres / Redis
+-   TypeORM / Postgres / MongoDB / Redis
 -   Prisma
+-   TDD com Jest
 -   VueJs
+-   Docker
 
-### Na fila de estudos...
+### ❤️ Focado desenvolvendo...
 
--   Prisma
+-   <a href="https://github.com/venzel/bekid-backend">bekid.app</a> - Aplicação monolítica, fullstack com NodeJs no backend e VueJs no frontend.<br />
+
+### 📜 Na fila de estudos...
+
 -   GraphQL
+-   Microserviços
+-   RabbitMQ
 
 <hr>
 
-## Principais projetos
+### Projetos em destaque
 
-👉 <a href="https://github.com/venzel/bekid-backend">bekid.app</a> - Aplicação de auxílio no combate ao bullying escolar. Bakcend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis).<br />
+👉 <a href="https://github.com/venzel/bekid-backend">bekid.app</a> - É uma aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Bakcend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis).<br />
 👉 <a href="https://github.com/venzel/bestore">bestore.me</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. <br />
 
-⚠️ Os projetos citados acima são pessoais e sem fins lucrativos.
+\* Os projetos citados acima são pessoais e sem fins lucrativos.
 
-## Estudos de caso
+### Estudos de caso
 
-👉 <a href="https://github.com/venzel/nodejs-prisma">NodeJs + Prisma</a> - Cadastro simples de usuários com Prisma e uma arquitetura Feat by package.<br />
-👉 <a href="https://github.com/venzel/todo-vue">TODO</a> - Lista de tarefas com VueJs.<br />
+👉 <a href="https://github.com/venzel/nodejs-prisma">NodeJs + Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Feature by package e Teste unitário com o Jest.<br />
+👉 <a href="https://github.com/venzel/todo-vue">Todo List</a> - Lista de tarefas com VueJs.<br />
+👉 <a href="https://github.com/venzel/crud-axios-vue">CRUD</a> - Crud básico utilizando o VueJs e axios<br />
+👉 <a href="https://github.com/venzel/vuex">Vuex</a> - Estudo de caso utilizando o VUEX<br />
 👉 <a href="https://github.com/venzel/series-tv-backend">Séries de tv</a> - Estudo de caso de um fullstack em Spring Boot + Angular 12.<br />
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJs, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.<br />
 👉 <a href="https://github.com/venzel/modelagem_entidade">Modelgem de entidade</a> - Estudo caso **Domain Model**. Modelagem de uma entidade em Java, utilizando práticas do DDD. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente.<br />
@@ -58,19 +61,23 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 
 <hr>
 
-## Áreas de conhecimento
+### Áreas de conhecimento
 
 ### Backend (Stack NodeJs)
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" title="NodeJs" width="30" height="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" title="Javascript" width="30" height="30" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" title="Javascript" width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" alt="Prisma" title="Prisma" width="30" height="30" />
+  <img src="./images/jest.svg" alt="Jest" title="Jest" width="30" height="30" />
 </p>
 
--   NodeJs / Express / Jest
+-   NodeJs / Express
 -   Typescript / Javascript
--   TypeORM / Postgres / MySQL / MongoDB / Redis
+-   TypeORM / Postgres / MongoDB / Redis
+-   Prisma
+-   TDD com Jest
 
 ### Backend (Stack Spring Boot)
 
@@ -99,22 +106,19 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 -   LESS/CSS
 -   Typescript/Javascript
 
-### Servidor linux
-
--   Python (**Básico**, para automação de processos simples)
--   Nginx
--   Varnish
-
 ### Outros
 
+-   Ambiente linux
 -   Git / Gitflow
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker
--   Golang (**Básico**)
+-   Diagramação de telas
+-   Nginx
+-   Varnish
 
 <hr>
 
-## Interesses futuros
+### Interesses futuros
 
 -   React
 -   Desenvolvimento mobile
@@ -123,7 +127,7 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 
 <hr>
 
-## Meus tutores e mestres
+### Meus tutores e mestres
 
 Os autores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
