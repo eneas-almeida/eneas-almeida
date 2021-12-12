@@ -26,6 +26,7 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 -   NodeJs / Express / Jest
 -   Typescript / Javascript
 -   TypeORM / Postgres / Redis
+-   Prisma
 -   VueJs
 
 ### Na fila de estudos...
