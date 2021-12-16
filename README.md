@@ -2,6 +2,8 @@
 
 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba - IFPB (2017 - 2021). Pré concluinte.
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=venzel&label=Profile%20views&color=0e75b6&style=flat" alt="venzel" /></p>👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
+
 ## Sobre
 
 Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_ e _Test-Driven Development_ com **NodeJs** e **VueJs**.
