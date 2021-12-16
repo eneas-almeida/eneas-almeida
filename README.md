@@ -23,7 +23,7 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 -   Typescript / Javascript
 -   TypeORM / Postgres / MongoDB / Redis
 -   Prisma
--   TDD com Jest
+-   Testes com Jest
 -   VueJs
 -   Docker
 
@@ -31,11 +31,14 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 
 -   <a href="https://github.com/venzel/bekid-backend">bekid.app</a> - Aplicação monolítica, fullstack com NodeJs no backend e VueJs no frontend.<br />
 
-### 📜 Na fila de estudos...
+-   <a href="https://github.com/venzel/grisoli">grisoli</a> - Aplicação para caso de uso de uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions.
 
--   GraphQL
+### 📜 Na fila de processamento...
+
 -   Microserviços
 -   RabbitMQ
+-   Kubernetes
+-   GraphQL
 
 <hr>
 
@@ -65,7 +68,7 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 
 ### Áreas de conhecimento
 
-### Backend (Stack NodeJs)
+### Stack NodeJs
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" title="NodeJs" width="30" height="30" />
@@ -79,9 +82,9 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 -   Typescript / Javascript
 -   TypeORM / Postgres / MongoDB / Redis
 -   Prisma
--   TDD com Jest
+-   Testes com Jest
 
-### Backend (Stack Spring Boot)
+### Stack Spring Boot
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring" width="35" height="35" />
@@ -111,10 +114,10 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 ### Outros
 
 -   Ambiente linux
--   Git / Gitflow
+-   Git / Gitflow / Conventional Commit
 -   Deploy (CI-CD - Budy Works, CodeShip)
 -   Docker
--   Diagramação de telas
+-   Diagramação de telas (Illustrator)
 -   Nginx
 -   Varnish
 
@@ -124,7 +127,7 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 
 -   React
 -   Desenvolvimento mobile
--   DevOps (Rancher, Kubernetes e etc.)
+-   Infra com Rancher
 -   Golang
 
 <hr>
