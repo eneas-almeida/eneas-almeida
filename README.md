@@ -44,10 +44,11 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 
 ### Projetos em destaque
 
-👉 <a href="https://github.com/venzel/bekid-backend">bekid.app</a> - É uma aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Bakcend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis).<br />
-👉 <a href="https://github.com/venzel/bestore">bestore.me</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. <br />
+👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Bakcend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis).<br />
 
-\* Os projetos citados acima são pessoais e sem fins lucrativos.
+👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. <br />
+
+👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários, MVC desenvolvido em C# com Microsoft SQL. Atuei como líder de equipe, como também nas partes de frontend e dba MS SQL.<br />
 
 ### Estudos de caso
 
