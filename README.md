@@ -1,6 +1,6 @@
 ### 👋 Olá, meu nome é Enéas Almeida (nickname: Venzel)
 
-Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba - IFPB (2017 - 2021). Pré concluinte.
+Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2021). Pré concluinte.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=venzel&label=Profile%20views&color=0e75b6&style=flat" alt="venzel" /></p>👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
 
@@ -29,9 +29,9 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 
 ### ❤️ Focado desenvolvendo...
 
--   <a href="https://github.com/venzel/bekid-backend">bekid.app</a> - Aplicação monolítica, fullstack com NodeJs no backend e VueJs no frontend.<br />
+-   <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação monolítica, fullstack com NodeJs no backend e VueJs no frontend.<br />
 
--   <a href="https://github.com/venzel/grisoli">grisoli</a> - Aplicação para caso de uso de uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions.
+-   <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação para caso de uso de uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions.
 
 ### 📜 Na fila de processamento...
 
@@ -44,19 +44,20 @@ Colaborativo, dedicado no aperfeiçoamento em <b>Engenharia e Arquitetura de Sof
 
 ### Projetos em destaque
 
-👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Bakcend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis).<br />
+👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Backend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis).<br />
 
 👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. <br />
 
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários, MVC desenvolvido em C# com Microsoft SQL. Atuei como líder de equipe, como também nas partes de frontend e dba MS SQL.<br />
 
+👉 <a href="https://github.com/venzel/todo-vue">Todo List</a> - Lista de tarefas com VueJs. Utilizado em meu dia a dia.<br />
+
 ### Estudos de caso
 
 👉 <a href="https://github.com/venzel/nodejs-prisma">NodeJs + Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Feature by package e Teste unitário com o Jest.<br />
-👉 <a href="https://github.com/venzel/todo-vue">Todo List</a> - Lista de tarefas com VueJs.<br />
-👉 <a href="https://github.com/venzel/crud-axios-vue">CRUD</a> - Crud básico utilizando o VueJs e axios<br />
-👉 <a href="https://github.com/venzel/vuex">Vuex</a> - Estudo de caso utilizando o VUEX<br />
+👉 <a href="https://github.com/venzel/vuex">Vuex</a> - Estudo de caso utilizando o estado centralizado (vuex).<br />
 👉 <a href="https://github.com/venzel/series-tv-backend">Séries de tv</a> - Estudo de caso de um fullstack em Spring Boot + Angular 12.<br />
+👉 <a href="https://github.com/venzel/crud-axios-vue">VueJs + Axios</a> - Crud básico utilizando o VueJs e axios.<br />
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJs, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa.<br />
 👉 <a href="https://github.com/venzel/modelagem_entidade">Modelgem de entidade</a> - Estudo caso **Domain Model**. Modelagem de uma entidade em Java, utilizando práticas do DDD. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente.<br />
 👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJs.<br />
