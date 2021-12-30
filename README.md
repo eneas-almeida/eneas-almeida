@@ -2,11 +2,11 @@
 
 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022). Pré concluinte.
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=venzel&label=Profile%20views&color=0e75b6&style=flat" alt="venzel" /></p>👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
+👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
 
 ## Sobre
 
-Colaborativo, nos últimos anos, dedicado exclusivamente no aprendizado e aperfeiçoamento em <b>Engenharia e Arquitetura de Software</b>, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_ e _Test-Driven Development_ com **NodeJs**, **NestJs**, **Spring Boot**, **VueJs** e **Angular**.
+Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusivamente no aprendizado e aperfeiçoamento em Engenharia e Arquitetura de Software, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_ e _Test-Driven Development_ com **NodeJs**, **NestJs**, **Spring Boot**, **VueJs** e **Angular**.
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJs" title="NodeJs" height="45" /> 
@@ -20,9 +20,9 @@ Colaborativo, nos últimos anos, dedicado exclusivamente no aprendizado e aperfe
 
 ### 🔥 Focado nas tecnologias...
 
--   NodeJs / Express / NestJs
--   Typescript / Javascript
--   TypeORM / Postgres / MongoDB / Redis
+-   NodeJs / NestJs / Spring Boot
+-   Typescript / Javascript / Java
+-   TypeORM / MySQL / Postgres / MongoDB / Redis
 -   Prisma
 -   Testes com Jest
 -   VueJs
@@ -43,9 +43,11 @@ Colaborativo, nos últimos anos, dedicado exclusivamente no aprendizado e aperfe
 
 <hr>
 
-### Projetos em destaque
+### Repositórios em destaque
 
 👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Backend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis). (em andamento)<br />
+
+👉 <a href="https://github.com/venzel/auth-nest">Auth-nest</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest, Mocks. (finalizado)<br />
 
 👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. (finalizado)<br />
 
@@ -56,17 +58,27 @@ Colaborativo, nos últimos anos, dedicado exclusivamente no aprendizado e aperfe
 ### Estudos de caso
 
 👉 <a href="https://github.com/venzel/tenis">Tênis</a> - Simulação de partidas de tênis, utilizando o NestJs, JWT, MongoDB, Microserviços, RabbitMQ, Cloud (AWS e SAP). (em andamento)<br />
-👉 <a href="https://github.com/venzel/auth-nest">Auth</a> - Autenticação e autorização com NestJs, TypeORM, JWT, Interceptors, Logger. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/nodejs-prisma">NodeJs + Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Feature by package e Teste unitário com o Jest. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/vuex">Vuex</a> - Estudo de caso utilizando o estado centralizado (vuex). (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/series-tv-backend">Séries de tv</a> - Estudo de caso de um fullstack em Spring Boot + Angular 12. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/crud-axios-vue">VueJs + Axios</a> - Crud básico utilizando o VueJs e axios. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJs, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/modelagem_entidade">Modelgem de entidade</a> - Estudo caso **Domain Model**. Modelagem de uma entidade em Java, utilizando práticas do DDD. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJs. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/deploy_codeship">Deploy Codeship</a> - Estudo de caso de integração continua nos serviços da Codeship. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/create_releases">Create releases</a> - Estudo de caso de criaçao de releases automatizadas no Github. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/mongo_spring">Mongo & Spring Boot</a> - Estudo de caso de uma api Spring Boot + MongoDB. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Estudo de caso de uma agenda de contatos desenvolvida em Java com servelets. (finalizado)<br />
 
 <hr>
@@ -143,17 +155,17 @@ Colaborativo, nos últimos anos, dedicado exclusivamente no aprendizado e aperfe
 
 Os autores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
--   Rocketseat **(Stack backend NodeJs)**
+-   Fernando Daciuk **(Javascript e Git avançado)**
 -   Leonardo Moura **(VueJs, Docker, Typescript e GraphQL)**
 -   Matheus Battisti **(Docker, Kubernetes e VueJs)**
 -   Nélio Alves **(Spring Boot)**
 -   AlgaWorks **(Spring Boot e Angular)**
--   Fernando Daciuk **(Javascript e Git avançado)**
 -   Otávio Augusto Gallego **(GoLang)**
 -   Ellen körbes **(GoLang)**
 -   Otávio Lemos **(Arquitetura e TDD com Typescript)**
 -   Ruan Delgado **(Algoritmos e dicas de estudo)**
 -   Fábio Akita **(Dicas de estudo Pragmático)**
+-   Rocketseat **(Stack backend NodeJs)**
 -   Henrique Cunha **(Algoritmos)**
 -   César Vasconcelos **(Java)**
 -   Otávio Miranda **(Padões de projeto com Typescript)**
