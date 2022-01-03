@@ -57,6 +57,8 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ### Estudos de caso
 
+👉 <a href="https://github.com/venzel/nestjs-with-prisma">NestJs com Prisma</a> - API Rest utilizando o NestJs com Prisma, Swagger, Postgres, Docker compose, Seed, Validators, Transformers, Pagination, Prisma Exception Handling e Logger. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/tenis">Tênis</a> - Simulação de partidas de tênis, utilizando o NestJs, JWT, MongoDB, Microserviços, RabbitMQ, Cloud (AWS e SAP). (em andamento)<br />
 
 👉 <a href="https://github.com/venzel/nodejs-prisma">NodeJs + Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Feature by package e Teste unitário com o Jest. (finalizado)<br />
