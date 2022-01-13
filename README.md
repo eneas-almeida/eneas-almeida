@@ -45,6 +45,8 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ### Repositórios em destaque
 
+👉 <a href="https://github.com/venzel/api-evasao-escolar-nestjs">API Evasão Escolar</a> - Backend desenvolvido com Typescript, NestJs, TypeORM e Postgres. (finalizado, em produção)<br />
+
 👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Backend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis). (em andamento)<br />
 
 👉 <a href="https://github.com/venzel/auth-nest">Auth-nest</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest, Mocks. (finalizado)<br />
