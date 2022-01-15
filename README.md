@@ -53,6 +53,8 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. (finalizado)<br />
 
+👉 <a href="https://github.com/venzel/oraculo">Oráculo</a> - Frontend desenvolvido em html, javascript e JQuery para empresa cliente. (finalizado)<br />
+
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários, MVC desenvolvido em C# com Microsoft SQL. Atuei como líder de equipe, como também nas partes de frontend e dba MS SQL. (finalizado)<br />
 
 👉 <a href="https://github.com/venzel/todo-vue">Todo List</a> - Lista de tarefas com VueJs. Utilizado em meu dia a dia. (finalizado)<br />
