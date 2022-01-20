@@ -45,33 +45,35 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ### Repositórios em destaque
 
-👉 <a href="https://github.com/venzel/api-evasao-escolar-nestjs">API Evasão Escolar</a> - Backend desenvolvido com Typescript, NestJs, TypeORM e Postgres. (finalizado, em produção)<br />
+👉 <a href="https://github.com/venzel/api-evasao-escolar-nestjs">API Rest Evasão Escolar</a> - Backend desenvolvido com Typescript, NestJs, TypeORM e Postgres. (finalizado, online em produção)<br />
 
-👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Backend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis). (em andamento)<br />
+👉 <a href="https://github.com/venzel/api-tindin">API Rest Tindin</a> - API em NodeJS, utilizando banco de dados MongoDB (TypeORM), com cobertura de testes (coverages), utilizando o Jest. (finalizado, online)<br />
 
-👉 <a href="https://github.com/venzel/auth-nest">Auth-nest</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest, Mocks. (finalizado)<br />
+👉 <a href="https://github.com/venzel/bekid-backend">API Rest Bekid</a> - Aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Backend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis). (em andamento)<br />
 
-👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. (finalizado)<br />
+👉 <a href="https://github.com/venzel/auth-nest">API Rest SigIn/SigUp</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest, Mocks. (finalizado)<br />
+
+👉 <a href="https://github.com/venzel/bestore">API Rest Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. (finalizado)<br />
 
 👉 <a href="https://github.com/venzel/oraculo">Oráculo</a> - Frontend desenvolvido em html, javascript e JQuery para empresa cliente. (finalizado)<br />
 
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários, MVC desenvolvido em C# com Microsoft SQL. Atuei como líder de equipe, como também nas partes de frontend e dba MS SQL. (finalizado)<br />
 
-👉 <a href="https://github.com/venzel/todo-vue">Todo List</a> - Lista de tarefas com VueJs. Utilizado em meu dia a dia. (finalizado)<br />
+👉 <a href="https://github.com/venzel/todo-vue">Todo List</a> - Frontend. Lista de tarefas com VueJs. Utilizado em meu dia a dia. (finalizado)<br />
 
 ### Estudos de caso
 
-👉 <a href="https://github.com/venzel/nestjs-with-prisma">NestJs com Prisma</a> - API Rest utilizando o NestJs com Prisma, Swagger, Postgres, Docker compose, Seed, Validators, Transformers, Pagination, Prisma Exception Handling e Logger. (finalizado)<br />
+👉 <a href="https://github.com/venzel/nestjs-with-prisma">API Rest NestJs com Prisma</a> - API Rest utilizando o NestJs com Prisma, Swagger, Postgres, Docker compose, Seed, Validators, Transformers, Pagination, Prisma Exception Handling e Logger. (finalizado)<br />
 
-👉 <a href="https://github.com/venzel/tenis">Tênis</a> - Simulação de partidas de tênis, utilizando o NestJs, JWT, MongoDB, Microserviços, RabbitMQ, Cloud (AWS e SAP). (em andamento)<br />
+👉 <a href="https://github.com/venzel/tenis">API Rest Tênis</a> - Simulação de partidas de tênis, utilizando o NestJs, JWT, MongoDB, Microserviços, RabbitMQ, Cloud (AWS e SAP). (em andamento)<br />
 
-👉 <a href="https://github.com/venzel/nodejs-prisma">NodeJs + Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Feature by package e Teste unitário com o Jest. (finalizado)<br />
+👉 <a href="https://github.com/venzel/nodejs-prisma">API Rest NodeJs com Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Feature by package e Teste unitário com o Jest. (finalizado)<br />
 
-👉 <a href="https://github.com/venzel/vuex">Vuex</a> - Estudo de caso utilizando o estado centralizado (vuex). (finalizado)<br />
+👉 <a href="https://github.com/venzel/vuex">Vuex</a> - Frontend. Estudo de caso utilizando o estado centralizado (vuex). (finalizado)<br />
 
-👉 <a href="https://github.com/venzel/series-tv-backend">Séries de tv</a> - Estudo de caso de um fullstack em Spring Boot + Angular 12. (finalizado)<br />
+👉 <a href="https://github.com/venzel/series-tv-backend">Séries TV</a> - FullStack. Estudo de caso de um fullstack em Spring Boot + Angular 12. (finalizado)<br />
 
-👉 <a href="https://github.com/venzel/crud-axios-vue">VueJs + Axios</a> - Crud básico utilizando o VueJs e axios. (finalizado)<br />
+👉 <a href="https://github.com/venzel/crud-axios-vue">VueJs + Axios</a> - Frontend. Crud básico utilizando o VueJs e axios. (finalizado)<br />
 
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJs, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa. (finalizado)<br />
 
@@ -83,9 +85,9 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/create_releases">Create releases</a> - Estudo de caso de criaçao de releases automatizadas no Github. (finalizado)<br />
 
-👉 <a href="https://github.com/venzel/mongo_spring">Mongo & Spring Boot</a> - Estudo de caso de uma api Spring Boot + MongoDB. (finalizado)<br />
+👉 <a href="https://github.com/venzel/mongo_spring">API Rest Spring Boot com MongoDB</a> - Estudo de caso de uma api Spring Boot + MongoDB. (finalizado)<br />
 
-👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Estudo de caso de uma agenda de contatos desenvolvida em Java com servelets. (finalizado)<br />
+👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Servlets em Java. Estudo de caso de uma agenda de contatos. (finalizado)<br />
 
 <hr>
 
