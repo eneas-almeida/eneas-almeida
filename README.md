@@ -67,19 +67,13 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ### Estudos de casos
 
-👉 <a href="https://github.com/venzel/todo-vue">Todo List</a> - Lista de tarefas com VueJs. Utilizado em meu dia a dia. **(finalizado)**<br />
-
 👉 <a href="https://github.com/venzel/auth-nest">API Rest SigIn/SigUp</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest, Mocks. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/nestjs-with-prisma">API Rest NestJs com Prisma</a> - API Rest utilizando o NestJs com Prisma, Swagger, Postgres, Docker compose, Seed, Validators, Transformers, Pagination, Prisma Exception Handling e Logger. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/nodejs-prisma">API Rest NodeJs com Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Feature by package e Teste unitário com o Jest. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/vuex">Vuex</a> - Frontend. Estudo de caso utilizando o estado centralizado (vuex). (finalizado)<br />
-
 👉 <a href="https://github.com/venzel/series-tv-backend">Séries TV</a> - FullStack. Estudo de caso de um fullstack em Spring Boot + Angular 12. **(finalizado)**<br />
-
-👉 <a href="https://github.com/venzel/crud-axios-vue">VueJs + Axios</a> - Frontend. Crud básico utilizando o VueJs e axios. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJs, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa. **(finalizado)**<br />
 
@@ -94,6 +88,28 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 👉 <a href="https://github.com/venzel/mongo_spring">API Rest Spring Boot com MongoDB</a> - Estudo de caso de uma api Spring Boot + MongoDB. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Servlets em Java. Estudo de caso de uma agenda de contatos. **(finalizado)**<br />
+
+### VueJs
+
+👉 <a href="https://github.com/venzel/vuejs_form">VueJs Form</a> - Estudo sobre forms. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_route">VueJs Route</a> - Estudo sobre route. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_props">VueJs Props</a> - Estudo sobre props. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_slots">VueJs Slots</a> - Estudo sobre slots. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_component_dinamic">VueJs Component Dinamic</a> - Estudo sobre componentes dinâmicos. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_vuex">VueJs Vuex</a> - Estudo sobre o estado compartilhado vuex. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_vuex_v2">VueJs Vuex v2</a> - Estudo sobre o estado compartilhado vuex v2. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_axios">VueJs Axios</a> - Estudo sobre o vuejs com o axios. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_todo">Vuejs Todo</a> - Caso de estudo de um todo de tarefas. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_burguer">Vuejs Burguer</a> - Caso de estudo de venda de hamburguers. **(finalizado)**<br />
 
 <hr>
 
