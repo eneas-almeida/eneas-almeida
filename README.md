@@ -107,7 +107,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/vuejs_axios">VueJs Axios</a> - Estudo sobre o vuejs com o axios. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/vuejs_todo">Vuejs Todo</a> - Estudo de caso de um todo de tarefas. **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/vuejs_todo">Vuejs Todo + Localstorage</a> - Estudo de caso de um todo de tarefas. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_burguer">Vuejs Burguer</a> - Estudo de caso de venda de hamburguers. **(finalizado)**<br />
 
