@@ -32,7 +32,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 -   <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação monolítica, fullstack com NodeJs no backend e VueJs no frontend. (em andamento)<br />
 
--   <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação para caso de uso de uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. (em andamento)
+-   <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação para caso de uso de uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. (pausado)
 
 ## 📜 Na fila de estudos...
 
@@ -57,7 +57,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Backend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis). **(em andamento)**<br />
 
-👉 <a href="https://github.com/venzel/tenis">Placar Tênis</a> - Aplicação de simulação do placar de partidas de tênis, utilizando o NestJs, JWT, MongoDB, Microserviços, RabbitMQ, Cloud (AWS e SAP). **(em andamento)**<br />
+👉 <a href="https://github.com/venzel/tenis">Placar Tênis</a> - Aplicação de simulação do placar de partidas de tênis, utilizando o NestJs, JWT, MongoDB, Microserviços, RabbitMQ, Cloud (AWS e SAP). **(pausado)**<br />
 
 ### Trabalhos antigos
 
@@ -90,6 +90,8 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Servlets em Java. Estudo de caso de uma agenda de contatos. **(finalizado)**<br />
 
 ### VueJs
+
+👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. **(em andamento)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_form">VueJs Form</a> - Estudo sobre forms. **(finalizado)**<br />
 
