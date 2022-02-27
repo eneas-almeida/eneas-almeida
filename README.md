@@ -111,7 +111,9 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/vuejs_burguer">Vuejs Burguer</a> - Estudo de caso de venda de hamburguers. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/vuejs_props_by_copy">Vuejs Refs By Copy</a> - Estudo sobre passagem por cópia e por referência.  **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/vuejs_props_by_copy">Vuejs Refs By Copy</a> - Estudo sobre passagem por cópia e por referência. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_css">Vuejs CSS</a> - Estudo sobre css. **(finalizado)**<br />
 
 ### HTML + CSS
 
