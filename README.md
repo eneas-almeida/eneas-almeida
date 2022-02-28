@@ -91,7 +91,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ### VueJs
 
-👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. **(em andamento)**<br />
+👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. **(PRIVATE) (em andamento)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_form">VueJs Form</a> - Estudo sobre forms. **(finalizado)**<br />
 
