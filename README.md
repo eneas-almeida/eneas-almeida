@@ -93,6 +93,8 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. **(PRIVADO) (em andamento)**<br />
 
+👉 <a href="https://github.com/venzel/vuejs_object_change">VueJs Object Change</a> - Estudos de como alterar, deletar propriedades e realizar cópias de objetos. **(finalizado)**<br />
+
 👉 <a href="https://github.com/venzel/vuejs_form">VueJs Form</a> - Estudo sobre forms. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_route">VueJs Route</a> - Estudo sobre route. **(finalizado)**<br />
