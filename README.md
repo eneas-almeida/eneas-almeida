@@ -117,6 +117,8 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/vuejs_css">Vuejs CSS</a> - Estudo sobre css. **(finalizado)**<br />
 
+👉 <a href="https://github.com/venzel/vuejs_mixins">Vuejs Mixins</a> - Estudo sobre mixins. **(finalizado)**<br />
+
 ### HTML + CSS
 
 👉 <a href="https://github.com/venzel/css-grid-layout">CSS Grid Layout</a> - Estudo de caso de utilização de grid layout. **(finalizado)**<br />
