@@ -117,6 +117,8 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/vuejs_css">Vuejs CSS</a> - Estudo sobre css. **(finalizado)**<br />
 
+👉 <a href="https://github.com/venzel/vuejs_filters">Vuejs Filters</a> - Estudo sobre filters. **(finalizado)**<br />
+
 👉 <a href="https://github.com/venzel/vuejs_mixins">Vuejs Mixins</a> - Estudo sobre mixins. **(finalizado)**<br />
 
 ### HTML + CSS
