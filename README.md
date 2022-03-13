@@ -30,15 +30,13 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ## ❤️ Focado desenvolvendo...
 
--   <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação monolítica, fullstack com NodeJs no backend e VueJs no frontend. (em andamento)<br />
+👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação monolítica, fullstack com NodeJs no backend e VueJs no frontend. **(Em andamento)**<br />
 
--   <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação para caso de uso de uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. (pausado)
-
-## 📜 Na fila de estudos...
+## 📜 Estudando...
 
 -   Microserviços
 -   RabbitMQ
--   Kubernetes
+-   Cognito
 -   GraphQL
 
 <hr>
@@ -67,7 +65,11 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ### Estudos de casos
 
-👉 <a href="https://github.com/venzel/auth-nest">API Rest SigIn/SigUp</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest, Mocks. **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/nestjs-rabbitmq-microservices">NestJs RabbitMq Microservices</a> - Autenticação, autorização, TypeORM, Postgres, JWT, Interceptors, Logger, Jest, Docker, Microserviços, Cognito, RabbitMq, NestJs, Upload. **(Em andamento)**<br />
+
+👉 <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação para caso de uso de uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(Pausado)**
+
+👉 <a href="https://github.com/venzel/auth-nest">API Rest SigIn/SigUp</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/nestjs-with-prisma">API Rest NestJs com Prisma</a> - API Rest utilizando o NestJs com Prisma, Swagger, Postgres, Docker compose, Seed, Validators, Transformers, Pagination, Prisma Exception Handling e Logger. **(finalizado)**<br />
 
