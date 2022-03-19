@@ -234,3 +234,7 @@ Os autores citados abaixo são fontes de referências em minha jornada de estudo
 -   Rodrigo Branas **(Javascript)**
 -   Jonathan Baraldi **(DevOps com Rancher, AWS e GCP)**
 -   Codar.me **(NodeJs)**
+-   DFS Training **(NestJs & Microserviços)**
+-   Plínio Naves **(VueJs & Vuetify)**
+-   Victor Hugo Negrisoli **(Microserviços)**
+-   Loiane Groner **(Estrutura de dados - Javascript)**
