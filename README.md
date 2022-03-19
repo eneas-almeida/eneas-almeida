@@ -20,12 +20,12 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ## 🔥 Focado nas tecnologias...
 
--   NodeJs / NestJs / Spring Boot
--   Typescript / Javascript / Java
+-   NodeJs / NestJs
+-   Typescript / Javascript
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
--   Prisma
+-   Microserviços com NestJs e RabbitMq
 -   Testes com Jest
--   VueJs
+-   **VueJs** 🔥🔥🔥
 -   Docker
 
 ## ❤️ Focado desenvolvendo...
