@@ -189,6 +189,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ### Outros
 
+-   Metodologias ágeis
 -   SysAdmin (Ambiente linux)
 -   Git / Gitflow / Conventional Commit
 -   UML
