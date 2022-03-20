@@ -1,8 +1,8 @@
 ## 👋 Olá, meu nome é Enéas Almeida (nickname: Venzel)
 
-Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022). Pré concluinte.
+Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022).
 
-👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a>
+👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />
 
 ## Sobre
 
@@ -20,7 +20,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ## 🔥 Focado nas tecnologias...
 
--   NodeJs / NestJs
+-   NodeJs / NestJs 🔥
 -   Typescript / Javascript
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
 -   Microserviços com NestJs e RabbitMq
@@ -67,7 +67,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/nestjs-rabbitmq-microservices">NestJs RabbitMq Microservices</a> - Autenticação, autorização, TypeORM, Postgres, JWT, Interceptors, Logger, Jest, Docker, Microserviços, Cognito, RabbitMq, NestJs, Upload. **(Em andamento)**<br />
 
-👉 <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação para caso de uso de uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(Pausado)**
+👉 <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação em uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(Pausado)**
 
 👉 <a href="https://github.com/venzel/auth-nest">API Rest SigIn/SigUp</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest. **(finalizado)**<br />
 
@@ -79,11 +79,11 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJs, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/modelagem_entidade">Modelgem de entidade</a> - Estudo caso **Domain Model**. Modelagem de uma entidade em Java, utilizando práticas do DDD. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente. **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/modelagem_entidade">Modelgem de entidade (Tiny)</a> - Modelagem de uma entidade em Java, utilizando **Tiny**. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJs. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/deploy_codeship">Deploy Codeship</a> - Estudo de caso de integração continua nos serviços da Codeship. **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/deploy_codeship">Deploy em QA e Produção</a> - Estudo de caso de integração continua nos serviços da **Codeship**, deploiando em QA e em produção. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/create_releases">Create releases</a> - Estudo de caso de criaçao de releases automatizadas no Github. **(finalizado)**<br />
 
@@ -154,7 +154,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
   <img src="./images/jest.svg" alt="Jest" title="Jest" width="30" height="30" />
 </p>
 
--   NodeJs / Express / NestJs
+-   NodeJs/Express / NestJs 🔥🔥🔥
 -   Typescript / Javascript
 -   TypeORM / Postgres / MongoDB / Redis
 -   Prisma
@@ -172,7 +172,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ### Arquitetura de software
 
--   **Feature by Package** (Simplificação de uma estrutura DDD. Utilizado em meus projetos)
+-   **Feature by Package**
 -   **MVC**
 
 ### Frontend
@@ -203,10 +203,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ### Interesses futuros
 
--   React
 -   Desenvolvimento mobile
--   Infra com Rancher
--   Golang
 
 <hr>
 
