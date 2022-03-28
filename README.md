@@ -30,6 +30,8 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ## ❤️ Focado desenvolvendo...
 
+👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> - MyPoint é um sistema de registro de pontos de funcionários, utilizando filas com o RabbitMq. **(Em andamento)**<br />
+
 👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação monolítica, fullstack com NodeJs no backend e VueJs no frontend. **(Em andamento)**<br />
 
 ## 📜 Estudando...
@@ -64,8 +66,6 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários. MVC desenvolvido em C# com Microsoft SQL. (finalizado)<br />
 
 ### Estudos de casos
-
-👉 <a href="https://github.com/venzel/nestjs-rabbitmq-microservices">NestJs RabbitMq Microservices</a> - Autenticação, autorização, TypeORM, Postgres, JWT, Interceptors, Logger, Jest, Docker, Microserviços, Cognito, RabbitMq, NestJs, Upload. **(Em andamento)**<br />
 
 👉 <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação em uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(Pausado)**
 
