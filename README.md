@@ -30,9 +30,9 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 ## ❤️ Focado desenvolvendo...
 
-👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> - MyPoint é um sistema de registro de pontos de funcionários, utilizando filas com o RabbitMq. **(Em andamento)**<br />
+👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> - MyPoint é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs e VueJs. **(Em andamento)**<br />
 
-👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação monolítica, fullstack com NodeJs no backend e VueJs no frontend. **(Em andamento)**<br />
+👉 <a href="https://github.com/venzel/bekid">Bekid</a> - BeKid é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(Em andamento)**<br />
 
 ## 📜 Estudando...
 
