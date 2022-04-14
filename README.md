@@ -1,12 +1,13 @@
-## 👋 Olá, meu nome é Enéas Almeida (nickname: Venzel)
+# 👋 Enéas Almeida (Venzel)
 
-Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022).
+Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022). Engenheiro de Software Senior na <a href="https://www.indracompany.com">Indra Company</a>.
 
 👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />
+👉 <a href="https://venzel.com.br">Venzel</a>
 
 ## Sobre
 
-Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusivamente no aprendizado e aperfeiçoamento em Engenharia e Arquitetura de Software, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_ e _Test-Driven Development_ com **NodeJs**, **NestJs**, **Spring Boot**, **VueJs** e **Angular**.
+Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exclusivamente no aprendizado e aperfeiçoamento em Engenharia e Arquitetura de Software, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_ e _Test-Driven Development_ com **NodeJs**, **NestJs**, **Spring Boot**, **VueJs** e **Angular**.
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJs" title="NodeJs" height="45" /> 
@@ -23,16 +24,16 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 -   NodeJs / NestJs 🔥
 -   Typescript / Javascript
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
--   Microserviços com NestJs e RabbitMq
+-   Microserviços com NestJs e RabbitMq 🔥
 -   Testes com Jest
 -   **VueJs** 🔥🔥🔥
 -   Docker
 
 ## ❤️ Focado desenvolvendo...
 
-👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> - MyPoint é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs e VueJs. **(Em andamento)**<br />
+👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs e VueJs. **(Em andamento)**<br />
 
-👉 <a href="https://github.com/venzel/bekid">Bekid</a> - BeKid é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(Em andamento)**<br />
+👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(Em andamento)**<br />
 
 ## 📜 Estudando...
 
@@ -43,9 +44,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 <hr>
 
-## Meus repositórios
-
-### APIs mais recentes
+## APIs mais recentes
 
 👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
 
@@ -55,17 +54,15 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/api-places-to-know">Places to Know</a> - Desenvolvida em NodeJs, com objetivo de gerar um banco de dados de fotos de locais pelo mundo. Os detalhes do projeto são a integração com uma API externa, criação de uma busca com filtro e paginação. **(finalizado, online)**<br />
 
-👉 <a href="https://github.com/venzel/bekid-backend">Bekid</a> - Aplicação de mapeamento de emoções para o auxílio no combate ao bullying escolar. Backend API REST em Typescript, NodeJs e TypeORM (Postgres, MongoDB e Redis). **(em andamento)**<br />
-
 👉 <a href="https://github.com/venzel/tenis">Placar Tênis</a> - Aplicação de simulação do placar de partidas de tênis, utilizando o NestJs, JWT, MongoDB, Microserviços, RabbitMQ, Cloud (AWS e SAP). **(pausado)**<br />
 
-### Trabalhos antigos
+## Trabalhos antigos
 
 👉 <a href="https://github.com/venzel/oraculo">Oráculo</a> - Sistema de gerenciamento financeiro. Frontend desenvolvido em html, javascript e JQuery para empresa cliente. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários. MVC desenvolvido em C# com Microsoft SQL. (finalizado)<br />
 
-### Estudos de casos
+## Estudos de casos
 
 👉 <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação em uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(Pausado)**
 
@@ -81,7 +78,7 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/modelagem_entidade">Modelgem de entidade (Tiny)</a> - Modelagem de uma entidade em Java, utilizando **Tiny**. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJs. **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/teste_exaustao">Teste Exaustão (JMeter)</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJs. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/deploy_codeship">Deploy em QA e Produção</a> - Estudo de caso de integração continua nos serviços da **Codeship**, deploiando em QA e em produção. **(finalizado)**<br />
 
@@ -91,9 +88,9 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Servlets em Java. Estudo de caso de uma agenda de contatos. **(finalizado)**<br />
 
-### VueJs
+## VueJs
 
-👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. **(PRIVADO) (em andamento)**<br />
+👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. 🔒 (privado) **(em andamento)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_geral">VueJs Geral</a> - Estudos gerais. **(em andamento)**<br />
 
@@ -129,15 +126,15 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 👉 <a href="https://github.com/venzel/vuejs_mixins">Vuejs Mixins</a> - Estudo sobre mixins. **(finalizado)**<br />
 
-### Javascript
+## Javascript
 
 👉 <a href="https://github.com/venzel/javascript">Javascript</a> - Repositório com códigos desenvolvidos e casos de estudos da tecnologia. **(em andamento)**<br />
 
-### HTML + CSS
+## HTML + CSS
 
 👉 <a href="https://github.com/venzel/css-grid-layout">CSS Grid Layout</a> - Estudo de caso de utilização de grid layout. **(finalizado)**<br />
 
-### Acadêmico
+## Acadêmico
 
 👉 <a href="https://github.com/venzel/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br />
 
@@ -173,11 +170,6 @@ Desde 2002 atuando como desenvolvedor web, nos últimos anos, dedicado exclusiva
 
 -   Java / Spring Boot / JPA / Hibernate
 -   MySQL / MongoDB
-
-### Arquitetura de software
-
--   **Feature by Package**
--   **MVC**
 
 ### Frontend
 
