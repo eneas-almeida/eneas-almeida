@@ -1,6 +1,6 @@
 # 👋 Enéas Almeida (Venzel)
 
-Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022). Engenheiro de Software Senior na <a href="https://www.indracompany.com">Indra Company</a>.
+Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022). Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra Company</a>.
 
 👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />
 👉 <a href="https://venzel.com.br">Venzel</a>
@@ -89,6 +89,8 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 👉 <a href="https://github.com/venzel/agenda_contatos">Agenda de contatos</a> - Servlets em Java. Estudo de caso de uma agenda de contatos. **(finalizado)**<br />
 
 ## VueJs
+
+👉 <a href="https://github.com/venzel/vuejs_upload_xsl">Upload XSL</a> - Estudo sobre upload de arquivos .xsl com vuetify. 🔒 (privado) **(em andamento)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. 🔒 (privado) **(em andamento)**<br />
 
