@@ -140,7 +140,7 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 👉 <a href="https://github.com/venzel/javascript/blob/master/codes/mapEnumObjects.js">MAP Enum</a> - Técnica que utilizo para eliminar grandes quantidades de IFs no sistema. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/javascript/code">Todos os scripts</a> **(em andamento)**<br />
+👉 <a href="https://github.com/venzel/javascript/tree/master/codes">Todos os scripts</a> **(em andamento)**<br />
 
 ## HTML + CSS
 
