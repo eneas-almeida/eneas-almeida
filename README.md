@@ -68,6 +68,18 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 👉 <a href="https://github.com/venzel/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />
 
+## Javascript
+
+### 3 últimos algoritimos desenvolvidos
+
+👉 <a href="https://github.com/venzel/javascript/blob/master/codes/parseDTO.js">Parse DTO</a> - Transforma as propriedades de um objeto de Camel Case para Snake Case. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/javascript/blob/master/codes/fIlterPropertiesInArrayObjects.js">Filter Properties</a> - Filtra as propriedades de um objeto, passando um array indicando os propriedades a serem removidas. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/javascript/blob/master/codes/mapEnumObjects.js">MAP Enum</a> - Técnica que utilizo para eliminar grandes quantidades de IFs no sistema. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/javascript/tree/master/codes">Todos os scripts</a> **(em andamento)**<br />
+
 ## Estudos de casos
 
 👉 <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação em uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(Pausado)**
@@ -135,18 +147,6 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 👉 <a href="https://github.com/venzel/vuejs_filters">Vuejs Filters</a> - Estudo sobre filters. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_mixins">Vuejs Mixins</a> - Estudo sobre mixins. **(finalizado)**<br />
-
-## Javascript
-
-### 3 últimos algoritimos desenvolvidos
-
-👉 <a href="https://github.com/venzel/javascript/blob/master/codes/parseDTO.js">Parse DTO</a> - Transforma as propriedades de um objeto de Camel Case para Snake Case. **(finalizado)**<br />
-
-👉 <a href="https://github.com/venzel/javascript/blob/master/codes/fIlterPropertiesInArrayObjects.js">Filter Properties</a> - Filtra as propriedades de um objeto, passando um array indicando os propriedades a serem removidas. **(finalizado)**<br />
-
-👉 <a href="https://github.com/venzel/javascript/blob/master/codes/mapEnumObjects.js">MAP Enum</a> - Técnica que utilizo para eliminar grandes quantidades de IFs no sistema. **(finalizado)**<br />
-
-👉 <a href="https://github.com/venzel/javascript/tree/master/codes">Todos os scripts</a> **(em andamento)**<br />
 
 ## HTML + CSS
 
