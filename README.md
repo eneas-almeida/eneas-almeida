@@ -132,7 +132,7 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 ## Javascript
 
-### 3 últimos algorítimos desenvolvidos
+### 3 últimos algoritimos desenvolvidos
 
 👉 <a href="https://github.com/venzel/javascript/blob/master/codes/parseDTO.js">Parse DTO</a> - Transforma as propriedades de um objeto de Camel Case para Snake Case. **(finalizado)**<br />
 
