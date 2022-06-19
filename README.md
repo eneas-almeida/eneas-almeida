@@ -62,6 +62,12 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários. MVC desenvolvido em C# com Microsoft SQL. **(finalizado)**<br />
 
+## Acadêmico
+
+👉 <a href="https://github.com/venzel/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />
+
 ## Estudos de casos
 
 👉 <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação em uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(Pausado)**
@@ -145,12 +151,6 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 ## HTML + CSS
 
 👉 <a href="https://github.com/venzel/css-grid-layout">CSS Grid Layout</a> - Estudo de caso de utilização de grid layout. **(finalizado)**<br />
-
-## Acadêmico
-
-👉 <a href="https://github.com/venzel/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br />
-
-👉 <a href="https://github.com/venzel/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />
 
 <hr>
 
