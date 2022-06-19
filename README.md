@@ -42,6 +42,15 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 -   Cognito
 -   GraphQL
 
+## Método que aperfeiçoei nas requisições do NodeJs
+
+<p align="center">
+  <img src="./images/usecase.png" alt="Use case" title="Use case" />
+</p>
+
+👉 <a href="https://github.com/venzel/api-places-to-know/tree/master/src/modules/places/useCases/CreatePlace
+">Código de exemplo</a>
+
 <hr>
 
 ## APIs mais recentes
