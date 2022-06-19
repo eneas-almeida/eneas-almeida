@@ -132,7 +132,15 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 ## Javascript
 
-👉 <a href="https://github.com/venzel/javascript">Javascript</a> - Repositório com códigos desenvolvidos e casos de estudos da tecnologia. **(em andamento)**<br />
+### 3 últimos algorítimos desenvolvidos
+
+👉 <a href="https://github.com/venzel/javascript/blob/master/codes/parseDTO.js">Parse DTO</a> - Transforma as propriedades de um objeto de Camel Case para Snake Case. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/javascript/blob/master/codes/fIlterPropertiesInArrayObjects.js">Filter Properties</a> - Filtra as propriedades de um objeto, passando um array indicando os propriedades a serem removidas. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/javascript/blob/master/codes/mapEnumObjects.js">MAP Enum</a> - Técnica que utilizo para eliminar grandes quantidades de IFs no sistema. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/javascript/code">Todos os scripts</a> **(em andamento)**<br />
 
 ## HTML + CSS
 
