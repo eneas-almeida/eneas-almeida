@@ -3,7 +3,7 @@
 Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra Company</a>. Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022).
 
 👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />
-👉 <a href="https://venzel.com.br">Venzel</a>
+👉 <a href="https://venzel.com.br">Site pessoal</a>
 
 ## Sobre
 
