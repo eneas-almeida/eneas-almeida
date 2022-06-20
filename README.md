@@ -42,7 +42,7 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 -   Cognito
 -   GraphQL
 
-## Método que aperfeiçoei nas requisições do NodeJs
+## Metodologia desenvolvida com NodeJs
 
 <p align="center">
   <img src="./images/usecase.png" alt="Use case" title="Use case" />
