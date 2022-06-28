@@ -22,7 +22,7 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 ## 🔥 Focado nas tecnologias...
 
 -   NodeJs / NestJs 🔥
--   Typescript / Javascript
+-   Typescript / Javascript 🔥
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
 -   Microserviços com NestJs e RabbitMq 🔥
 -   Testes com Jest
@@ -97,7 +97,7 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 👉 <a href="https://github.com/venzel/nestjs-with-prisma">API Rest NestJs com Prisma</a> - API Rest utilizando o NestJs com Prisma, Swagger, Postgres, Docker compose, Seed, Validators, Transformers, Pagination, Prisma Exception Handling e Logger. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/nodejs-prisma">API Rest NodeJs com Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Feature by package e Teste unitário com o Jest. **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/nodejs-prisma">API Rest NodeJs com Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Package by Feature e Teste unitário com o Jest. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/series-tv-backend">Séries TV</a> - FullStack. Estudo de caso de um fullstack em Spring Boot + Angular 12. **(finalizado)**<br />
 
@@ -165,6 +165,11 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 ## Áreas de conhecimento
 
+### Arquiteturas
+
+-   Onion
+-   Package by Feature
+
 ### Stack NodeJs
 
 <p align="left">
@@ -180,6 +185,7 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 -   Typescript / Javascript
 -   TypeORM / Postgres / MongoDB / Redis
 -   Prisma
+-   GraphQL
 -   Testes com Jest
 
 ### Stack Spring Boot
@@ -190,7 +196,7 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 </p>
 
 -   Java / Spring Boot / JPA / Hibernate
--   MySQL / MongoDB
+-   MySQL / Postgres/ MongoDB
 
 ### Frontend
 
@@ -202,13 +208,14 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 -   Axios
 -   HTML
 -   LESS/CSS
+-   JQuery
 -   Typescript/Javascript
 
 ### Outros
 
 -   Metodologias ágeis
 -   SysAdmin (Ambiente linux)
--   Git / Gitflow / Conventional Commit
+-   Git / Gitflow / Conventional Commit (Github, GitLab, BitBucket)
 -   UML
 -   Desenho de telas (Illustrator)
 -   Deploy (CI-CD - Budy Works, CodeShip)
@@ -220,7 +227,8 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 ### Interesses futuros
 
--   Desenvolvimento mobile
+-   Golang
+-   C#
 
 <hr>
 
