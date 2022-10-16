@@ -119,6 +119,8 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 👉 <a href="https://github.com/venzel/vuejs_upload_xsl">VueJs Upload XSL</a> - Estudo sobre upload de arquivos .xsl com vuetify. 🔒 (privado) **(Finalizado)**<br />
 
+👉 <a href="https://github.com/venzel/vuejs_checkbox">VueJs Checkbox</a> - Checkbox select com vuetify. **(Finalizado)**<br />
+
 👉 <a href="https://github.com/venzel/vuejs_select_all">VueJs Select All</a> - Select all com vuetify. **(Finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. 🔒 (privado) **(em andamento)**<br />
