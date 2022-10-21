@@ -117,15 +117,17 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 ## VueJs
 
-👉 <a href="https://github.com/venzel/vuejs_upload_xsl">VueJs Upload XSL</a> - Estudo sobre upload de arquivos .xsl com vuetify. 🔒 (privado) **(Finalizado)**<br />
+👉 <a href="https://github.com/venzel/vuejs_tests">VueJs Tests</a> - Estudo sobre testes com jest e vuetify. **(em andamento)**<br />
 
-👉 <a href="https://github.com/venzel/vuejs_checkbox">VueJs Checkbox</a> - Checkbox select com vuetify. **(Finalizado)**<br />
+👉 <a href="https://github.com/venzel/vuejs_upload_xsl">VueJs Upload XSL</a> - Estudo sobre upload de arquivos .xsl com vuetify. 🔒 (privado) **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/vuejs_select_all">VueJs Select All</a> - Select all com vuetify. **(Finalizado)**<br />
+👉 <a href="https://github.com/venzel/vuejs_checkbox">VueJs Checkbox</a> - Checkbox select com vuetify. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. 🔒 (privado) **(em andamento)**<br />
+👉 <a href="https://github.com/venzel/vuejs_select_all">VueJs Select All</a> - Select all com vuetify. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/vuejs_geral">VueJs Geral</a> - Estudos gerais. **(Finalizado)**<br />
+👉 <a href="https://github.com/venzel/vuejs_vuetify">VueJs Vuetify</a> - Estudo sobre vuetify. 🔒 (privado) **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/vuejs_geral">VueJs Geral</a> - Estudos gerais. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_object_change">VueJs Object Change</a> - Estudos de como alterar, deletar propriedades e realizar cópias de objetos. **(finalizado)**<br />
 
