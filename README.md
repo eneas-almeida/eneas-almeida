@@ -92,7 +92,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 ### 4 últimos algoritimos desenvolvidos
 
-👉 <a href="https://github.com/venzel/javascript/blob/master/codes/getLevel.js">Get Level</a> - Elimina o uso de vários IF e ESLSE de intervalos entre valores. **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/javascript/blob/master/codes/getLevel.js">Get Level</a> - Elimina o uso de vários IF e ELSE de intervalos entre valores. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/javascript/blob/master/codes/parseDTO.js">Parse DTO</a> - Transforma as propriedades de um objeto de Camel Case para Snake Case. **(finalizado)**<br />
 
