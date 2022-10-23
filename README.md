@@ -63,7 +63,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 ## APIs mais recentes
 
-👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
 
 👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
 
