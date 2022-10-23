@@ -27,6 +27,7 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 -   Microserviços com NestJs e RabbitMq 🔥
 -   Testes com Jest
 -   **VueJs** 🔥🔥🔥
+-   Testes com VueJs 🔥
 -   Docker
 
 ## ❤️ Focado desenvolvendo...
@@ -65,21 +66,24 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
 
 👉 <a href="https://github.com/venzel/tenis">Placar Tênis</a> - Aplicação de simulação do placar de partidas de tênis, utilizando o NestJs, JWT, MongoDB, Microserviços, RabbitMQ, Cloud (AWS e SAP). **(pausado)**<br />
 
+## Acadêmico
+
+| Foto                                            | Descrição                                                                                                                                                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./images/placa-1.jpeg" width="200" /> | 👉 <a href="https://github.com/venzel/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br /> |
+| <img src="./images/shield.png" width="200" />   | 👉 <a href="https://github.com/venzel/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />                      |
+
 ## Trabalhos antigos
 
 👉 <a href="https://github.com/venzel/oraculo">Oráculo</a> - Sistema de gerenciamento financeiro. Frontend desenvolvido em html, javascript e JQuery para empresa cliente. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários. MVC desenvolvido em C# com Microsoft SQL. **(finalizado)**<br />
 
-## Acadêmico
-
-👉 <a href="https://github.com/venzel/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br />
-
-👉 <a href="https://github.com/venzel/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />
-
 ## Javascript
 
-### 3 últimos algoritimos desenvolvidos
+### 4 últimos algoritimos desenvolvidos
+
+👉 <a href="https://github.com/venzel/javascript/blob/master/codes/getLevel.js">Get Level</a> - Elimina o uso de vários IF e ESLSE de intervalos entre valores. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/javascript/blob/master/codes/parseDTO.js">Parse DTO</a> - Transforma as propriedades de um objeto de Camel Case para Snake Case. **(finalizado)**<br />
 
