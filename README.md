@@ -8,7 +8,7 @@ Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra C
 
 ## Sobre
 
-Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra Company, empresa esnanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea.
+Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra Company, empresa espanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea.
 
 ## Stack de atuação
 
