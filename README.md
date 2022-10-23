@@ -31,9 +31,7 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 -   Angular
 -   Microserviços com NestJs e RabbitMq
 
-## ❤️ Focado desenvolvendo...
-
-👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(Em andamento)**<br />
+## ❤️ Focado desenvolvendo
 
 👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs e VueJs. **(Em andamento)**<br />
 
@@ -56,6 +54,8 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 <hr>
 
 ## APIs mais recentes
+
+👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
 
