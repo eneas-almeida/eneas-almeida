@@ -3,7 +3,8 @@
 Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra Company</a>. Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022).
 
 👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />
-👉 <a href="https://venzel.com.br">Site pessoal</a>
+👉 <a href="https://venzel.com.br">Site pessoal</a> <br />
+👉 **Whatsapp:** (83) 981300768</a>
 
 ## Sobre
 
@@ -35,12 +36,18 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 
 👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs e VueJs. **(Em andamento)**<br />
 
-## 📜 Estudando...
+\* O **MyPoint** é um projeto particular.
 
--   Microserviços
--   RabbitMQ
--   Cognito
--   GraphQL
+O que ele resolve?
+
+Problemas similares a geração de relatórios com alta concentração de consultas no banco de dados em um intervalo de tempo.
+
+## Interesses
+
+-   Trabalho em ambiente com adoção de metodologias ágeis
+-   Liderança técnica
+-   Desenvolvimento frontend e backend
+-   Arquiteto de software
 
 ## Metodologia desenvolvida com NodeJs
 
@@ -194,7 +201,6 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 -   Typescript / Javascript
 -   TypeORM / Postgres / MongoDB / Redis
 -   Prisma
--   GraphQL
 -   Testes com Jest
 
 ### Stack Spring Boot
@@ -223,6 +229,8 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 ### Outros
 
 -   Metodologias ágeis
+-   Microserviços
+-   RabbitMQ
 -   SysAdmin (Ambiente linux)
 -   Git / Gitflow / Conventional Commit (Github, GitLab, BitBucket)
 -   UML
@@ -231,13 +239,6 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 -   Docker
 -   Nginx
 -   Varnish
-
-<hr>
-
-### Interesses futuros
-
--   Golang
--   C#
 
 <hr>
 
