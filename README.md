@@ -88,9 +88,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários. MVC desenvolvido em C# com Microsoft SQL. **(finalizado)**<br />
 
-## Javascript
-
-## 4 últimos algoritimos desenvolvidos
+## Javascript (4 últimos algoritimos desenvolvidos)
 
 👉 <a href="https://github.com/venzel/javascript/blob/master/codes/getLevel.js">Get Level</a> - Elimina o uso de vários IF e ELSE de intervalos entre valores. **(finalizado)**<br />
 
