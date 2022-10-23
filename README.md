@@ -44,10 +44,10 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 ## Interesses
 
--   Trabalho em ambiente com adoção de metodologias ágeis
--   Liderança técnica
--   Desenvolvimento frontend e backend
--   Arquiteto de software
+-   Atuação em ambiente com adoção de metodologias ágeis;
+-   Liderança técnica;
+-   Desenvolvimento frontend e backend;
+-   Arquitetura de software.
 
 ## Metodologia desenvolvida com NodeJs
 
