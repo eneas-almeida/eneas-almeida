@@ -4,7 +4,7 @@ Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra C
 
 👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />
 👉 <a href="https://venzel.com.br">Site pessoal</a> <br />
-👉 **Whatsapp:** (83) 981300768</a>
+👉 **WhatsApp:** (83) 981300768</a>
 
 ## Sobre
 
