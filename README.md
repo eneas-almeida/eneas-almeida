@@ -40,7 +40,7 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 
 **O que resolve?**
 
-Problemas de concorrência. Multiplas consultas paralelas densas no banco de dados que levam a exaustão dos recursos de processamento.
+Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de dados, que levam a exaustão dos recursos de processamento.
 
 ## Interesses
 
