@@ -7,7 +7,9 @@ Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra C
 
 ## Sobre
 
-Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exclusivamente no aprendizado e aperfeiçoamento em Engenharia e Arquitetura de Software, utilizando conceitos de _Clean Architecture_, _Domain-Driven Design_ e _Test-Driven Development_ com **NodeJs**, **NestJs**, **Spring Boot**, **VueJs** e **Angular**.
+Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra Company, empresa esnanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea.
+
+## Stack de atuação
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJs" title="NodeJs" height="45" /> 
@@ -19,16 +21,15 @@ Desde 2002 atuando como desenvolvedor FullStack, nos últimos anos, dedicado exc
   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs" title="VueJs" width="40" height="40" /> 
 </p>
 
-## 🔥 Focado nas tecnologias...
-
--   NodeJs / NestJs 🔥
--   Typescript / Javascript 🔥
+-   **NodeJs** (🔥 Especialista)
+-   **NestJs**
+-   Typescript / Javascript
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
--   Microserviços com NestJs e RabbitMq 🔥
--   Testes com Jest
--   **VueJs** 🔥🔥🔥
--   Testes com VueJs 🔥
--   Docker
+-   Spring Boot
+-   Testes com Jest (Frontend e backend)
+-   **VueJs** (🔥 Especialista)
+-   Angular
+-   Microserviços com NestJs e RabbitMq
 
 ## ❤️ Focado desenvolvendo...
 
