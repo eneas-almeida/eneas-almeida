@@ -47,6 +47,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 -   Atuação em ambiente com adoção de metodologias ágeis;
 -   Liderança técnica;
 -   Desenvolvimento frontend e backend;
+-   Documentação dos processos que envolvem o fluxo de desenvolvimento;
 -   Arquitetura de software.
 
 ## Metodologia desenvolvida com NodeJs
