@@ -38,9 +38,9 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 
 \* O **MyPoint** é um projeto particular.
 
-O que ele resolve?
+**O que resolve?**
 
-Problemas similares a geração de relatórios com alta concentração de consultas no banco de dados em um intervalo de tempo.
+Problemas de concorrência. Multiplas consultas paralelas densas no banco de dados que levam a exaustão dos recursos de processamento.
 
 ## Interesses
 
