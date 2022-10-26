@@ -29,6 +29,7 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 -   Spring Boot
 -   Testes com Jest (Frontend e backend)
 -   **VueJs** (🔥 Especialista)
+-   Socket.io
 -   Angular
 -   Microserviços com NestJs e RabbitMq
 
@@ -102,7 +103,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 ## Estudos de casos
 
-👉 <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação em uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(Pausado)**
+👉 <a href="https://github.com/venzel/socketio_vuejs_nodejs">SocketIo VueJs e NodeJs</a> - Utilização de sockets com VueJs e NodeJs, estabelecendo comunicação com validação de tokens JWT. **(⭐ finalizado)**
 
 👉 <a href="https://github.com/venzel/auth-nest">API Rest SigIn/SigUp</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest. **(finalizado)**<br />
 
@@ -111,6 +112,8 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 👉 <a href="https://github.com/venzel/nodejs-prisma">API Rest NodeJs com Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Package by Feature e Teste unitário com o Jest. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/series-tv-backend">Séries TV</a> - FullStack. Estudo de caso de um fullstack em Spring Boot + Angular 12. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/grisoli">Grisoli</a> - Aplicação em uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(abortado)**
 
 👉 <a href="https://github.com/venzel/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJs, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa. **(finalizado)**<br />
 
