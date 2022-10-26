@@ -35,7 +35,7 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 
 ## ❤️ Focado desenvolvendo
 
-👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs e VueJs, Socketio. **(em andamento)**<br />
+👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socketio. **(em andamento)**<br />
 
 \* O **MyPoint** é um projeto particular.
 
