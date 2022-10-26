@@ -80,8 +80,8 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 | Foto                                            | Descrição                                                                                                                                                                                         |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="./images/placa-1.jpeg" width="200" /> | 👉 <a href="https://github.com/venzel/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br /> |
-| <img src="./images/shield.png" width="200" />   | 👉 <a href="https://github.com/venzel/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />                      |
+| <img src="./images/placa-1.jpeg" width="350" /> | 👉 <a href="https://github.com/venzel/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br /> |
+| <img src="./images/shield.png" width="350" />   | 👉 <a href="https://github.com/venzel/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />                      |
 
 ## Trabalhos antigos
 
