@@ -28,7 +28,7 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
 -   Spring Boot
 -   Testes com Jest (Frontend e backend)
--   **VueJs** (🔥 Especialista)
+-   **VueJs/Vuetify** (🔥 Especialista)
 -   Socket.io
 -   Angular
 -   Microserviços com NestJs e RabbitMq
