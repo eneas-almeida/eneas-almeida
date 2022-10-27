@@ -103,7 +103,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 ## Estudos de casos
 
-👉 <a href="https://github.com/venzel/socketio_vuejs_nodejs">SocketIo VueJs e NodeJs</a> - Utilização de sockets com VueJs e NodeJs, estabelecendo comunicação com validação entre tokens JWT, utilizando padrão de projeto observer. ❤️❤️❤️❤️❤️ **(finalizado)**
+👉 <a href="https://github.com/venzel/socketio_vuejs_nodejs">Sockets VueJs/NestJs</a> - Utilização de sockets com VueJs no frontend e NodeJs/NestJs no backend, estabelecendo comunicação com validação entre tokens JWT, utilizando padrão de projeto observer. ❤️ **(finalizado)**
 
 👉 <a href="https://github.com/venzel/auth-nest">API Rest SigIn/SigUp</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest. **(finalizado)**<br />
 
