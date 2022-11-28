@@ -1,6 +1,8 @@
 # 👋 Enéas Almeida (Venzel)
 
-Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra Company</a>. Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022).
+Desenvolvedor Backend Sênior na <a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>, atuando em um sistema financeiro na stack **NodeJs**, junto ao cliente <a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">SICOOB</a>.
+
+## Contatos
 
 👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />
 👉 <a href="https://venzel.com.br">Site pessoal</a> <br />
@@ -8,9 +10,17 @@ Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra C
 
 ## Sobre
 
-Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra Company, empresa espanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea.
+Desde 2002 atuando como desenvolvedor web FullStack.
 
-## Stack de atuação
+-   🎓 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022)
+-   ❤️ Pai uma menina (Liz Venzel)
+-   🌱 Aprendendo mais sobre **Kafka** e **RabbitMQ**
+
+## Atuação anterior
+
+-   Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra Company</a>, empresa espanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea, responsável pelo Frontend em um sistema financeiro na stack **VueJs**, junto ao cliente <a href="https://www.enel.com.br">Enel</a>.
+
+## Stacks de atuações
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJs" title="NodeJs" height="45" /> 
@@ -33,7 +43,7 @@ Desde 2002 atuando como desenvolvedor web FullStack. Atualmente alocado na Indra
 -   Angular
 -   Microserviços com NestJs e RabbitMq
 
-## ❤️ Focado desenvolvendo
+## Focado desenvolvendo
 
 👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socketio. **(em andamento)**<br />
 
@@ -45,6 +55,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 ## Interesses
 
+-   Atuação em instituições financeiras;
 -   Atuação em ambiente com adoção de metodologias ágeis;
 -   Liderança técnica;
 -   Desenvolvimento frontend e backend;
