@@ -112,6 +112,10 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 👉 <a href="https://github.com/venzel/javascript/tree/master/codes">Todos os scripts</a> **(em andamento)**<br />
 
+## Estudos sobre testes com o Nodejs
+
+👉 <a href="https://github.com/venzel/javascript/tree/master/codes/tests/mocks">Mock tests</a> - Estudos sobre tests unitários usando mocks e bibliotecas nativas do NodeJs. **(finalizado)**<br />
+
 ## Estudos de casos
 
 👉 <a href="https://github.com/venzel/socketio_vuejs_nodejs">Sockets com Vue/Node/Nest</a> - Utilização de sockets com VueJs no frontend e NodeJs/NestJs no backend, estabelecendo comunicação com validação entre tokens JWT, utilizando padrão de projeto observer. ❤️ **(finalizado)**
