@@ -112,9 +112,11 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 👉 <a href="https://github.com/venzel/javascript/tree/master/codes">Todos os scripts</a> **(em andamento)**<br />
 
-## Estudos sobre testes com o Nodejs
+## Estudos sobre testes com o NodeJs
 
-👉 <a href="https://github.com/venzel/javascript/tree/master/codes/tests/mocks">Mock tests</a> - Estudos sobre tests unitários usando mocks e bibliotecas nativas do NodeJs. **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/javascript/tree/master/codes/tests/mocks">Mock tests</a> - Estudos sobre tests unitários utilizando mocks e bibliotecas nativas do NodeJs. **(finalizado)**<br />
+
+👉 <a href="https://github.com/venzel/javascript/tree/master/codes/tests/stubs">Stub com mocks</a> - Testes utilizando a técnica de stubs para simular uma requisição a uma API. **(finalizado)**<br />
 
 ## Estudos de casos
 
