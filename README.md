@@ -1,20 +1,19 @@
 # 👋 Enéas Almeida (Venzel)
 
-Desenvolvedor Backend Sênior na <a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>, atuando em um sistema financeiro na stack **NodeJs**, junto ao cliente <a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">SICOOB</a>.
+Desenvolvedor Backend Sênior na <a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>, atuando na stack **NodeJs**, junto ao cliente <a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">SICOOB</a>.
 
 ## Contatos
 
-👉 <a href="https://www.linkedin.com/in/venzel/">Linkedin</a> <br />
-👉 <a href="https://venzel.com.br">Site pessoal</a> <br />
-👉 **WhatsApp:** (83) 981300768</a>
+👉 [Linkedin](https://www.linkedin.com/in/venzel)<br />
+👉 [Venzel](https://venzel.com.br)
 
 ## Sobre
 
-Desde 2002 atuando como desenvolvedor web FullStack.
+Desde 2002 atuando como desenvolvedor web Fullstack.
 
--   🎓 Graduando em Engenharia de Computação pelo Instituto Federal da Paraíba (2017 - 2022)
+-   🎓 Graduando em Engenharia de Computação - IFPB (2017 - 2022)
 -   ❤️ Pai uma menina (Liz Venzel)
--   🌱 Aprendendo mais sobre **Kafka** e **RabbitMQ**
+-   🌱 Aprendendo mais sobre **[Kafka](https://github.com/venzel/kafka)** e **[RabbitMQ](https://github.com/venzel/mypoint)**
 
 ## Atuação anterior
 
@@ -57,7 +56,6 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 -   Atuação em instituições financeiras;
 -   Atuação em ambiente com adoção de metodologias ágeis;
--   Liderança técnica;
 -   Desenvolvimento frontend e backend;
 -   Documentação dos processos que envolvem o fluxo de desenvolvimento;
 -   Arquitetura de software.
@@ -266,6 +264,10 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 Os autores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
 -   Fernando Daciuk **(Javascript e Git avançado)**
+-   Fernando Amaral **(Kafka)**
+-   Wesley Willians **(Kafka)**
+-   Diego Fernandes **(NestJs, Microserviços e RabbitMQ)**
+-   Loiane Groner **(Angular)**
 -   Leonardo Moura **(VueJs, Docker, Typescript e GraphQL)**
 -   Matheus Battisti **(Docker, Kubernetes e VueJs)**
 -   Nélio Alves **(Spring Boot)**
@@ -286,7 +288,5 @@ Os autores citados abaixo são fontes de referências em minha jornada de estudo
 -   Rodrigo Branas **(Javascript)**
 -   Jonathan Baraldi **(DevOps com Rancher, AWS e GCP)**
 -   Codar.me **(NodeJs)**
--   DFS Training **(NestJs & Microserviços)**
 -   Plínio Naves **(VueJs & Vuetify)**
 -   Victor Hugo Negrisoli **(Microserviços)**
--   Loiane Groner **(Estrutura de dados - Javascript)**
