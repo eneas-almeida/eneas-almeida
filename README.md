@@ -11,13 +11,13 @@ Desenvolvedor Backend Sênior na <a href="https://actdigital.com/pt/quem-somos/"
 
 Desde 2002 atuando como desenvolvedor web Fullstack.
 
-- 🎓 Graduando em Engenharia de Computação - IFPB (2017 - 2022)
-- ❤️ Pai uma menina (Liz Venzel)
-- 🌱 Aprendendo mais sobre **[Kafka](https://github.com/venzel/kafka)** e **[RabbitMQ](https://github.com/venzel/mypoint)**
+-   🎓 Gradando em Engenharia de Computação - IFPB
+-   ❤️ Pai uma menina (Liz Venzel)
+-   🌱 Aprendendo mais sobre **[Kafka](https://github.com/venzel/kafka)** e **[RabbitMQ](https://github.com/venzel/mypoint)**
 
 ## Atuação anterior
 
-- Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra Company</a>, empresa espanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea, responsável pelo Frontend em um sistema financeiro na stack **VueJs**, junto ao cliente <a href="https://www.enel.com.br">Enel</a>.
+-   Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra Company</a>, empresa espanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea, responsável pelo Frontend em um sistema financeiro na stack **VueJs**, junto ao cliente <a href="https://www.enel.com.br">Enel</a>.
 
 ## Stacks de atuações
 
@@ -31,16 +31,16 @@ Desde 2002 atuando como desenvolvedor web Fullstack.
   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs" title="VueJs" width="40" height="40" /> 
 </p>
 
-- **NodeJs** (🔥 Especialista)
-- **NestJs**
-- Typescript / Javascript
-- TypeORM / MySQL / Postgres / MongoDB / Redis
-- Spring Boot
-- Testes com Jest (Frontend e backend)
-- **VueJs/Vuetify** (🔥 Especialista)
-- Socket.io
-- Angular
-- Microserviços com NestJs e RabbitMq
+-   **NodeJs** (🔥 Especialista)
+-   **NestJs**
+-   Typescript / Javascript
+-   TypeORM / MySQL / Postgres / MongoDB / Redis
+-   Spring Boot
+-   Testes com Jest (Frontend e backend)
+-   **VueJs/Vuetify** (🔥 Especialista)
+-   Socket.io
+-   Angular
+-   Microserviços com NestJs e RabbitMq
 
 ## Focado desenvolvendo
 
@@ -54,12 +54,12 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 ## Interesses
 
-- Atuação em instituições financeiras;
-- Atuação em ambiente com adoção de metodologias ágeis;
-- Desenvolvimento frontend e backend;
-- Documentação dos processos que envolvem o fluxo de desenvolvimento;
-- Testes de software;
-- Arquitetura de software.
+-   Atuação em instituições financeiras;
+-   Atuação em ambiente com adoção de metodologias ágeis;
+-   Desenvolvimento frontend e backend;
+-   Documentação dos processos que envolvem o fluxo de desenvolvimento;
+-   Testes de software;
+-   Arquitetura de software.
 
 ## Ciclo de vida do request
 
@@ -209,8 +209,8 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 
 ### Arquiteturas
 
-- Onion
-- Package by Feature
+-   Onion
+-   Package by Feature
 
 ### Stack NodeJs
 
@@ -223,11 +223,11 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
   <img src="./images/jest.svg" alt="Jest" title="Jest" width="30" height="30" />
 </p>
 
-- NodeJs/Express / NestJs 🔥🔥🔥
-- Typescript / Javascript
-- TypeORM / Postgres / MongoDB / Redis
-- Prisma
-- Testes com Jest
+-   NodeJs/Express / NestJs 🔥🔥🔥
+-   Typescript / Javascript
+-   TypeORM / Postgres / MongoDB / Redis
+-   Prisma
+-   Testes com Jest
 
 ### Stack Spring Boot
 
@@ -236,35 +236,35 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
   <img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" alt="Java" title="Java" width="35" height="35" /> 
 </p>
 
-- Java / Spring Boot / JPA / Hibernate
-- MySQL / Postgres/ MongoDB
+-   Java / Spring Boot / JPA / Hibernate
+-   MySQL / Postgres/ MongoDB
 
 ### Frontend
 
 <span><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs" title="VueJS" width="35" height="35" /></span>
 <span><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" title="Angular" width="35" height="35" /></span>
 
-- VueJs
-- Angular
-- Axios
-- HTML
-- LESS/CSS
-- JQuery
-- Typescript/Javascript
+-   VueJs
+-   Angular
+-   Axios
+-   HTML
+-   LESS/CSS
+-   JQuery
+-   Typescript/Javascript
 
 ### Outros
 
-- Metodologias ágeis
-- Microserviços
-- RabbitMQ
-- SysAdmin (Ambiente linux)
-- Git / Gitflow / Conventional Commit (Github, GitLab, BitBucket)
-- UML
-- Desenho de telas (Illustrator)
-- Deploy (CI-CD - Budy Works, CodeShip)
-- Docker
-- Nginx
-- Varnish
+-   Metodologias ágeis
+-   Microserviços
+-   RabbitMQ
+-   SysAdmin (Ambiente linux)
+-   Git / Gitflow / Conventional Commit (Github, GitLab, BitBucket)
+-   UML
+-   Desenho de telas (Illustrator)
+-   Deploy (CI-CD - Budy Works, CodeShip)
+-   Docker
+-   Nginx
+-   Varnish
 
 <hr>
 
@@ -272,31 +272,31 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 
 Os autores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
-- João Rangel **(NestJs)**
-- Fernando Daciuk **(Javascript e Git avançado)**
-- Fernando Amaral **(Kafka)**
-- Wesley Willians **(Kafka)**
-- Diego Fernandes **(NestJs, Microserviços e RabbitMQ)**
-- Loiane Groner **(Angular)**
-- Leonardo Moura **(VueJs, Docker, Typescript e GraphQL)**
-- Matheus Battisti **(Docker, Kubernetes e VueJs)**
-- Nélio Alves **(Spring Boot)**
-- AlgaWorks **(Spring Boot e Angular)**
-- Otávio Augusto Gallego **(GoLang)**
-- Ellen körbes **(GoLang)**
-- Otávio Lemos **(Arquitetura e TDD com Typescript)**
-- Ruan Delgado **(Algoritmos e dicas de estudo)**
-- Fábio Akita **(Dicas de estudo Pragmático)**
-- Rocketseat **(Stack backend NodeJs)**
-- Henrique Cunha **(Algoritmos)**
-- César Vasconcelos **(Java)**
-- Otávio Miranda **(Padões de projeto com Typescript)**
-- Erick Wendel **(NodeJs avançado)**
-- Linux Tips **(Linux, Docker e Kubernetes)**
-- Dev Soltinho **(Javascript, Git)**
-- Claudson Oliveira **(Trabalho no exterior, GoLang)**
-- Rodrigo Branas **(Javascript)**
-- Jonathan Baraldi **(DevOps com Rancher, AWS e GCP)**
-- Codar.me **(NodeJs)**
-- Plínio Naves **(VueJs & Vuetify)**
-- Victor Hugo Negrisoli **(Microserviços)**
+-   João Rangel **(NestJs)**
+-   Fernando Daciuk **(Javascript e Git avançado)**
+-   Fernando Amaral **(Kafka)**
+-   Wesley Willians **(Kafka)**
+-   Diego Fernandes **(NestJs, Microserviços e RabbitMQ)**
+-   Loiane Groner **(Angular)**
+-   Leonardo Moura **(VueJs, Docker, Typescript e GraphQL)**
+-   Matheus Battisti **(Docker, Kubernetes e VueJs)**
+-   Nélio Alves **(Spring Boot)**
+-   AlgaWorks **(Spring Boot e Angular)**
+-   Otávio Augusto Gallego **(GoLang)**
+-   Ellen körbes **(GoLang)**
+-   Otávio Lemos **(Arquitetura e TDD com Typescript)**
+-   Ruan Delgado **(Algoritmos e dicas de estudo)**
+-   Fábio Akita **(Dicas de estudo Pragmático)**
+-   Rocketseat **(Stack backend NodeJs)**
+-   Henrique Cunha **(Algoritmos)**
+-   César Vasconcelos **(Java)**
+-   Otávio Miranda **(Padões de projeto com Typescript)**
+-   Erick Wendel **(NodeJs avançado)**
+-   Linux Tips **(Linux, Docker e Kubernetes)**
+-   Dev Soltinho **(Javascript, Git)**
+-   Claudson Oliveira **(Trabalho no exterior, GoLang)**
+-   Rodrigo Branas **(Javascript)**
+-   Jonathan Baraldi **(DevOps com Rancher, AWS e GCP)**
+-   Codar.me **(NodeJs)**
+-   Plínio Naves **(VueJs & Vuetify)**
+-   Victor Hugo Negrisoli **(Microserviços)**
