@@ -32,7 +32,7 @@ Desde 2002 atuando como desenvolvedor web Fullstack.
 </p>
 
 -   **NodeJs** (🔥 Especialista)
--   **NestJs**
+-   **NestJs** (🔥 Especialista)
 -   Typescript / Javascript
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
 -   Spring Boot
