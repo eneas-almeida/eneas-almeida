@@ -266,6 +266,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 -   Desenvolvimento guiado a interfaces;
 -   Sustentação (correção de bugs e melhorias de código);
 -   Pré planejamento com UML;
+-   Testes unitários e e2e;
 -   Implementações em memória para facilitação dos casos de testes unitários;
 -   Criação de documentações;
 -   Refatoração através da técnica de versionamentos;
