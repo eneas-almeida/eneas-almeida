@@ -9,11 +9,10 @@ Desenvolvedor Backend Sênior na <a href="https://actdigital.com/pt/quem-somos/"
 
 ## Sobre
 
-Desde 2002 atuando como desenvolvedor web Fullstack.
+Desde 2002 atuando como desenvolvedor Fullstack.
 
 -   🎓 Graduado em Engenharia de Computação - IFPB
 -   ❤️ Pai uma menina (Liz Venzel)
--   🌱 Aprendendo mais sobre **[Kafka](https://github.com/venzel/kafka)** e **[RabbitMQ](https://github.com/venzel/mypoint)**
 
 ## Atuação anterior
 
@@ -223,11 +222,14 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
   <img src="./images/jest.svg" alt="Jest" title="Jest" width="30" height="30" />
 </p>
 
--   NodeJs/Express / NestJs 🔥🔥🔥
--   Typescript / Javascript
--   TypeORM / Postgres / MongoDB / Redis
--   Prisma
--   Testes com Jest
+-   NodeJs/Express / NestJs; 🔥🔥🔥
+-   Design Patterns (SOLID, Clean Code);
+-   Typescript / Javascript;
+-   TypeORM / Postgres / MongoDB / Redis;
+-   Prisma;
+-   Testes unitários;
+-   Testes e2e;
+-   Socket.io.
 
 ### Stack Spring Boot
 
@@ -244,7 +246,7 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 <span><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs" title="VueJS" width="35" height="35" /></span>
 <span><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" title="Angular" width="35" height="35" /></span>
 
--   VueJs
+-   VueJs/Vuetify (🔥 Especialista)
 -   Angular
 -   Axios
 -   HTML
@@ -252,19 +254,26 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 -   JQuery
 -   Typescript/Javascript
 
-### Outros
+### Experiências
 
--   Metodologias ágeis
--   Microserviços
--   RabbitMQ
--   SysAdmin (Ambiente linux)
--   Git / Gitflow / Conventional Commit (Github, GitLab, BitBucket)
--   UML
--   Desenho de telas (Illustrator)
--   Deploy (CI-CD - Budy Works, CodeShip)
--   Docker
--   Nginx
--   Varnish
+-   Metodologias ágeis;
+-   Líder de projeto;
+-   Ambiente de pressão e dados sigilosos;
+-   Microserviços;
+-   Desenvolvimento guiado a interfaces;
+-   Pré planejamento com UML;
+-   Implementações em memória para facilitação dos casos de testes unitários;
+-   Criação de documentações;
+-   Refatoração através da técnica de versionamentos;
+-   Code Review;
+-   Mensageria (RabbitMQ e Kafka);
+-   Git / Gitflow / Conventional;
+-   Github, GitLab, BitBucket;
+-   Ambiente Linux;
+-   CI-CD;
+-   Docker;
+-   Nginx;
+-   Varnish.
 
 <hr>
 
