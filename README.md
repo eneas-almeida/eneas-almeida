@@ -268,6 +268,7 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 -   Refatoração através da técnica de versionamentos;
 -   Code Review;
 -   Mensageria (RabbitMQ e Kafka);
+-   SonarLint;
 -   Git / Gitflow / Conventional;
 -   Github, GitLab, BitBucket;
 -   Ambiente Linux;
