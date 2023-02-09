@@ -209,7 +209,8 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 ### Arquiteturas
 
 -   Onion
--   Package by Feature
+-   DDD
+-   Package by Feature (Especialista)
 
 ### Stack NodeJs
 
@@ -274,6 +275,38 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 -   Docker;
 -   Nginx;
 -   Varnish.
+
+### Técnicas de desenvolvimento utilizadas
+
+-   Padronização de commits (conventional commits);
+-   Utilização de conceitos de módulos da arquitetura DDD;
+-   Versionamento de módulos para facilitação de refatorações;
+-   Modelagem de entidades ricas com tratamento de exceções (Either) (DDD);
+-   Desenvolvimento guiado a testes (TDD);
+-   Desenvolvimento guiado a interfaces;
+-   Chaveamento nas injeções de dependências utilizando o padrão strategy;
+-   Persistência dos dados em memória para facilitação dos testes unitários;
+-   Tratamento de exceções personalizados;
+-   Utilizações dos padrões Adapter, Strategy, Barrels, Dto, Factory;
+-   Utilização dos pipes validations para validação de dados nos DTOs;
+-   Camada de repositórios com ORM TypeORM;
+-   Versionamento do banco de dados, através das migrations;
+-   Criação dos index nas colunas através das migrations;
+-   Mappers para realizar as conversões de dados;
+-   Variáveis de ambiente;
+-   Interceptadores para criação dos logs da aplicação;
+-   Decorators personalizados;
+-   Testes unitários com o Jest, guiado pelo coverage reports;
+-   Utilização de bibliotecas para transpilar o código mais rapidamente;
+-   Rate Limit;
+-   Swagger;
+-   Filas com o Kafka e RabittMQ;
+-   Socket.io;
+-   Técnica de strategy guard no typescript;
+-   Criação de caches;
+-   Interceptação de erros com o sentry;
+-   Utilização das bibliotecas: bull, tsryng, ioredis, supertest, mongodb, sentry, moment;
+-   Técnica de expurgo de dados com cronjobs.
 
 <hr>
 
