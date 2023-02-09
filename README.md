@@ -41,24 +41,16 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Angular
 -   Microserviços com NestJs e RabbitMq
 
-## Focado desenvolvendo
-
-👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socketio. **(em andamento)**<br />
-
-\* O **MyPoint** é um projeto particular.
-
-**O que resolve?**
-
-Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de dados, que levam a exaustão dos recursos de processamento.
-
 ## Interesses
 
--   Atuação em instituições financeiras;
--   Atuação em ambiente com adoção de metodologias ágeis;
--   Desenvolvimento frontend e backend;
+-   Atuação em ambiente de pressão e com adoção de metodologias ágeis;
+-   Liderança técnica;
+-   Análises, Refatorações e Code Review;
 -   Documentação dos processos que envolvem o fluxo de desenvolvimento;
--   Testes de software;
--   Arquitetura de software.
+-   Desenvolvimento frontend e backend;
+-   Testes unitários e e2e;
+-   Arquitetura de software;
+-   Sustentação.
 
 ## Ciclo de vida do request
 
@@ -70,6 +62,16 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 
 👉 <a href="https://github.com/venzel/api-places-to-know/tree/master/src/modules/places/useCases/CreatePlace
 ">Código de exemplo</a>
+
+## MyPoint
+
+👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socketio. **(em andamento)**<br />
+
+\* O **MyPoint** é um projeto particular.
+
+**O que resolve?**
+
+Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de dados, que levam a exaustão dos recursos de processamento.
 
 <hr>
 
@@ -262,6 +264,7 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 -   Ambiente de pressão e dados sigilosos;
 -   Microserviços;
 -   Desenvolvimento guiado a interfaces;
+-   Sustentação (correção de bugs e melhorias de código);
 -   Pré planejamento com UML;
 -   Implementações em memória para facilitação dos casos de testes unitários;
 -   Criação de documentações;
