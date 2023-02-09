@@ -68,7 +68,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Code Review;
 -   Mensageria (RabbitMQ e Kafka);
 -   SonarLint;
--   Git / Gitflow / Conventional;
+-   Git / Gitflow / Conventional commits;
 -   Github, GitLab, BitBucket;
 -   Ambiente Linux;
 -   CI-CD;
