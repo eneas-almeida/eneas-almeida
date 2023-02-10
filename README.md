@@ -14,11 +14,11 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   🎓 Graduado em Engenharia de Computação - IFPB
 -   ❤️ Pai uma menina (Liz Venzel)
 
-## Atuação anterior
+### Atuação anterior
 
 -   Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra Company</a>, empresa espanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea, responsável pelo Frontend em um sistema financeiro na stack **VueJs**, junto ao cliente <a href="https://www.enel.com.br">Enel</a>.
 
-## Stacks de atuações
+### Stacks de atuações
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJs" title="NodeJs" height="45" /> 
@@ -41,7 +41,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Angular
 -   Microserviços com NestJs e RabbitMq
 
-## Interesses
+### Interesses
 
 -   Atuação em ambiente de pressão e com adoção de metodologias ágeis;
 -   Liderança técnica;
@@ -108,7 +108,11 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Utilização das bibliotecas: bull, tsryng, ioredis, supertest, mongodb, sentry, moment;
 -   Técnica de expurgo de dados com cronjobs.
 
-## Ciclo de vida do request
+<hr>
+
+## Metodologia desenvolvida
+
+### Ciclo de vida do request
 
 O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma metodologia que criei para tratar validações no NodeJs. O controller apenas é evocado quando os dados são válidos.
 
@@ -119,9 +123,19 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 👉 <a href="https://github.com/venzel/api-places-to-know/tree/master/src/modules/places/useCases/CreatePlace
 ">Código de exemplo</a>
 
+<hr>
+
+## Bekid
+
+👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
+
+\* O **Bekid** é um projeto particular em processo de patente.
+
+<hr>
+
 ## MyPoint
 
-👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socketio. **(em andamento)**<br />
+👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socket.io. **(em andamento)**<br />
 
 \* O **MyPoint** é um projeto particular.
 
@@ -131,25 +145,35 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 <hr>
 
-## NestJs
+## Arquitetura com NestJs
 
 👉 <a href="https://github.com/venzel/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> Arquitetura de uma api rest com NestJs, utilizando a modelagem de **domínios ricos**, através da técnica **value object**, tratamento de exceções com **either** e transformações de dados utilizando os conceitos de **dtos** e **mappers**.<br />
 
 <hr>
 
-## APIs mais recentes
+## Kafka
 
-👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
+👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
+👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
+👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-python">Kafka + Python</a>
+
+<hr>
+
+## Socket.io
+
+👉 <a href="https://github.com/venzel/socketio_vuejs_nodejs">Socket.io com Vue/Node/Nest</a> - Utilização de sockets com VueJs no frontend e NodeJs/NestJs no backend, estabelecendo comunicação com validação entre tokens JWT, utilizando padrão de projeto observer. ❤️ **(finalizado)**
+
+<hr>
+
+## APIs mais recentes
 
 👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/api-evasao-escolar-nestjs">Evasão Escolar</a> - Aplicação para análise da ocorrência da evasão escolar em instituições públicas de nível superior. Backend desenvolvido com Typescript, NestJs, TypeORM e Postgres. **(finalizado, online em produção)**<br />
 
-👉 <a href="https://github.com/venzel/api-tindin">Tindin</a> - Aplicação de controle de aulas ministradas. Desenvolvida em NodeJs, utilizando banco de dados MongoDB (TypeORM), com cobertura de testes (coverages), utilizando o Jest. **(finalizado, online)**<br />
+👉 <a href="https://github.com/venzel/api-tindin">Tindin</a> - Aplicação de controle de aulas ministradas. Desenvolvida em NodeJs, utilizando banco de dados MongoDB (TypeORM), com cobertura de testes (coverages), utilizando o Jest. **(finalizado)**<br />
 
-👉 <a href="https://github.com/venzel/api-places-to-know">Places to Know</a> - Desenvolvida em NodeJs, com objetivo de gerar um banco de dados de fotos de locais pelo mundo. Os detalhes do projeto são a integração com uma API externa, criação de uma busca com filtro e paginação. **(finalizado, online)**<br />
-
-👉 <a href="https://github.com/venzel/tenis">Placar Tênis</a> - Aplicação de simulação do placar de partidas de tênis, utilizando o NestJs, JWT, MongoDB, Microserviços, RabbitMQ, Cloud (AWS e SAP). **(pausado)**<br />
+👉 <a href="https://github.com/venzel/api-places-to-know">Places to Know</a> - Desenvolvida em NodeJs, com objetivo de gerar um banco de dados de fotos de locais pelo mundo. Os detalhes do projeto são a integração com uma API externa, criação de uma busca com filtro e paginação. **(finalizado)**
 
 ## Acadêmico
 
@@ -183,8 +207,6 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 👉 <a href="https://github.com/venzel/javascript/tree/master/codes/tests/stubs">Stub com mocks</a> - Testes utilizando a técnica de stubs para simular uma requisição a uma API. **(finalizado)**<br />
 
 ## Estudos de casos
-
-👉 <a href="https://github.com/venzel/socketio_vuejs_nodejs">Sockets com Vue/Node/Nest</a> - Utilização de sockets com VueJs no frontend e NodeJs/NestJs no backend, estabelecendo comunicação com validação entre tokens JWT, utilizando padrão de projeto observer. ❤️ **(finalizado)**
 
 👉 <a href="https://github.com/venzel/auth-nest">API Rest SigIn/SigUp</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest. **(finalizado)**<br />
 
@@ -266,9 +288,9 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 ### Arquiteturas
 
--   Onion
--   DDD
--   Package by Feature (Especialista)
+-   Onion;
+-   DDD;
+-   Package by Feature (Especialista).
 
 ### Stack NodeJs
 
