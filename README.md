@@ -125,7 +125,9 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 
 <hr>
 
-## Bekid
+## Cases
+
+### Bekid
 
 👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
 
@@ -133,7 +135,7 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 
 <hr>
 
-## MyPoint
+### MyPoint
 
 👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socket.io. **(em andamento)**<br />
 
@@ -145,13 +147,13 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 <hr>
 
-## Arquitetura com NestJs
+### Arquitetura com NestJs
 
-👉 <a href="https://github.com/venzel/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> Arquitetura de uma api rest com NestJs, utilizando a modelagem de **domínios ricos**, através da técnica **value object**, tratamento de exceções com **either** e transformações de dados utilizando os conceitos de **dtos** e **mappers**.<br />
+👉 <a href="https://github.com/venzel/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> Arquitetura de uma api rest com NestJs, utilizando a modelagem de **domínios ricos**, através da técnica **value object**, tratamento de exceções com **either** e transformações de dados utilizando os conceitos de **dtos** e **mappers**.
 
 <hr>
 
-## Kafka
+### Kafka
 
 👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
 👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
@@ -159,13 +161,13 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 <hr>
 
-## Socket.io
+### Socket.io
 
 👉 <a href="https://github.com/venzel/socketio_vuejs_nodejs">Socket.io com Vue/Node/Nest</a> - Utilização de sockets com VueJs no frontend e NodeJs/NestJs no backend, estabelecendo comunicação com validação entre tokens JWT, utilizando padrão de projeto observer. ❤️ **(finalizado)**
 
 <hr>
 
-## APIs mais recentes
+## APIs desenvolvidas
 
 👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
 
