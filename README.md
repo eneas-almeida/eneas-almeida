@@ -1,6 +1,6 @@
 # 👋 Enéas Almeida (Venzel)
 
-Desenvolvedor Backend Sênior na <a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>, atuando na stack **NodeJs**, junto ao cliente <a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">SICOOB</a>.
+Desenvolvedor Backend Sênior na **<a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>**, atuando junto ao cliente **<a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">SICOOB</a>**.
 
 ## Contatos
 
@@ -17,7 +17,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 
 ### Atuação anterior
 
--   Engenheiro de Software Sênior na <a href="https://www.indracompany.com">Indra Company</a>, empresa espanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea, responsável pelo Frontend em um sistema financeiro na stack **VueJs**, junto ao cliente <a href="https://www.enel.com.br">Enel</a>.
+-   Engenheiro de Software Sênior na **<a href="https://www.indracompany.com">Indra Company</a>**, empresa espanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea, responsável pelo Frontend em um sistema financeiro na stack **VueJs**, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
 
 ### Stacks de atuações
 
