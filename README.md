@@ -11,8 +11,9 @@ Desenvolvedor Backend Sênior na <a href="https://actdigital.com/pt/quem-somos/"
 
 Desde 2002 atuando como desenvolvedor Fullstack.
 
--   🎓 Graduado em Engenharia de Computação - IFPB
--   ❤️ Pai uma menina (Liz Venzel)
+-   🎓 Bacharel em Engenharia de Computação - [**IFPB**](https://estudante.ifpb.edu.br/cursos/28/)
+-   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
+-   ❤️ Pai uma menina (**Liz Venzel**)
 
 ### Atuação anterior
 
