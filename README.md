@@ -39,6 +39,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Testes com Jest (Frontend e backend)
 -   **VueJs/Vuetify** (🔥 Especialista)
 -   Socket.io
+-   GoLang
 -   Angular
 -   Microserviços com NestJs e RabbitMq
 
