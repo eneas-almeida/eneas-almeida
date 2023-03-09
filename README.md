@@ -35,12 +35,12 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   **NestJs** (🔥 Especialista)
 -   Typescript / Javascript
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
--   Spring Boot
--   Testes com Jest (Frontend e backend)
+-   Testes com Jest (Frontend e backend 🔥)
 -   **VueJs/Vuetify** (🔥 Especialista)
+-   Angular
 -   Socket.io
 -   GoLang
--   Angular
+-   Spring Boot
 -   Microserviços com NestJs e RabbitMq
 
 ### Interesses
@@ -50,7 +50,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Análises, Refatorações e Code Review;
 -   Documentação dos processos que envolvem o fluxo de desenvolvimento;
 -   Desenvolvimento frontend e backend;
--   Testes unitários e e2e;
+-   Testes unitários e integração;
 -   Arquitetura de software;
 -   Sustentação.
 
@@ -63,7 +63,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Desenvolvimento guiado a interfaces;
 -   Sustentação (correção de bugs e melhorias de código);
 -   Pré planejamento com UML;
--   Testes unitários e e2e;
+-   Testes unitários e integração;
 -   Implementações em memória para facilitação dos casos de testes unitários;
 -   Criação de documentações;
 -   Refatoração através da técnica de versionamentos;
@@ -346,17 +346,18 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 Os autores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
 -   João Rangel **(NestJs)**
+-   Diego Fernandes **(NestJs, Microserviços e RabbitMQ)**
+-   Stephany Henrique **(GoLang)**
+-   Otávio Augusto Gallego **(GoLang)**
+-   Ellen körbes **(GoLang)**
 -   Fernando Daciuk **(Javascript e Git avançado)**
 -   Fernando Amaral **(Kafka)**
 -   Wesley Willians **(Kafka)**
--   Diego Fernandes **(NestJs, Microserviços e RabbitMQ)**
 -   Loiane Groner **(Angular)**
 -   Leonardo Moura **(VueJs, Docker, Typescript e GraphQL)**
 -   Matheus Battisti **(Docker, Kubernetes e VueJs)**
 -   Nélio Alves **(Spring Boot)**
 -   AlgaWorks **(Spring Boot e Angular)**
--   Otávio Augusto Gallego **(GoLang)**
--   Ellen körbes **(GoLang)**
 -   Otávio Lemos **(Arquitetura e TDD com Typescript)**
 -   Ruan Delgado **(Algoritmos e dicas de estudo)**
 -   Fábio Akita **(Dicas de estudo Pragmático)**
