@@ -14,7 +14,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   🎓 Bacharel em Engenharia de Computação - [**IFPB**](https://estudante.ifpb.edu.br/cursos/28/)
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
 -   🔥 Focado em assimilar **GoLang**
--   ❤️ Pai uma menina (**Liz Venzel**)
+-   ❤️ Pai de uma menina (**Liz Venzel**)
 
 ### Atuação anterior
 
