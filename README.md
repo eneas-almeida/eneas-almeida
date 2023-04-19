@@ -42,7 +42,8 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Spring Boot
 -   Microserviços com NestJs e RabbitMq
 
-### Interesses
+<details>
+<summary>Interesses</summary>
 
 -   Atuação em ambiente de pressão e com adoção de metodologias ágeis;
 -   Liderança técnica;
@@ -52,8 +53,10 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Testes unitários e integração;
 -   Arquitetura de software;
 -   Sustentação.
+</details>
 
-### Experiências
+<details>
+<summary>Experiências</summary>
 
 -   Metodologias ágeis;
 -   Líder de projeto;
@@ -76,8 +79,10 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Docker;
 -   Nginx;
 -   Varnish.
+</details>
 
-### Técnicas de desenvolvimento utilizadas
+<details>
+<summary>Técnicas de desenvolvimento utilizadas</summary>
 
 -   Padronização de commits (conventional commits);
 -   Utilização de conceitos de módulos da arquitetura DDD;
@@ -108,6 +113,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Interceptação de erros com o sentry;
 -   Utilização das bibliotecas: bull, tsryng, ioredis, supertest, mongodb, sentry, moment;
 -   Técnica de expurgo de dados com cronjobs.
+</details>
 
 <hr>
 
