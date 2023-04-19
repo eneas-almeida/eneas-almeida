@@ -40,7 +40,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   Angular
 -   Socket.io
 -   Spring Boot
--   Microserviços com NestJs e RabbitMq
+-   Kafka/RabbitMQ
 
 <details>
 <summary>Interesses</summary>
@@ -132,7 +132,7 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 
 <hr>
 
-## Cases
+## Trabalhos
 
 ### Bekid
 
