@@ -138,15 +138,11 @@ O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma 
 
 👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
 
-\* O **Bekid** é um projeto particular em processo de patente.
-
 <hr>
 
 ### MyPoint
 
 👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socket.io. **(em andamento)**<br />
-
-\* O **MyPoint** é um projeto particular.
 
 **O que resolve?**
 
