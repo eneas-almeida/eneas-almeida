@@ -15,7 +15,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 
 -   🎓 Bacharel em Engenharia de Computação - [**IFPB**](https://estudante.ifpb.edu.br/cursos/28/)
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
--   🔥 Focado em assimilar [**Go**](https://github.com/venzel/golang)
+-   🔥 Focado em assimilar [**Go**](https://github.com/venzel/golang) <img src="./images/go-8.svg" alt="NestJs" title="NestJs" width="30" height="30" />
 
 ### Atuação anterior
 
