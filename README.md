@@ -1,4 +1,4 @@
-# 👋 Enéas Almeida (Venzel)
+# Enéas Almeida (Venzel)
 
 <img src="./images/sicoob.jpg" alt="Sicoob" title="Sicoob" height="35" />
 
