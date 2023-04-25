@@ -121,7 +121,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 
 ### Ciclo de vida do request
 
-O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma metodologia que criei para tratar validações no NodeJs. O controller apenas é evocado quando os dados são válidos.
+O **ciclo de vida** demonstrado no fluxograma abaixo, é uma base de projeto que desenvolvi em NodeJs, utilizando conceitos de uma arquitetura hexagonal.
 
 <p align="center">
   <img src="./images/fluxo-user-v3.png" />
@@ -304,6 +304,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 -   Onion;
 -   DDD;
+-   Hexagonal
 -   Package by Feature (Especialista).
 
 ### Stack NodeJs
