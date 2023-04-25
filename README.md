@@ -124,7 +124,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma metodologia que criei para tratar validações no NodeJs. O controller apenas é evocado quando os dados são válidos.
 
 <p align="center">
-  <img src="./images/fluxo-user.png" />
+  <img src="./images/fluxo-user-v2.png" />
 </p>
 
 👉 <a href="https://github.com/venzel/api-places-to-know/tree/master/src/modules/places/useCases/CreatePlace
@@ -155,6 +155,15 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 👉 <a href="https://github.com/venzel/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> Arquitetura de uma api rest com NestJs, utilizando a modelagem de **domínios ricos**, através da técnica **value object**, tratamento de exceções com **either** e transformações de dados utilizando os conceitos de **dtos** e **mappers**.
 
 <hr>
+
+### Go
+
+👉 <a href="https://github.com/venzel/go-api">Go API</a> **(em andamento)**<br />
+👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**
+
+### Node
+
+👉 <a href="https://github.com/venzel/nodejs-base">Node Base</a> 🔒 (privado) **(em andamento)**
 
 ### Kafka
 
