@@ -124,7 +124,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 O **ciclo de vida** nas requisições, demonstrado no fluxograma abaixo, é uma metodologia que criei para tratar validações no NodeJs. O controller apenas é evocado quando os dados são válidos.
 
 <p align="center">
-  <img src="./images/fluxo-user-v2.png" />
+  <img src="./images/fluxo-user-v3.png" />
 </p>
 
 👉 <a href="https://github.com/venzel/api-places-to-know/tree/master/src/modules/places/useCases/CreatePlace
