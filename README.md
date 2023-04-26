@@ -159,7 +159,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 ### Go
 
 👉 <a href="https://github.com/venzel/go-api">Go API</a> **(em andamento)**<br />
-👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**
+👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> **(em andamento)**
 
 ### Node
