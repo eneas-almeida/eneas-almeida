@@ -12,8 +12,13 @@ Desenvolvedor Backend Sênior na **<a href="https://actdigital.com/pt/quem-somos
 -   ❤️ 10+ anos de experiência em desenvolvimento backend e frontend
 -   🎓 Bacharel em Engenharia de Computação - [**IFPB**](https://estudante.ifpb.edu.br/cursos/28/)
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
--   ✝️ Professo a fé em **Jesus Cristo**, meu único Senhor e Salvador
 -   🔥 Focado em assimilar [**Go**](https://github.com/venzel/golang) <img src="./images/go-8.svg" alt="Go" title="Go" height="20" />
+
+### Curiosidades
+
+-   ✝️ Professo a fé em **Jesus Cristo**, meu único Senhor e Salvador
+-   🍖 Fã de churrasco, fez um? me chama! 🔥🔥🔥
+-   ⚽ Torcedor do melhor e mais espetacular time do Brasil (**Vasco**)
 
 ### Atuação profissional anterior
 
