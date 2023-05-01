@@ -9,8 +9,6 @@ Desenvolvedor Backend Sênior na **<a href="https://actdigital.com/pt/quem-somos
 
 ## Sobre
 
-Desde 2002 atuando como desenvolvedor Fullstack.
-
 -   🎓 Bacharel em Engenharia de Computação - [**IFPB**](https://estudante.ifpb.edu.br/cursos/28/)
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
 -   🔥 Focado em assimilar [**Go**](https://github.com/venzel/golang) <img src="./images/go-8.svg" alt="NestJs" title="NestJs" width="30" height="30" />
@@ -35,7 +33,7 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 -   **NestJs** (🔥 Especialista)
 -   Typescript / Javascript
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
--   Testes com Jest (Frontend e backend 🔥)
+-   **Testes com Jest** (🔥 Especialista)
 -   **VueJs/Vuetify** (🔥 Especialista)
 -   Angular
 -   Socket.io
@@ -119,15 +117,13 @@ Desde 2002 atuando como desenvolvedor Fullstack.
 
 ## Metodologia desenvolvida
 
-### Ciclo de vida do request
-
-O **ciclo de vida** demonstrado no fluxograma abaixo, é uma base de projeto que desenvolvi em NodeJs, utilizando conceitos de uma arquitetura hexagonal.
+O **ciclo** demonstrado no fluxograma abaixo, é uma base de projeto que desenvolvi em NodeJs, utilizando conceitos de uma arquitetura hexagonal.
 
 <p align="center">
   <img src="./images/fluxo-user-v3.png" />
 </p>
 
-👉 <a href="https://github.com/venzel/api-places-to-know/tree/master/src/modules/places/useCases/CreatePlace
+👉 <a href="https://github.com/venzel/nodejs-base
 ">Código de exemplo</a>
 
 <hr>
@@ -160,7 +156,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 👉 <a href="https://github.com/venzel/go-api">Go API</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**<br />
-👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> **(em andamento)**
+👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> **(em andamento, projeto de terceiro)**
 
 ### Node
 
