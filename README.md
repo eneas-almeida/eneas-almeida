@@ -9,12 +9,13 @@ Desenvolvedor Backend Sênior na **<a href="https://actdigital.com/pt/quem-somos
 
 ## Sobre
 
--   ❤️ 10+ anos de experiência em desenvolvimento backend e frontend;
--   🎓 Bacharel em Engenharia de Computação - [**IFPB**](https://estudante.ifpb.edu.br/cursos/28/);
--   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
--   🔥 Focado em assimilar [**Go**](https://github.com/venzel/golang) <img src="./images/go-8.svg" alt="Go" title="Go" height="20" />;
+-   ❤️ 10+ anos de experiência em desenvolvimento backend e frontend
+-   🎓 Bacharel em Engenharia de Computação - [**IFPB**](https://estudante.ifpb.edu.br/cursos/28/)
+-   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
+-   ✝️ Professo a fé em **Jesus Cristo**, meu único Senhor e Salvador
+-   🔥 Focado em assimilar [**Go**](https://github.com/venzel/golang) <img src="./images/go-8.svg" alt="Go" title="Go" height="20" />
 
-### Atuação anterior
+### Atuação profissional anterior
 
 -   Engenheiro de Software Sênior na **<a href="https://www.indracompany.com">Indra Company</a>**, empresa espanhola com atuação global, líder mundial no fornecimento de soluções de transporte e defesa aérea, responsável pelo Frontend em um sistema financeiro na stack **VueJs**, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
 
@@ -290,10 +291,6 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 👉 <a href="https://github.com/venzel/vuejs_mixins">Vuejs Mixins</a> - Estudo sobre mixins. **(finalizado)**<br />
 
-## HTML + CSS
-
-👉 <a href="https://github.com/venzel/css-grid-layout">CSS Grid Layout</a> - Estudo de caso de utilização de grid layout. **(finalizado)**<br />
-
 <hr>
 
 ## Áreas de conhecimento
@@ -302,8 +299,8 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 -   Onion;
 -   DDD;
--   Hexagonal
--   Package by Feature (Especialista).
+-   Hexagonal;
+-   Package by Feature.
 
 ### Stack NodeJs
 
@@ -316,7 +313,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
   <img src="./images/jest.svg" alt="Jest" title="Jest" width="30" height="30" />
 </p>
 
--   NodeJs/Express / NestJs; 🔥🔥🔥
+-   NodeJs / Express / NestJs; 🔥🔥🔥
 -   Design Patterns (SOLID, Clean Code);
 -   Typescript / Javascript;
 -   TypeORM / Postgres / MongoDB / Redis;
