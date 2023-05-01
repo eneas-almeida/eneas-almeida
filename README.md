@@ -1,6 +1,6 @@
 # Enéas Almeida (Venzel)
 
-Desenvolvedor Backend Sênior na **<a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>**, atuando junto ao cliente <img src="./images/sicoob.jpg" alt="Sicoob" title="Sicoob" height="15" /> **<a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">Sicoob</a>**
+Atualmente, desenvolvedor Backend Sênior na **<a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>**, junto ao cliente <img src="./images/sicoob.jpg" alt="Sicoob" title="Sicoob" height="15" /> **<a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">Sicoob</a>**
 
 ## Contatos
 
