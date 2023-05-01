@@ -1,6 +1,6 @@
 # Enéas Almeida (Venzel)
 
-Atualmente, desenvolvedor Backend Sênior na **<a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>**, junto ao cliente <img src="./images/sicoob.jpg" alt="Sicoob" title="Sicoob" height="15" /> **<a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">Sicoob</a>**
+Atualmente, desenvolvedor backend sênior na **<a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>**, junto ao cliente <img src="./images/sicoob.jpg" alt="Sicoob" title="Sicoob" height="15" /> **<a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">Sicoob</a>**
 
 ## Contatos
 
@@ -16,7 +16,7 @@ Atualmente, desenvolvedor Backend Sênior na **<a href="https://actdigital.com/p
 
 ### Curiosidades
 
--   ✝️ Professo a fé em **Jesus Cristo**, meu único Senhor e Salvador
+-   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador)
 -   🍖 Fã de churrasco, fez um? me chama! 🔥🔥🔥
 -   ⚽ Torcedor do melhor e mais espetacular time do Brasil (**Vasco**)
 
