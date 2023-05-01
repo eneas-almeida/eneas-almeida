@@ -178,7 +178,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 <hr>
 
-## APIs desenvolvidas
+## Mais APIs desenvolvidas
 
 👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
 
