@@ -22,7 +22,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://actdigital.com/p
 
 ### Atuação profissional anterior
 
--   Engenheiro de Software Sênior na **<a href="https://www.indracompany.com">Indra Company</a>**, atuando com **VueJs** e **Spring Boot** em um sistema de cobrança, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
+-   Engenheiro de Software Sênior na **<a href="https://www.indracompany.com">Indra Company</a>**, atuando com **VueJs** e **Spring Boot** em um sistema de cobranças, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
 
 ### Stacks de atuações
 
