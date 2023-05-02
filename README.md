@@ -42,6 +42,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://actdigital.com/p
 -   TypeORM / MySQL / Postgres / MongoDB / Redis
 -   **Testes com Jest** (🔥 Especialista)
 -   **VueJs/Vuetify** (🔥 Especialista)
+-   Python
 -   Angular
 -   Socket.io
 -   Spring Boot
