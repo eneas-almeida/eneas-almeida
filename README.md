@@ -2,11 +2,6 @@
 
 Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt="Sicoob" title="Sicoob" height="15" /> **<a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">Sicoob</a>** através da ACT Digital.
 
-## Contatos
-
-👉 [Linkedin](https://www.linkedin.com/in/venzel)<br />
-👉 [Instagram](https://www.instagram.com/eneasalmeidaeng)
-
 ## Sobre
 
 -   ❤️ 10+ anos de experiência em desenvolvimento backend e frontend;
@@ -22,7 +17,7 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 ### Atuação profissional anterior
 
--   Engenheiro de Software Sênior na **<a href="https://www.indracompany.com">Indra Company</a>**, atuando com **VueJs** e **Spring Boot** em um sistema de cobranças, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
+-   Engenheiro de Software Sênior na **<a href="https://www.indracompany.com">Indra Company</a>**, atuando com **VueJs** e **Spring Boot** em um sistema financeiro de cobranças, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
 
 ### Stacks de atuações
 
