@@ -1,6 +1,6 @@
 # Enéas Almeida (Venzel)
 
-Atualmente, desenvolvedor backend sênior na **<a href="https://actdigital.com/pt/quem-somos/">ACT Digital</a>**, junto ao cliente <img src="./images/sicoob.jpg" alt="Sicoob" title="Sicoob" height="15" /> **<a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">Sicoob</a>**
+Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt="Sicoob" title="Sicoob" height="15" /> **<a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">Sicoob</a>** através da ACT Digital.
 
 ## Contatos
 
@@ -9,8 +9,8 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://actdigital.com/p
 
 ## Sobre
 
--   ❤️ 10+ anos de experiência em desenvolvimento backend e frontend
--   🎓 Bacharel em Engenharia de Computação - [**IFPB**](https://estudante.ifpb.edu.br/cursos/28/)
+-   ❤️ 10+ anos de experiência em desenvolvimento backend e frontend;
+-   🎓 Bacharel em Engenharia de Computação;
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
 -   🔥 Focado em assimilar [**Go**](https://github.com/venzel/golang) <img src="./images/go-8.svg" alt="Go" title="Go" height="20" />
 
