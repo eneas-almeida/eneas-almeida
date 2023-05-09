@@ -56,32 +56,29 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Sustentação.
 </details>
 
-<details>
-<summary>Experiências</summary>
+<h2>Experiência</h2>
 
--   Metodologias ágeis;
--   Arquitetura limpa e clean code;
--   Líder de projeto;
--   Ambiente de pressão e dados sigilosos;
--   Microserviços;
--   Desenvolvimento guiado a interfaces;
--   Sustentação (correção de bugs e melhorias de código);
--   Pré planejamento com UML;
--   Testes unitários e integração;
--   Implementações em memória para facilitação dos casos de testes unitários;
--   Criação de documentações;
--   Refatoração através da técnica de versionamentos;
--   Code Review;
--   Mensageria (RabbitMQ e Kafka);
--   SonarLint;
--   Git / Gitflow / Conventional commits;
--   Github, GitLab, BitBucket;
--   Ambiente Linux;
--   CI-CD;
--   Docker;
--   Nginx;
--   Varnish.
-</details>
+\*   Metodologias ágeis; <br />
+\*   Arquitetura limpa e clean code; <br />
+\*   Testes unitários e integração; <br />
+\*   Microserviços; <br />
+\*   Mensageria (RabbitMQ e Kafka); <br />
+\*   Git / Gitflow / Conventional commits; <br />
+\*   Líder de projeto; <br />
+\*   Ambiente de pressão e dados sigilosos; <br />
+\*   Desenvolvimento guiado a interfaces; <br />
+\*   Sustentação (correção de bugs e melhorias de código); <br />
+\*   Pré planejamento com UML; <br />
+\*   Implementações em memória para facilitação dos casos de testes unitários; <br />
+\*   Criação de documentações; <br />
+\*   Refatoração através da técnica de versionamentos; <br />
+\*   Code Review; <br />
+\*   SonarLint; <br />
+\*   Keycloak; <br />
+\*   Github, GitLab, BitBucket; <br />
+\*   Ambiente Linux; <br />
+\*   CI-CD; <br />
+\*   Docker;
 
 <details>
 <summary>Técnicas de desenvolvimento utilizadas</summary>
