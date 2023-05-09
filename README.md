@@ -130,9 +130,7 @@ Problema das injeções de depedências quando utilizado o NodeJs com javascript
 
 <hr>
 
-## Trabalhos
-
-### MyPoint
+## MyPoint
 
 **O que resolve?**
 
@@ -146,7 +144,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 <hr>
 
-### Bekid
+## Bekid
 
 **O que resolve?**
 
@@ -160,7 +158,7 @@ A didática de como se conduzir um projeto documentado.
 
 <hr>
 
-### Arquitetura com NestJs
+## Arquitetura com NestJs
 
 👉 <a href="https://github.com/venzel/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> Arquitetura de uma api rest com NestJs, utilizando a modelagem de **domínios ricos**, através da técnica **value object**, tratamento de exceções com **either** e transformações de dados utilizando os conceitos de **dtos** e **mappers**.
 
