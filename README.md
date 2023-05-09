@@ -60,6 +60,7 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 <summary>Experiências</summary>
 
 -   Metodologias ágeis;
+-   Arquitetura limpa e clean code;
 -   Líder de projeto;
 -   Ambiente de pressão e dados sigilosos;
 -   Microserviços;
@@ -141,7 +142,7 @@ Problema das injeções de depedências quando utilizado o NodeJs com javascript
 Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de dados, que levam a exaustão dos recursos de processamento.
 
 <p align="center">
-    <img src="./images/architeture-v1.png" alt="Arquitetura do sistema" width="700" />
+    <img src="./images/architeture-v1.png" alt="Arquitetura do sistema" />
 </p>
 
 👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socket.io. **(em andamento)**<br />
@@ -155,7 +156,7 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 A didática de como se conduzir um projeto documentado.
 
 <p align="center">
-    <img src="./images/diagram-v5.png" alt="Diagrama" width="700" />
+    <img src="./images/diagram-v5.png" alt="Diagrama" />
 </p>
 
 👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
