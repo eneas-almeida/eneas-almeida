@@ -118,34 +118,47 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 <hr>
 
-## Metodologia desenvolvida
+## Base NodeJs
 
-O **ciclo** demonstrado no fluxograma abaixo, é uma base de projeto que desenvolvi em NodeJs, utilizando conceitos de uma arquitetura hexagonal.
+**O que resolve?**
+
+Problema das injeções de depedências quando utilizado o NodeJs com javascript não tipado.
 
 <p align="center">
   <img src="./images/fluxo-user-v3.png" />
 </p>
 
-👉 <a href="https://github.com/venzel/nodejs-base
-">Código de exemplo</a>
+👉 <a href="https://github.com/venzel/nodejs-base">Link do projeto</a>
 
 <hr>
 
 ## Trabalhos
 
-### Bekid
-
-👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
-
-<hr>
-
 ### MyPoint
-
-👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socket.io. **(em andamento)**<br />
 
 **O que resolve?**
 
 Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de dados, que levam a exaustão dos recursos de processamento.
+
+<p align="center">
+    <img src="./images/architeture-v1.png" alt="Arquitetura do sistema" width="700" />
+</p>
+
+👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socket.io. **(em andamento)**<br />
+
+<hr>
+
+### Bekid
+
+**O que resolve?**
+
+A didática de como se conduzir um projeto documentado.
+
+<p align="center">
+    <img src="./images/diagram-v5.png" alt="Diagrama" width="700" />
+</p>
+
+👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
 
 <hr>
 
