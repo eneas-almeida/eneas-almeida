@@ -211,7 +211,9 @@ A didática de como se conduzir um projeto documentado.
 
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários. MVC desenvolvido em C# com Microsoft SQL. **(finalizado)**<br />
 
-## Javascript (4 últimos algoritimos desenvolvidos)
+## Javascript (5 últimos algoritimos desenvolvidos)
+
+👉 <a href="https://github.com/venzel/javascript/blob/master/codes/readfileTxtAndConvertValuesToXlsx.js">Read Txt and convert to Xlsx</a> - Realiza a leitura de um arquivo .txt, obtém os valores, gera o arquivo .xlsx e insere os valores lidos do txt e por seguinte, realiza a formatação para o valor moeda R$. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/javascript/blob/master/codes/getLevel.js">Get Level</a> - Elimina o uso de vários IF e ELSE de intervalos entre valores. **(finalizado)**<br />
 
