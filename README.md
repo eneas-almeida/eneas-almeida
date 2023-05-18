@@ -7,7 +7,6 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   ❤️ 5+ anos de experiência em desenvolvimento backend e frontend;
 -   🎓 Bacharel em Engenharia de Computação;
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
--   🔥 Focado em assimilar [**Go**](https://github.com/venzel/golang) <img src="./images/go-8.svg" alt="Go" title="Go" height="20" />
 
 ### Curiosidades
 
