@@ -61,7 +61,7 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 - Docker;
 - Sonarlint;
 - Sentry;
-- keycloak / Cognito.
+- keycloak / Cognito (AWS).
 
 
 <details>
