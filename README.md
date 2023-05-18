@@ -19,66 +19,51 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 -   Engenheiro de Software Sênior na **<a href="https://www.indracompany.com">Indra Company</a>**, atuando com **VueJs** e **Spring Boot** em um sistema financeiro de cobranças, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
 
-### Stacks de atuações
+## Stacks de atuações
 
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJs" title="NodeJs" height="45" /> 
-  <img src="./images/nestjs.svg" alt="NestJs" title="NestJs" width="40" height="40" />  
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="40" height="40" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" title="Javascript" width="40" height="40" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" alt="Prisma" title="Prisma" width="40" height="40" /> 
-  <img src="./images/jest.svg" alt="Jest" title="Jest" width="40" height="40" />  
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs" title="VueJs" width="40" height="40" /> 
-</p>
+### Backend
 
--   **NodeJs** (🔥 Especialista)
--   **NestJs** (🔥 Especialista)
--   Typescript / Javascript
--   TypeORM / MySQL / Postgres / MongoDB / Redis
--   **Testes com Jest** (🔥 Especialista)
--   **VueJs/Vuetify** (🔥 Especialista)
--   Python
--   Angular
--   Socket.io
--   Spring Boot
--   Kafka/RabbitMQ
+- NodeJs / Express (5+) **(especialista sênior)**;
+- NestJs;
+- Testes com Jest;
+- Typescript / Javascript;
+- TypeORM / Postgres / MySQL / MongoDB / Mongoose / Redis;
+- Microserviços com NestJs;
+- RabbitMQ e Kafka;
+- Socket.io;
+- Python;
+- Go; **(pleno)**
+- Java / Spring Boot / JPA / Flyway / MySQL / Postgres / MongoDB. **(pleno)**
 
-<details>
-<summary>Interesses</summary>
+### FrontEnd
 
--   Atuação em ambiente de pressão e com adoção de metodologias ágeis;
--   Liderança técnica;
--   Análises, Refatorações e Code Review;
--   Documentação dos processos que envolvem o fluxo de desenvolvimento;
--   Desenvolvimento frontend e backend;
--   Testes unitários e integração;
--   Arquitetura de software;
--   Sustentação.
-</details>
+-   VueJs / Vuetify (5+) **(especialista sênior)**;
+-   Angular;
+-   Axios;
+-   HTML;
+-   LESS/CSS;
+-   JQuery;
+-   Typescript/Javascript.
 
-<h2>Experiência</h2>
+### Outros
 
-\*   Metodologias ágeis; <br />
-\*   Arquitetura limpa e clean code; <br />
-\*   Testes unitários e integração; <br />
-\*   Microserviços; <br />
-\*   Mensageria (RabbitMQ e Kafka); <br />
-\*   Git / Gitflow / Conventional commits; <br />
-\*   Líder de projeto; <br />
-\*   Ambiente de pressão e dados sigilosos; <br />
-\*   Desenvolvimento guiado a interfaces; <br />
-\*   Sustentação (correção de bugs e melhorias de código); <br />
-\*   Pré planejamento com UML; <br />
-\*   Implementações em memória para facilitação dos casos de testes unitários; <br />
-\*   Criação de documentações; <br />
-\*   Refatoração através da técnica de versionamentos; <br />
-\*   Code Review; <br />
-\*   SonarLint; <br />
-\*   Keycloak; <br />
-\*   Github, GitLab, BitBucket; <br />
-\*   Ambiente Linux; <br />
-\*   CI-CD; <br />
-\*   Docker;
+- Metodologias ágeis;
+- Desenvolvimento de projetos do zero arquitetado e documentado;
+- Arquitetura de software;
+- Atuação em ambiente pressão e dados sigilosos;
+- DDD;
+- SOLID / Clean Architecture;
+- Desenvolvimento guiado a testes (TDD);
+- Docker;
+- Git / Gitflow / Conventional Commit;
+- UML;
+- Python;
+- Go;
+- Docker;
+- Sonarlint;
+- Sentry;
+- keycloak / Cognito.
+
 
 <details>
 <summary>Técnicas de desenvolvimento utilizadas</summary>
@@ -302,60 +287,6 @@ A didática de como se conduzir um projeto documentado.
 👉 <a href="https://github.com/venzel/vuejs_filters">Vuejs Filters</a> - Estudo sobre filters. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_mixins">Vuejs Mixins</a> - Estudo sobre mixins. **(finalizado)**<br />
-
-<hr>
-
-## Áreas de conhecimento
-
-### Arquiteturas
-
--   Onion;
--   DDD;
--   Hexagonal;
--   Package by Feature.
-
-### Stack NodeJs
-
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" title="NodeJs" width="30" height="30" />
-  <img src="./images/nestjs.svg" alt="NestJs" title="NestJs" width="30" height="30" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" title="Typescript" width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" title="Javascript" width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" alt="Prisma" title="Prisma" width="30" height="30" />
-  <img src="./images/jest.svg" alt="Jest" title="Jest" width="30" height="30" />
-</p>
-
--   NodeJs / Express / NestJs; 🔥🔥🔥
--   Design Patterns (SOLID, Clean Code);
--   Typescript / Javascript;
--   TypeORM / Postgres / MongoDB / Redis;
--   Prisma;
--   Testes unitários;
--   Testes e2e;
--   Socket.io.
-
-### Stack Spring Boot
-
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" title="Spring" width="35" height="35" />
-  <img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" alt="Java" title="Java" width="35" height="35" /> 
-</p>
-
--   Java / Spring Boot / JPA / Hibernate
--   MySQL / Postgres/ MongoDB
-
-### Frontend
-
-<span><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs" title="VueJS" width="35" height="35" /></span>
-<span><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" title="Angular" width="35" height="35" /></span>
-
--   VueJs/Vuetify (🔥 Especialista)
--   Angular
--   Axios
--   HTML
--   LESS/CSS
--   JQuery
--   Typescript/Javascript
 
 <hr>
 
