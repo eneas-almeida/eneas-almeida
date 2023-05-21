@@ -10,9 +10,9 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 ### Curiosidades
 
--   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador)
--   🍖 Fã de churrasco, fez um? me chama! 🔥🔥🔥
--   ⚽ Torcedor do melhor e mais espetacular time do Brasil (**Vasco**)
+-   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador);
+-   🍖 Fã de churrasco, fez um? me chama! 🔥
+-   ⚽ Torcedor do Vasco.
 
 ### Atuação profissional anterior
 
@@ -22,22 +22,22 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 ### Backend
 
-- NodeJs / Express (5+) **(especialista sênior)**;
-- NestJs;
-- Testes com Jest;
-- Typescript / Javascript;
-- TypeORM / Postgres / MySQL / MongoDB / Mongoose / Redis;
-- Microserviços com NestJs;
-- RabbitMQ e Kafka;
-- Socket.io;
-- Python;
-- Go; **(pleno)**
-- Java / Spring Boot / JPA / Flyway / MySQL / Postgres / MongoDB. **(pleno)**
+-   NodeJs / Express (5+) **(especialista sênior)**;
+-   NestJs;
+-   Testes com Jest;
+-   Typescript / Javascript;
+-   TypeORM / Postgres / MySQL / MongoDB / Mongoose / Redis;
+-   Microserviços com NestJs;
+-   RabbitMQ e Kafka;
+-   Socket.io;
+-   Python;
+-   Go; **(pleno)**
+-   Java / Spring Boot / JPA / Flyway / MySQL / Postgres / MongoDB. **(pleno)**
 
 ### FrontEnd
 
 -   VueJs / Vuetify (5+) **(especialista sênior)**;
--   Angular;
+-   Angular; **(pleno)**
 -   Axios;
 -   HTML;
 -   LESS/CSS;
@@ -46,37 +46,37 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 ### Outros
 
-- Metodologias ágeis;
-- Desenvolvimento de projetos do zero arquitetado e documentado;
-- Arquitetura de software;
-- Atuação em ambiente pressão e dados sigilosos;
-- DDD;
-- SOLID / Clean Architecture;
-- Desenvolvimento guiado a testes (TDD);
-- Docker;
-- Git / Gitflow / Conventional Commit;
-- UML;
-- Python;
-- Go;
-- Docker;
-- Sonarlint;
-- Sentry;
-- keycloak / Cognito (AWS).
-
+-   Atuação em ambientes com adoção de metodologias ágeis;
+-   Atuação em ambientes de pressão com grande volume de dados sigilosos;
+-   Banco de dados relacional e NoSql;
+-   Experiência em desenvolvimento em arquitetura de micro-serviços;
+-   Experiência na criação de componentes reutilizáveis;
+-   Arquitetura de software;
+-   Experiência na utilização de conceitos DDD;
+-   SOLID / Clean Architecture;
+-   Experiência em desenvolvimento de códigos guiado a testes (TDD);
+-   Docker;
+-   Git / Gitflow / Conventional Commit;
+-   UML;
+-   Docker;
+-   Sonarlint;
+-   Sentry;
+-   keycloak / Cognito (AWS);
+-   Monitoramento de métricas técnicas (qualidade e complexidade do código);
+-   Desenvolvimento de projetos do zero arquitetado e documentado;
+-   Compreensão de CI/CD.
 
 <details>
 <summary>Técnicas de desenvolvimento utilizadas</summary>
 
 -   Padronização de commits (conventional commits);
--   Utilização de conceitos de módulos da arquitetura DDD;
 -   Versionamento de módulos para facilitação de refatorações;
 -   Modelagem de entidades ricas com tratamento de exceções (Either) (DDD);
--   Desenvolvimento guiado a testes (TDD);
 -   Desenvolvimento guiado a interfaces;
 -   Chaveamento nas injeções de dependências utilizando o padrão strategy;
 -   Persistência dos dados em memória para facilitação dos testes unitários;
 -   Tratamento de exceções personalizados;
--   Utilizações dos padrões Adapter, Strategy, Barrels, Dto, Factory;
+-   Utilizações dos padrões Adapter, Build, Strategy, Barrels, Dto, Factory;
 -   Utilização dos pipes validations para validação de dados nos DTOs;
 -   Camada de repositórios com ORM TypeORM;
 -   Versionamento do banco de dados, através das migrations;
