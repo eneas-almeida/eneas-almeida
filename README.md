@@ -50,12 +50,12 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Atuação em ambientes de pressão com grande volume de dados sigilosos;
 -   Banco de dados relacional e NoSql;
 -   Experiência em desenvolvimento em arquitetura de micro-serviços;
+-   Experiência em API Manager (Linkapi);
 -   Experiência na criação de componentes reutilizáveis;
 -   Arquitetura de software;
 -   Experiência na utilização de conceitos DDD;
 -   SOLID / Clean Architecture;
 -   Experiência em desenvolvimento de códigos guiado a testes (TDD);
--   Docker;
 -   Git / Gitflow / Conventional Commit;
 -   UML;
 -   Docker;
