@@ -158,6 +158,7 @@ A didática de como se conduzir um projeto documentado.
 ### VueJs 3
 
 👉 <a href="https://github.com/venzel/vue3-with-casl">VueJs v3 + Pinia + ACLs Casl</a> **(finalizado)**<br />
+👉 <a href="https://github.com/venzel/vue3-composition-api">VueJs v3 + Composition api + props + emit + watch</a> **(finalizado)**
 
 ### Node
 
