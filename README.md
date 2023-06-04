@@ -62,10 +62,10 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Sonarlint;
 -   Sentry;
 -   keycloak / Cognito (AWS);
--   Monitoramento de métricas técnicas (qualidade e complexidade do código);
+-   Monitoramento de métricas técnicas de qualidade e complexidade do código (Code Review);
 -   Desenvolvimento de projetos do zero arquitetado e documentado;
 -   Compreensão de CI/CD;
--   Jira.
+-   Jira / Bitrix24 / GitLab.
 
 <details>
 <summary>Técnicas de desenvolvimento utilizadas</summary>
@@ -153,6 +153,7 @@ A didática de como se conduzir um projeto documentado.
 
 👉 <a href="https://github.com/venzel/go-api">Go API</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**<br />
+👉 <a href="https://github.com/venzel/golang/tree/master/_fundamentals">Go fundamentos</a> **(finalizado)**<br />
 👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> **(em andamento, projeto de terceiro)**
 
 ### VueJs 3
@@ -307,7 +308,7 @@ Os autores citados abaixo são fontes de referências em minha jornada de estudo
 -   Ellen körbes **(GoLang)**
 -   Fernando Daciuk **(Javascript e Git avançado)**
 -   Fernando Amaral **(Kafka)**
--   Wesley Willians **(Kafka)**
+-   Wesley Willians **(Kafka, GoLang)**
 -   Loiane Groner **(Angular)**
 -   Leonardo Moura **(VueJs, Docker, Typescript e GraphQL)**
 -   Matheus Battisti **(Docker, Kubernetes e VueJs)**
