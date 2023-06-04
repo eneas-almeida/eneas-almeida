@@ -22,7 +22,7 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 ### Backend
 
--   NodeJs / Express (5+) **(especialista sênior)**;
+-   NodeJs / Express (+5 anos) **(especialista sênior)**;
 -   NestJs;
 -   Testes com Jest;
 -   Typescript / Javascript;
@@ -36,8 +36,8 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 ### FrontEnd
 
--   VueJs / Vuetify (5+) **(especialista sênior)**;
--   Angular; **(pleno)**
+-   VueJs 2e3 / Vuetify / Pinia / Casl (+5 anos) **(especialista sênior)**;
+-   Angular 2; **(pleno)**
 -   Axios;
 -   HTML;
 -   LESS/CSS;
@@ -154,6 +154,10 @@ A didática de como se conduzir um projeto documentado.
 👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> **(em andamento, projeto de terceiro)**
 
+### VueJs 3
+
+👉 <a href="https://github.com/venzel/vue3-with-casl">VueJs v3 + Pinia + ACLs Casl</a> **(finalizado)**<br />
+
 ### Node
 
 👉 <a href="https://github.com/venzel/nodejs-base">Node Base</a> 🔒 (privado) **(em andamento)**
@@ -243,7 +247,7 @@ A didática de como se conduzir um projeto documentado.
 
 ## VueJs
 
-👉 <a href="https://github.com/venzel/vuejs_tests">VueJs Tests</a> - Estudo sobre testes com jest e vuetify. **(em andamento)**<br />
+👉 <a href="https://github.com/venzel/vuejs_tests">VueJs Tests</a> - Estudo sobre testes com jest e vuetify. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_upload_xsl">VueJs Upload XSL</a> - Estudo sobre upload de arquivos .xsl com vuetify. 🔒 (privado) **(finalizado)**<br />
 
@@ -293,6 +297,7 @@ A didática de como se conduzir um projeto documentado.
 
 Os autores citados abaixo são fontes de referências em minha jornada de estudo e trabalho, na maioria deles, participei de cursos que serviram de base para aprofundar meus conhecimentos.
 
+-   Tiago Matos **(VueJs 3, Composition API, Pinia)**
 -   João Rangel **(NestJs)**
 -   Diego Fernandes **(NestJs, Microserviços e RabbitMQ)**
 -   Stephany Henrique **(GoLang)**
