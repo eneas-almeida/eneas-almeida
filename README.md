@@ -64,7 +64,8 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   keycloak / Cognito (AWS);
 -   Monitoramento de métricas técnicas (qualidade e complexidade do código);
 -   Desenvolvimento de projetos do zero arquitetado e documentado;
--   Compreensão de CI/CD.
+-   Compreensão de CI/CD;
+-   Jira.
 
 <details>
 <summary>Técnicas de desenvolvimento utilizadas</summary>
