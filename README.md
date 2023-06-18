@@ -151,6 +151,7 @@ A didática de como se conduzir um projeto documentado.
 
 ### Go
 
+👉 <a href="https://github.com/venzel/go-injections">Go Injections</a> **(finalizado)**<br />
 👉 <a href="https://github.com/venzel/go-api">Go API</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/golang/tree/master/_fundamentals">Go fundamentos</a> **(finalizado)**<br />
