@@ -24,10 +24,9 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 ### Backend
 
 -   Go;
--   NodeJs / Express
--   NestJs;
--   Testes com Jest;
 -   Typescript / Javascript;
+-   NodeJs / NestJs;
+-   Testes com Jest;
 -   TypeORM / Postgres / MySQL / MongoDB / Mongoose / Redis;
 -   Microserviços com NestJs;
 -   RabbitMQ e Kafka;
@@ -35,18 +34,18 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Python;
 -   Java / Spring Boot / JPA / Flyway / MySQL / Postgres / MongoDB.
 
+### Cloud / Microserviços
+
+-   AWS (Cognito, Lambda, MongoDB, S3)
+
 ### FrontEnd
 
--   VueJs 2e3 / Vuetify / Pinia / Casl;
+-   VueJs 2e3 / Vuetify / Vuero / Pinia / Casl;
 -   Angular 2;
--   Axios;
--   HTML;
--   LESS/CSS;
 -   JQuery;
--   Typescript/Javascript.
 
-### Outros
-
+<details>
+<summary>+ Experiências</summary>
 -   Atuação em ambientes com adoção de metodologias ágeis;
 -   Atuação em ambientes de pressão com grande volume de dados sigilosos;
 -   Banco de dados relacional e NoSql;
@@ -67,10 +66,12 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Desenvolvimento de projetos do zero arquitetado e documentado;
 -   Compreensão de CI/CD;
 -   Jira / Bitrix24 / GitLab.
+</details>
 
 <details>
 <summary>Técnicas de desenvolvimento utilizadas</summary>
 
+-   Fail first;
 -   Padronização de commits (conventional commits);
 -   Versionamento de módulos para facilitação de refatorações;
 -   Modelagem de entidades ricas com tratamento de exceções (Either) (DDD);
@@ -93,11 +94,10 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Swagger;
 -   Filas com o Kafka e RabittMQ;
 -   Socket.io;
--   Técnica de strategy guard no typescript;
 -   Criação de caches;
 -   Interceptação de erros com o sentry;
 -   Utilização das bibliotecas: bull, tsryng, ioredis, supertest, mongodb, sentry, moment;
--   Técnica de expurgo de dados com cronjobs.
+-   Técnica de expurgo de dados com cronjobs;
 </details>
 
 <hr>
