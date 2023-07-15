@@ -45,7 +45,8 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   JQuery;
 
 <details>
-<summary>+ Experiências</summary>
+<summary>+ Sobre</summary>
+
 -   Atuação em ambientes com adoção de metodologias ágeis;
 -   Atuação em ambientes de pressão com grande volume de dados sigilosos;
 -   Banco de dados relacional e NoSql;
