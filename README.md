@@ -4,11 +4,12 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 ## Sobre
 
--   ❤️ 5+ anos de experiência em desenvolvimento backend e frontend;
+-   ❤️ 7+ anos de experiência em desenvolvimento moderno;
 -   🎓 Bacharel em Engenharia de Computação;
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
+-   ☂️ Go Expert [**FULL CYCLE**](https://goexpert.fullcycle.com.br/curso/)
 
-### Curiosidades
+### +
 
 -   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador);
 -   🍖 Fã de churrasco, fez um? me chama! 🔥
@@ -22,7 +23,8 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 ### Backend
 
--   NodeJs / Express (+5 anos) **(especialista sênior)**;
+-   Go;
+-   NodeJs / Express
 -   NestJs;
 -   Testes com Jest;
 -   Typescript / Javascript;
@@ -31,13 +33,12 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   RabbitMQ e Kafka;
 -   Socket.io;
 -   Python;
--   Go; **(pleno)**
--   Java / Spring Boot / JPA / Flyway / MySQL / Postgres / MongoDB. **(pleno)**
+-   Java / Spring Boot / JPA / Flyway / MySQL / Postgres / MongoDB.
 
 ### FrontEnd
 
--   VueJs 2e3 / Vuetify / Pinia / Casl (+5 anos) **(especialista sênior)**;
--   Angular 2; **(pleno)**
+-   VueJs 2e3 / Vuetify / Pinia / Casl;
+-   Angular 2;
 -   Axios;
 -   HTML;
 -   LESS/CSS;
@@ -151,11 +152,13 @@ A didática de como se conduzir um projeto documentado.
 
 ### Go
 
+👉 <a href="https://github.com/venzel/go-market">Go market</a> **(finalizado)**<br />
 👉 <a href="https://github.com/venzel/go-injections">Go Injections</a> **(finalizado)**<br />
 👉 <a href="https://github.com/venzel/go-api">Go API</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/golang/tree/master/_fundamentals">Go fundamentos</a> **(finalizado)**<br />
 👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> **(em andamento, projeto de terceiro)**
+👉 <a href="https://github.com/venzel/go-algo">Go algoritimos</a> **(em andamento)**
 
 ### VueJs 3
 
