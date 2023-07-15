@@ -158,7 +158,7 @@ A didática de como se conduzir um projeto documentado.
 👉 <a href="https://github.com/venzel/go-api">Go API</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**<br />
 👉 <a href="https://github.com/venzel/golang/tree/master/_fundamentals">Go fundamentos</a> **(finalizado)**<br />
-👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> **(em andamento, projeto de terceiro)**
+👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> **(em andamento, projeto de terceiro)**<br />
 👉 <a href="https://github.com/venzel/go-algo">Go algoritimos</a> **(em andamento)**
 
 ### VueJs 3
