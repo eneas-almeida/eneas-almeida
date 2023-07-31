@@ -163,7 +163,7 @@ A didática de como se conduzir um projeto documentado.
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-deploy">Go deploy</a> <br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-validations">Go validations</a> <br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-configs-dot-env">Go env</a> <br />
-👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a>
+👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> (Repositório de terceiro)
 
 ### VueJs 3
 
