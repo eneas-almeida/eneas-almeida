@@ -153,13 +153,17 @@ A didática de como se conduzir um projeto documentado.
 
 ### Go
 
-👉 <a href="https://github.com/venzel/go-algo">Go algoritmos</a> ❤️ **(em andamento)**<br />
-👉 <a href="https://github.com/venzel/go-market">Go market</a> **(finalizado)**<br />
-👉 <a href="https://github.com/venzel/go-injections">Go Injections</a> **(finalizado)**<br />
-👉 <a href="https://github.com/venzel/go-api">Go API</a> **(em andamento)**<br />
-👉 <a href="https://github.com/venzel/go-encoder">Go encoder</a> **(em andamento)**<br />
-👉 <a href="https://github.com/venzel/golang/tree/master/_fundamentals">Go fundamentos</a> **(finalizado)**<br />
-👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> **(em andamento, projeto de terceiro)**
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-algorithms">Go algoritmos</a><br />
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-injections">Go injections</a><br />
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-injections-with-google-wire">Go injections com Google Wire</a><br />
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-viacep">Go API ViaCEP</a><br />
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-encoder">Go encoder</a> <br />
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-database">Go database</a> <br />
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-clean-architecture-basic">Go clean architecture</a> <br />
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-deploy">Go deploy</a> <br />
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-validations">Go validations</a> <br />
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-configs-dot-env">Go env</a> <br />
+👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a>
 
 ### VueJs 3
 
