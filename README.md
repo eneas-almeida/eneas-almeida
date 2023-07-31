@@ -59,6 +59,7 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Experiência em desenvolvimento de códigos guiado a testes (TDD);
 -   Git / Gitflow / Conventional Commit;
 -   UML;
+-   BPMN;
 -   Docker;
 -   Sonarlint;
 -   Sentry;
