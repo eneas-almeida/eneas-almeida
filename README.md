@@ -154,6 +154,7 @@ A didática de como se conduzir um projeto documentado.
 
 ### Go
 
+👉 <a href="https://github.com/venzel/go/tree/main/projects/go-http-retry-backoff">Go http retry with exponential backoff</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-algorithms">Go algoritmos</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-injections">Go injections</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-injections-with-google-wire">Go injections com Google Wire</a><br />
