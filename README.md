@@ -166,6 +166,10 @@ A didática de como se conduzir um projeto documentado.
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-configs-dot-env">Go env</a> <br />
 👉 <a href="https://github.com/venzel/concorrencia-go">Go concorrência</a> (Repositório de terceiro)
 
+### Nodejs
+
+👉 <a href="https://github.com/venzel/nodejs-http-retry/tree/main">Resiliência de chamadas HTTP com Axios Retry</a><br />
+
 ### VueJs 3
 
 👉 <a href="https://github.com/venzel/vue3-with-casl">VueJs v3 + Pinia + ACLs Casl</a> **(finalizado)**<br />
