@@ -104,17 +104,17 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 <hr>
 
-## Base NodeJs
+## Clean Architecture
 
-**O que resolve?**
+**Microserviço**
 
-Problema das injeções de depedências quando utilizado o NodeJs com javascript não tipado.
+Customer API é um microserviço que utiliza um padrão arquitetural Clean Architecture e modelagem de entidade utilizando conceitos de DDD.
 
 <p align="center">
-  <img src="./images/fluxo-user-v3.png" />
+  <img src="https://github.com/venzel/customer-api/raw/main/media/customer-v1.excalidraw-v1.png" />
 </p>
 
-👉 <a href="https://github.com/venzel/nodejs-base">Link do projeto</a>
+👉 <a href="https://github.com/venzel/customer-api">Link do projeto</a>
 
 <hr>
 
@@ -170,15 +170,12 @@ A didática de como se conduzir um projeto documentado.
 ### Nodejs
 
 👉 <a href="https://github.com/venzel/nodejs-http-retry/tree/main">Resiliência de chamadas HTTP com Axios Retry</a><br />
+👉 <a href="https://github.com/venzel/nodejs-base">NodeJs Base API</a>
 
 ### VueJs 3
 
 👉 <a href="https://github.com/venzel/vue3-with-casl">VueJs v3 + Pinia + ACLs Casl</a> **(finalizado)**<br />
 👉 <a href="https://github.com/venzel/vue3-composition-api">VueJs v3 + Composition api + props + emit + watch</a> **(finalizado)**
-
-### Node
-
-👉 <a href="https://github.com/venzel/nodejs-base">Node Base</a> 🔒 (privado) **(em andamento)**
 
 ### Kafka
 
