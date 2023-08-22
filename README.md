@@ -172,6 +172,11 @@ A didática de como se conduzir um projeto documentado.
 👉 <a href="https://github.com/venzel/nodejs-http-retry/tree/main">Resiliência de chamadas HTTP com Axios Retry</a><br />
 👉 <a href="https://github.com/venzel/nodejs-base">NodeJs Base API</a>
 
+### K8s
+
+👉 <a href="https://github.com/venzel/k8s">K8s</a><br />
+👉 <a href="https://github.com/venzel/istio">Istio</a>
+
 ### VueJs 3
 
 👉 <a href="https://github.com/venzel/vue3-with-casl">VueJs v3 + Pinia + ACLs Casl</a> **(finalizado)**<br />
