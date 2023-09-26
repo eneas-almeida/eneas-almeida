@@ -104,6 +104,16 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 
 <hr>
 
+## BFF
+
+API com padrão arquitetural BFF e microserviços com Clean Architecture.
+
+<p align="center">
+  <img src="https://github.com/venzel/bff/blob/main/media/bff-api.png" />
+</p>
+
+👉 <a href="https://github.com/venzel/bff">Link do projeto</a>
+
 ## Clean Architecture
 
 **Microserviço**
