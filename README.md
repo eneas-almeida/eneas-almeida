@@ -8,8 +8,9 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 -   ❤️ 7+ anos de experiência em desenvolvimento moderno;
 -   🎓 Bacharel em Engenharia de Computação;
--   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
--   ☂️ Go Expert [**FULL CYCLE**](https://goexpert.fullcycle.com.br/curso/)
+-   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
+-   ☂️ Go Expert [**FULL CYCLE**](https://goexpert.fullcycle.com.br/curso/);
+-   Focado nas stacks Go e NodeJs;
 
 ### +
 
