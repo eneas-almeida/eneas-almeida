@@ -19,6 +19,8 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 ### Atuação profissional anterior
 
+<img src="./images/indra.jpg" alt="Sicoob" title="Sicoob" height="40" />
+
 -   Engenheiro de Software Sênior na **<a href="https://www.indracompany.com">Indra Company</a>**, atuando com **VueJs** e **Spring Boot** em um sistema financeiro de cobranças, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
 
 ## Stacks de atuações
