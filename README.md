@@ -53,7 +53,6 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Experiência em desenvolvimento em arquitetura de micro-serviços;
 -   Experiência em API Manager (Linkapi);
 -   Experiência na criação de componentes reutilizáveis;
--   Arquitetura de software;
 -   Experiência na utilização de conceitos DDD;
 -   SOLID / Clean Architecture;
 -   Experiência em desenvolvimento de códigos guiado a testes (TDD);
@@ -64,8 +63,7 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Sonarlint;
 -   Sentry;
 -   keycloak / Cognito (AWS);
--   Monitoramento de métricas técnicas de qualidade e complexidade do código (Code Review);
--   Desenvolvimento de projetos do zero arquitetado e documentado;
+-   Documentação de APIs;
 -   Compreensão de CI/CD;
 -   Jira / Bitrix24 / GitLab.
 </details>
@@ -99,10 +97,12 @@ Atualmente, desenvolvedor backend sênior na <img src="./images/sicoob.jpg" alt=
 -   Criação de caches;
 -   Interceptação de erros com o sentry;
 -   Utilização das bibliotecas: bull, tsryng, ioredis, supertest, mongodb, sentry, moment;
--   Técnica de expurgo de dados com cronjobs;
+-   Técnica de expurgo;
 </details>
 
 <hr>
+
+👉 <a href="https://github.com/venzel/cache-parallel/tree/master">Cache com paralelismo</a><br />
 
 ## BFF
 
