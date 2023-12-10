@@ -199,6 +199,11 @@ A didática de como se conduzir um projeto documentado.
 
 ### Kafka
 
+<p align="center">
+    <img src="./images/kafka.jpg" width="200px" alt="Diagrama" />
+</p>
+
+👉 <a href="https://github.com/venzel/kafka">Kafka</a><br />
 👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
 👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
 👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-python">Kafka + Python</a>
