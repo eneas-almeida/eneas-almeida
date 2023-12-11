@@ -107,6 +107,20 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 <hr>
 
+### Kafka
+
+<p align="center">
+    <img src="./images/kafka.jpg" width="200px" alt="Diagrama" />
+</p>
+
+👉 <a href="https://github.com/venzel/kafka">Como trabalhar com o Kafka</a><br />
+👉 <a href="https://github.com/venzel/customer-clean-architecture/blob/main/src/framework/services/kafka-queue.service.ts">Implementação de um serviço em Typescript com Kafka</a><br />
+👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
+👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
+👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-python">Kafka + Python</a>
+
+<hr>
+
 👉 <a href="https://github.com/venzel/cache-parallel/tree/master">Cache com paralelismo</a><br />
 
 ## BFF
@@ -196,17 +210,6 @@ A didática de como se conduzir um projeto documentado.
 
 👉 <a href="https://github.com/venzel/vue3-with-casl">VueJs v3 + Pinia + ACLs Casl</a> **(finalizado)**<br />
 👉 <a href="https://github.com/venzel/vue3-composition-api">VueJs v3 + Composition api + props + emit + watch</a> **(finalizado)**
-
-### Kafka
-
-<p align="center">
-    <img src="./images/kafka.jpg" width="200px" alt="Diagrama" />
-</p>
-
-👉 <a href="https://github.com/venzel/kafka">Kafka</a><br />
-👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
-👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
-👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-python">Kafka + Python</a>
 
 <hr>
 
