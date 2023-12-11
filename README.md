@@ -110,7 +110,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 ### Kafka
 
 <p align="center">
-    <img src="https://github.com/venzel/kafka/raw/master/media/kafka/kafka-1.gif" />
+    <img src="https://github.com/venzel/kafka/raw/master/media/kafka/kafka-1-2.gif" />
 </p>
 
 👉 <a href="https://github.com/venzel/kafka">Como trabalhar com o Kafka</a><br />
