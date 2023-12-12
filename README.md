@@ -41,7 +41,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 ### Cloud / Microserviços
 
--   AWS (Cognito, Lambda, MongoDB, S3)
+-   AWS (Cognito, Lambda, DocumentDB, S3)
 
 ### FrontEnd
 
@@ -110,7 +110,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 ### Kafka
 
 <p align="center">
-    <img src="https://github.com/venzel/kafka/raw/master/media/kafka/kafka-1-2.gif" />
+    <a href="https://github.com/venzel/kafka"><img src="https://github.com/venzel/kafka/raw/master/media/kafka/kafka-1-2.gif" /></a>
 </p>
 
 👉 <a href="https://github.com/venzel/kafka">Como trabalhar com o Kafka</a><br />
@@ -128,7 +128,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 API com padrão arquitetural BFF e microserviços com Clean Architecture.
 
 <p align="center">
-  <img src="https://github.com/venzel/bff/blob/main/media/bff-api.png" />
+  <a href="https://github.com/venzel/bff"><img src="./images/bff.gif" /></a>
 </p>
 
 👉 <a href="https://github.com/venzel/bff">Link do projeto</a>
