@@ -10,7 +10,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 -   🎓 Bacharel em Engenharia de Computação;
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
 -   ☂️ Go Expert [**FULL CYCLE**](https://goexpert.fullcycle.com.br/curso/);
--   Focado nas stacks Go e NodeJs;
+-   Focado nas stacks **Go** e **NodeJs**;
 
 ### +
 
@@ -43,11 +43,10 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 -   AWS (Cognito, Lambda, DocumentDB, S3)
 
-### FrontEnd
+### Frontend
 
 -   VueJs 2e3 / Vuetify / Vuero / Pinia / Casl;
 -   Angular 2;
--   JQuery;
 
 <details>
 <summary>+ Sobre</summary>
@@ -121,7 +120,15 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 <hr>
 
-👉 <a href="https://github.com/venzel/cache-parallel/tree/master">Cache com paralelismo</a><br />
+### RabbitMQ
+
+<p align="center">
+    <img src="./images/rabbitmq.png" width="220px" />
+</p>
+
+👉 <a href="https://github.com/venzel/rabbitmq">Como trabalhar com o RabbitMQ</a><br />
+
+<hr>
 
 ## BFF
 
@@ -181,7 +188,17 @@ A didática de como se conduzir um projeto documentado.
 
 <hr>
 
-### Go
+## + Técnicas
+
+👉 <a href="https://github.com/venzel/cache-parallel/tree/master">Cache com paralelismo</a><br />
+
+<hr>
+
+### GoLang
+
+<p align="center">
+    <img src="./images/golang.png" width="170px" />
+</p>
 
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-http-retry-backoff">Go http retry with exponential backoff</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-algorithms">Go algoritmos</a><br />
