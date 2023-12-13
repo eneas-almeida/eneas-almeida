@@ -123,7 +123,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 ### RabbitMQ
 
 <p align="center">
-    <img src="./images/rabbitmq.png" width="220px" />
+    <a href="https://github.com/venzel/rabbitmq"><img src="./images/rabbitmq.png" width="180px" /></a>
 </p>
 
 👉 <a href="https://github.com/venzel/rabbitmq">Como trabalhar com o RabbitMQ</a><br />
@@ -147,10 +147,10 @@ API com padrão arquitetural BFF e microserviços com Clean Architecture.
 Customer API é um microserviço que utiliza um padrão arquitetural Clean Architecture e modelagem de entidade utilizando conceitos de DDD.
 
 <p align="center">
-  <img src="https://github.com/venzel/customer-api/raw/main/media/customer-v1.excalidraw-v1.png" />
+  <a href="https://github.com/venzel/customer-clean-architecture"><img src="https://github.com/venzel/customer-api/raw/main/media/customer-v1.excalidraw-v1.png" /></a>
 </p>
 
-👉 <a href="https://github.com/venzel/customer-api">Link do projeto</a>
+👉 <a href="https://github.com/venzel/customer-clean-architecture">Link do projeto</a>
 
 <hr>
 
@@ -161,7 +161,7 @@ Customer API é um microserviço que utiliza um padrão arquitetural Clean Archi
 Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de dados, que levam a exaustão dos recursos de processamento.
 
 <p align="center">
-    <img src="./images/architeture-v1.png" alt="Arquitetura do sistema" />
+    <a href="https://github.com/venzel/mypoint"><img src="./images/architeture-v1.png" alt="Arquitetura do sistema" /></a>
 </p>
 
 👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socket.io. **(em andamento)**<br />
@@ -197,9 +197,10 @@ A didática de como se conduzir um projeto documentado.
 ### GoLang
 
 <p align="center">
-    <img src="./images/golang.png" width="170px" />
+    <a href="https://github.com/venzel/golang"><img src="./images/golang.png" width="170px" /></a>
 </p>
 
+👉 <a href="https://github.com/venzel/golang">Instalação, configuração e plugins</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-http-retry-backoff">Go http retry with exponential backoff</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-algorithms">Go algoritmos</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-injections">Go injections</a><br />
