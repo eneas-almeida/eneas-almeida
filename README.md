@@ -113,7 +113,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 </p>
 
 👉 <a href="https://github.com/venzel/kafka">Como trabalhar com o Kafka</a><br />
-👉 <a href="https://github.com/venzel/customer-clean-architecture/blob/main/src/framework/services/kafka-queue.service.ts">Implementação de um serviço em Typescript com Kafka</a><br />
+👉 <a href="https://github.com/venzel/customer-clean-architecture/blob/main/src/infra/services/queue/kafka-queue.service.ts">Implementação de um serviço em Typescript com Kafka</a><br />
 👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
 👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
 👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-python">Kafka + Python</a>
