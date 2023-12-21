@@ -259,13 +259,6 @@ A didática de como se conduzir um projeto documentado.
 
 👉 <a href="https://github.com/venzel/api-places-to-know">Places to Know</a> - Desenvolvida em NodeJs, com objetivo de gerar um banco de dados de fotos de locais pelo mundo. Os detalhes do projeto são a integração com uma API externa, criação de uma busca com filtro e paginação. **(finalizado)**
 
-## Acadêmico
-
-| Foto                                            | Descrição                                                                                                                                                                                         |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="./images/placa-1.jpeg" width="350" /> | 👉 <a href="https://github.com/venzel/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br /> |
-| <img src="./images/shield.png" width="350" />   | 👉 <a href="https://github.com/venzel/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />                      |
-
 ## Trabalhos antigos
 
 👉 <a href="https://github.com/venzel/oraculo">Oráculo</a> - Sistema de gerenciamento financeiro. Frontend desenvolvido em html, javascript e JQuery para empresa cliente. **(finalizado)**<br />
@@ -363,6 +356,13 @@ A didática de como se conduzir um projeto documentado.
 👉 <a href="https://github.com/venzel/vuejs_filters">Vuejs Filters</a> - Estudo sobre filters. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/vuejs_mixins">Vuejs Mixins</a> - Estudo sobre mixins. **(finalizado)**<br />
+
+## Acadêmico
+
+| Foto                                            | Descrição                                                                                                                                                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./images/placa-1.jpeg" width="350" /> | 👉 <a href="https://github.com/venzel/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br /> |
+| <img src="./images/shield.png" width="350" />   | 👉 <a href="https://github.com/venzel/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />                      |
 
 <hr>
 
