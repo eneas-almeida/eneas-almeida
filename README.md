@@ -154,6 +154,18 @@ Customer API é um microserviço que utiliza um padrão arquitetural Clean Archi
 
 <hr>
 
+## Go Clean Architecture (APi Account)
+
+Account API é um microserviço desenvolvido em Go, que utiliza um padrão arquitetural Clean Architecture.
+
+<p align="center">
+    <a href="https://github.com/venzel/go-account-api-mongodb"><img src="./images/fiber.png" /></a>
+</p>
+
+👉 <a href="https://github.com/venzel/go-account-api-mongodb">Link do projeto</a>
+
+<hr>
+
 ## MyPoint
 
 **O que resolve?**
