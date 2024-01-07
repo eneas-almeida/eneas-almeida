@@ -213,6 +213,7 @@ A didática de como se conduzir um projeto documentado.
 </p>
 
 👉 <a href="https://github.com/venzel/golang">Instalação, configuração e plugins</a><br />
+👉 <a href="https://github.com/venzel/go-routines/">Go routines (caso dos trabalhadores eficiêntes)</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-http-retry-backoff">Go http retry with exponential backoff</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-algorithms">Go algoritmos</a><br />
 👉 <a href="https://github.com/venzel/go/tree/main/projects/go-injections">Go injections</a><br />
