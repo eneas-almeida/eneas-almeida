@@ -22,31 +22,25 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 <img src="./images/indra.jpg" alt="Sicoob" title="Sicoob" height="40" />
 
--   Engenheiro de Software Sênior nível 3 na **<a href="https://www.indracompany.com">Indra Company</a>**, atuando com **VueJs**, **GoLang** e **Spring Boot** em um sistema financeiro de cobranças, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
+-   Engenheiro de Software Sênior nível 3 na **<a href="https://www.indracompany.com">Indra Company</a>**, atuando com **Spring Boot** , **Go**, **RabbitMq** e **VueJs** em um sistema financeiro de cobranças, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
 
 ## Stacks de atuações
 
 ### Backend
 
 -   Go;
--   Typescript / Javascript;
 -   NodeJs / NestJs;
--   Testes com Jest;
+-   Typescript / Javascript;
+-   RabbitMQ / Kafka;
+-   gRPC;
 -   TypeORM / Postgres / MySQL / MongoDB / Mongoose / Redis;
--   Microserviços com NestJs;
--   RabbitMQ e Kafka;
--   Socket.io;
 -   Python;
--   Java / Spring Boot / JPA / Flyway / MySQL / Postgres / MongoDB.
-
-### Cloud / Microserviços
-
--   AWS (Cognito, Lambda, DocumentDB, S3)
+-   AWS;
+-   Elasticsearch;
 
 ### Frontend
 
 -   VueJs 2e3 / Vuetify / Vuero / Pinia / Casl;
--   Angular 2;
 
 <details>
 <summary>+ Sobre</summary>
@@ -54,7 +48,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 -   Atuação em ambientes com adoção de metodologias ágeis;
 -   Atuação em ambientes de pressão com grande volume de dados sigilosos;
 -   Banco de dados relacional e NoSql;
--   Experiência em desenvolvimento em arquitetura de micro-serviços;
+-   Experiência em desenvolvimento em arquitetura de microsserviços;
 -   Experiência em API Manager (Linkapi);
 -   Experiência na criação de componentes reutilizáveis;
 -   Experiência na utilização de conceitos DDD;
@@ -106,55 +100,55 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 <hr>
 
-### Kafka
+## gRPC
 
 <p align="center">
-    <a href="https://github.com/venzel/kafka"><img src="https://github.com/venzel/kafka/raw/master/media/kafka/kafka-1-2.gif" /></a>
+    <a href="https://github.com/venzel/grpc"><img src="./images/grpc-logo.png" width="300" /></a>
 </p>
 
-👉 <a href="https://github.com/venzel/kafka">Como trabalhar com o Kafka</a><br />
-👉 <a href="https://github.com/venzel/customer-clean-architecture/blob/main/src/infra/services/queue/kafka-queue.service.ts">Implementação de um serviço em Typescript com Kafka</a><br />
-👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
-👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
-👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-python">Kafka + Python</a>
+👉 <a href="https://github.com/venzel/grpc">Guia gRPC</a> - Guia de repasses para equipe.
 
-<hr>
-
-### RabbitMQ
+## RabbitMQ
 
 <p align="center">
     <a href="https://github.com/venzel/rabbitmq"><img src="./images/rabbitmq.png" width="180px" /></a>
 </p>
 
-👉 <a href="https://github.com/venzel/rabbitmq">Como trabalhar com o RabbitMQ</a><br />
+👉 <a href="https://github.com/venzel/rabbitmq">Guia RabbitMQ</a> - Guia de repasses para equipe.
 
-<hr>
+## Kafka
+
+<p align="center">
+    <a href="https://github.com/venzel/kafka"><img src="https://github.com/venzel/kafka/raw/master/media/kafka/kafka-1-2.gif" /></a>
+</p>
+
+👉 <a href="https://github.com/venzel/kafka">Guia Kafka</a> - Guia de repasses para equipe.<br />
+👉 <a href="https://github.com/venzel/customer-clean-architecture/blob/main/src/infra/services/queue/kafka-queue.service.ts">Implementação de um serviço em Typescript com Kafka</a><br />
+👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
+👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
+👉 <a href="https://github.com/venzel/kafka/tree/master/kafka-python">Kafka + Python</a>
 
 ## BFF
-
-API com padrão arquitetural BFF e microserviços com Clean Architecture.
 
 <p align="center">
   <a href="https://github.com/venzel/bff"><img src="./images/bff.gif" /></a>
 </p>
 
-👉 <a href="https://github.com/venzel/bff">Link do projeto</a>
+👉 <a href="https://github.com/venzel/bff">Guia BFF</a> - Guia de repasses para equipe.
 
 ## Clean Architecture
 
-**Microserviço**
-
-Customer API é um microserviço que utiliza um padrão arquitetural Clean Architecture e modelagem de entidade utilizando conceitos de DDD.
+\* Imagem por: **Otávio Lemos**
 
 <p align="center">
-  <a href="https://github.com/venzel/customer-clean-architecture"><img src="https://github.com/venzel/customer-api/raw/main/media/customer-v1.excalidraw-v1.png" /></a>
+    <a href="https://github.com/venzel/customer-clean-architecture"><img src="./images/clean.svg" width="500" /></a>
 </p>
 
-👉 <a href="https://github.com/venzel/customer-clean-architecture">Link do projeto</a>
+👉 <a href="https://github.com/venzel/customer-clean-architecture">Guia Clean Architecture</a> - Guia de repasses para equipe.
 
 <hr>
 
-## Go Clean Architecture (APi Account)
+## Go Clean Architecture
 
 Account API é um microserviço desenvolvido em Go, que utiliza um padrão arquitetural Clean Architecture.
 
