@@ -108,10 +108,18 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 👉 <a href="https://github.com/venzel/grpc">Guia gRPC</a> - Guia de repasses para equipe.
 
+## GraphQL
+
+<p align="center">
+    <a href="https://github.com/venzel/graphql"><img src="./images/graphql.svg" width="300" /></a>
+</p>
+
+👉 <a href="https://github.com/venzel/graphql">Guia GraphQL</a> - Guia de repasses para equipe.
+
 ## RabbitMQ
 
 <p align="center">
-    <a href="https://github.com/venzel/rabbitmq"><img src="./images/rabbitmq.png" width="180px" /></a>
+    <a href="https://github.com/venzel/rabbitmq"><img src="./images/rabbitmq.webp" width="300" /></a>
 </p>
 
 👉 <a href="https://github.com/venzel/rabbitmq">Guia RabbitMQ</a> - Guia de repasses para equipe.
