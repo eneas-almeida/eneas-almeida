@@ -6,7 +6,7 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 
 ## Sobre
 
--   ❤️ 7+ anos de experiência em desenvolvimento moderno;
+-   ❤️ 8+ anos de experiência em desenvolvimento moderno;
 -   🎓 Bacharel em Engenharia de Computação;
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
 -   ☂️ Go Expert [**FULL CYCLE**](https://goexpert.fullcycle.com.br/curso/);
@@ -33,9 +33,10 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 -   Typescript / Javascript;
 -   RabbitMQ / Kafka;
 -   gRPC;
--   TypeORM / Postgres / MySQL / MongoDB / Mongoose / Redis;
+-   GraphQL;
+-   TypeORM / Prisma / Mongoose / Redis / SQL;
 -   Python;
--   AWS;
+-   AWS (S3, DocumentDB, Cognito);
 -   Elasticsearch;
 
 ### Frontend
@@ -98,7 +99,15 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 -   Técnica de expurgo;
 </details>
 
-<hr>
+## Algoritmos mais utilizados
+
+|                  Tecnologia                  | Link                                                                     | O que resolve?                                                         |
+| :------------------------------------------: | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+|   <img src="./images/js.png" width="20" />   | 👉 <a href="https://github.com/venzel/cache-parallel">Cache Parallel</a> | Requisições externas utilizando estratégia de paralelismo.             |
+| <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/venzel/go-fetch">Fetch</a>                | Requisição externas utilizando estratégia de paralelismo com fallback. |
+| <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/venzel/go-upload">Upload</a>              | Upload de arquivos na AWS S3, utilizando estratégia de fallback.       |
+| <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/venzel/grpc">gRPC</a>                     | Implementação gRPC.                                                    |
+| <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/venzel/graphql">GraphQL</a>               | Implementação GraphQL.                                                 |
 
 ## gRPC
 
@@ -194,20 +203,6 @@ A didática de como se conduzir um projeto documentado.
 
 👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
 
-<hr>
-
-## Arquitetura com NestJs
-
-👉 <a href="https://github.com/venzel/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> Arquitetura de uma api rest com NestJs, utilizando a modelagem de **domínios ricos**, através da técnica **value object**, tratamento de exceções com **either** e transformações de dados utilizando os conceitos de **dtos** e **mappers**.
-
-<hr>
-
-## + Técnicas
-
-👉 <a href="https://github.com/venzel/cache-parallel/tree/master">Cache com paralelismo</a><br />
-
-<hr>
-
 ### GoLang
 
 <p align="center">
@@ -249,6 +244,10 @@ A didática de como se conduzir um projeto documentado.
 ### Socket.io
 
 👉 <a href="https://github.com/venzel/socketio_vuejs_nodejs">Socket.io com Vue/Node/Nest</a> - Utilização de sockets com VueJs no frontend e NodeJs/NestJs no backend, estabelecendo comunicação com validação entre tokens JWT, utilizando padrão de projeto observer. ❤️ **(finalizado)**
+
+### Arquitetura com NestJs
+
+👉 <a href="https://github.com/venzel/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> Arquitetura de uma api rest com NestJs, utilizando a modelagem de **domínios ricos**, através da técnica **value object**, tratamento de exceções com **either** e transformações de dados utilizando os conceitos de **dtos** e **mappers**.
 
 <hr>
 
