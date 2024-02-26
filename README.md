@@ -1,34 +1,24 @@
 # Enéas Almeida (Venzel)
 
-Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.br/web/sicoob/sistema-sicoob">Sicoob</a>** através da ACT Digital. <br />
-
-<img src="./images/sicoob-2.jpg" alt="Sicoob" title="Sicoob" height="40" />
-
 ## Sobre
 
--   ❤️ 8+ anos de experiência em desenvolvimento moderno;
+-   ❤️ 7+ anos de experiência em desenvolvimento moderno;
 -   🎓 Bacharel em Engenharia de Computação;
 -   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
 -   ☂️ Go Expert [**FULL CYCLE**](https://goexpert.fullcycle.com.br/curso/);
--   Focado nas stacks **Go** e **NodeJs**;
+-   Focado nas stacks **Java**, **Go** e **NodeJs**;
 
 ### +
 
 -   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador);
 -   🍖 Fã de churrasco, fez um? me chama! 🔥
--   ⚽ Torcedor do Vasco.
-
-### Atuação profissional anterior
-
-<img src="./images/indra.jpg" alt="Sicoob" title="Sicoob" height="40" />
-
--   Engenheiro de Software Sênior nível 3 na **<a href="https://www.indracompany.com">Indra Company</a>**, atuando com **Spring Boot** , **Go**, **RabbitMq** e **VueJs** em um sistema financeiro de cobranças, junto ao cliente **<a href="https://www.enel.com.br">Enel</a>**.
 
 ## Stacks de atuações
 
 ### Backend
 
--   Go;
+-   Java;
+-   GoLang;
 -   NodeJs / NestJs;
 -   Typescript / Javascript;
 -   RabbitMQ / Kafka;
@@ -108,6 +98,12 @@ Atualmente, desenvolvedor backend sênior na **<a href="https://www.sicoob.com.b
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/venzel/go-upload">Upload</a>              | Upload de arquivos na AWS S3, utilizando estratégia de fallback.       |
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/venzel/grpc">gRPC</a>                     | Implementação gRPC.                                                    |
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/venzel/graphql">GraphQL</a>               | Implementação GraphQL.                                                 |
+
+## Bestore
+
+<img src="https://github.com/venzel/bestore/raw/master/media/diagrams/diagrama-v5.png" />
+
+👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
 
 ## gRPC
 
@@ -252,8 +248,6 @@ A didática de como se conduzir um projeto documentado.
 <hr>
 
 ## Mais APIs desenvolvidas
-
-👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/api-evasao-escolar-nestjs">Evasão Escolar</a> - Aplicação para análise da ocorrência da evasão escolar em instituições públicas de nível superior. Backend desenvolvido com Typescript, NestJs, TypeORM e Postgres. **(finalizado, online em produção)**<br />
 
