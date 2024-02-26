@@ -1,4 +1,4 @@
-# Enéas Almeida (Venzel)
+# Enéas Almeida
 
 ## Sobre
 
