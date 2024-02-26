@@ -151,10 +151,8 @@
 
 ## Clean Architecture
 
-\* Imagem por: **Otávio Lemos**
-
 <p align="center">
-    <a href="https://github.com/venzel/customer-clean-architecture"><img src="./images/clean.svg" width="500" /></a>
+    <a href="https://github.com/venzel/customer-clean-architecture"><img src="./images/clean.png" width="500" /></a>
 </p>
 
 👉 <a href="https://github.com/venzel/customer-clean-architecture">Guia Clean Architecture</a> - Guia de repasses para equipe.
@@ -194,8 +192,10 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 A didática de como se conduzir um projeto documentado.
 
 <p align="center">
-    <img src="./images/diagram-v5.png" alt="Diagrama" />
+    <a href="https://github.com/venzel/bekid"><img src="./images/diagram-v5.png" alt="Diagrama" /></a>
 </p>
+
+<a href="https://github.com/venzel/bekid"><img src="./images/bekid.png" alt="Desenho das telas" /></a>
 
 👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
 
@@ -260,6 +260,10 @@ A didática de como se conduzir um projeto documentado.
 👉 <a href="https://github.com/venzel/oraculo">Oráculo</a> - Sistema de gerenciamento financeiro. Frontend desenvolvido em html, javascript e JQuery para empresa cliente. **(finalizado)**<br />
 
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários. MVC desenvolvido em C# com Microsoft SQL. **(finalizado)**<br />
+
+<p align="center">
+  <a href="https://github.com/venzel/gerente-rh"><img src="./images/gerente.png" /></a>
+</p>
 
 ## Javascript (5 últimos algoritimos desenvolvidos)
 
