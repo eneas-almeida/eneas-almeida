@@ -2,11 +2,11 @@
 
 ## Sobre
 
--   ❤️ 7+ anos de experiência em desenvolvimento moderno;
+-   ❤️ 8+ anos de experiência em desenvolvimento moderno;
 -   🎓 Bacharel em Engenharia de Computação;
--   ☂️ Pós-graduando em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
+-   🎓 Pós-graduado em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
 -   ☂️ Go Expert [**FULL CYCLE**](https://goexpert.fullcycle.com.br/curso/);
--   Focado nas stacks **Java**, **Go** e **NodeJs**;
+-   Focado nas stacks **NodeJs**, **Go** e **Java**
 
 ### +
 
@@ -17,14 +17,13 @@
 
 ### Backend
 
--   Java;
+-   NodeJs / NestJs / Typescript / Javascript;
 -   GoLang;
--   NodeJs / NestJs;
--   Typescript / Javascript;
+-   Java;
 -   RabbitMQ / Kafka;
 -   gRPC;
--   GraphQL;
 -   TypeORM / Prisma / Mongoose / Redis / SQL;
+-   GraphQL;
 -   Python;
 -   AWS (S3, DocumentDB, Cognito);
 -   Elasticsearch;
@@ -32,12 +31,13 @@
 ### Frontend
 
 -   VueJs 2e3 / Vuetify / Vuero / Pinia / Casl;
+-   Angular
 
 <details>
 <summary>+ Sobre</summary>
 
 -   Atuação em ambientes com adoção de metodologias ágeis;
--   Atuação em ambientes de pressão com grande volume de dados sigilosos;
+-   Atuação em ambientes de pressão com grande volume de dados financeiros;
 -   Banco de dados relacional e NoSql;
 -   Experiência em desenvolvimento em arquitetura de microsserviços;
 -   Experiência em API Manager (Linkapi);
@@ -89,7 +89,7 @@
 -   Técnica de expurgo;
 </details>
 
-## Algoritmos mais utilizados
+## Últimos algoritimos desenvolvidos e utilizados em produção
 
 |                  Tecnologia                  | Link                                                                     | O que resolve?                                                         |
 | :------------------------------------------: | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
@@ -99,11 +99,35 @@
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/venzel/grpc">gRPC</a>                     | Implementação gRPC.                                                    |
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/venzel/graphql">GraphQL</a>               | Implementação GraphQL.                                                 |
 
+## Bekid
+
+**O que resolve?**
+
+Monitoramento da criança no ambiente escolar através de IA.
+
+👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação em NodeJs e VueJs. **(finalizado, online em produção)**<br />
+
+<p align="center">
+    <a href="https://github.com/venzel/bekid"><img src="./images/diagram-v5.png" alt="Diagrama" /></a>
+</p>
+
+<a href="https://github.com/venzel/bekid"><img src="./images/bekid.png" alt="Desenho das telas" /></a>
+
 ## Bestore
+
+👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
 
 <img src="https://github.com/venzel/bestore/raw/master/media/diagrams/diagrama-v5.png" />
 
-👉 <a href="https://github.com/venzel/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
+## Clean Architecture
+
+O projeto abaixo demonstra as camadas utilizadas em uma arquitetura limpa de microsserviços.
+
+👉 <a href="https://github.com/venzel/customer-clean-architecture">Guia Clean Architecture</a> - Guia de repasses para equipe.
+
+<p align="center">
+    <a href="https://github.com/venzel/customer-clean-architecture"><img src="./images/camadas.png" /></a>
+</p>
 
 ## gRPC
 
@@ -149,14 +173,6 @@
 
 👉 <a href="https://github.com/venzel/bff">Guia BFF</a> - Guia de repasses para equipe.
 
-## Clean Architecture
-
-<p align="center">
-    <a href="https://github.com/venzel/customer-clean-architecture"><img src="./images/clean.png" width="500" /></a>
-</p>
-
-👉 <a href="https://github.com/venzel/customer-clean-architecture">Guia Clean Architecture</a> - Guia de repasses para equipe.
-
 <hr>
 
 ## Go Clean Architecture
@@ -184,20 +200,6 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 👉 <a href="https://github.com/venzel/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socket.io. **(em andamento)**<br />
 
 <hr>
-
-## Bekid
-
-**O que resolve?**
-
-A didática de como se conduzir um projeto documentado.
-
-<p align="center">
-    <a href="https://github.com/venzel/bekid"><img src="./images/diagram-v5.png" alt="Diagrama" /></a>
-</p>
-
-<a href="https://github.com/venzel/bekid"><img src="./images/bekid.png" alt="Desenho das telas" /></a>
-
-👉 <a href="https://github.com/venzel/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação monolítica com NodeJs e VueJs. **(finalizado, online em produção)**<br />
 
 ### GoLang
 
@@ -258,6 +260,10 @@ A didática de como se conduzir um projeto documentado.
 ## Trabalhos antigos
 
 👉 <a href="https://github.com/venzel/oraculo">Oráculo</a> - Sistema de gerenciamento financeiro. Frontend desenvolvido em html, javascript e JQuery para empresa cliente. **(finalizado)**<br />
+
+<p align="center">
+  <a href="https://github.com/venzel/gerente-rh"><img src="./images/oraculo.png" /></a>
+</p>
 
 👉 <a href="https://github.com/venzel/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários. MVC desenvolvido em C# com Microsoft SQL. **(finalizado)**<br />
 
