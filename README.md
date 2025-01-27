@@ -89,6 +89,14 @@
 -   Técnica de expurgo;
 </details>
 
+## Luizalabs
+
+👉 <a href="https://github.com/eneas-almeida/luizalabs">Luizalabs</a>: backend em NodeJs utilizando clean architecture e frontend utilizando VueJs.<br />
+
+<p align="center">
+    <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/tela-resp-lista.png" alt="TELA RESPONSAIVA" /></a>
+</p>
+
 ## Últimos algoritimos desenvolvidos e utilizados em produção
 
 |                  Tecnologia                  | Link                                                                            | O que resolve?                                                         |
@@ -132,7 +140,7 @@ O projeto abaixo demonstra as camadas utilizadas em uma arquitetura limpa de mic
 ## gRPC
 
 <p align="center">
-    <a href="https://github.com/eneas-almeida/grpc"><img src="./images/grpc-logo.png" width="300" /></a>
+    <a href="https://github.com/eneas-almeida/grpc"><img src="./images/goandgrpc.png" width="300" /></a>
 </p>
 
 👉 <a href="https://github.com/eneas-almeida/grpc">Guia gRPC</a> - Guia de repasses para equipe.
@@ -140,7 +148,7 @@ O projeto abaixo demonstra as camadas utilizadas em uma arquitetura limpa de mic
 ## GraphQL
 
 <p align="center">
-    <a href="https://github.com/eneas-almeida/graphql"><img src="./images/graphql.svg" width="300" /></a>
+    <a href="https://github.com/eneas-almeida/graphql"><img src="./images/graphmaisgo.png" /></a>
 </p>
 
 👉 <a href="https://github.com/eneas-almeida/graphql">Guia GraphQL</a> - Guia de repasses para equipe.
