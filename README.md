@@ -25,11 +25,12 @@
 -   TypeORM / Prisma / Mongoose / Redis / SQL;
 -   GraphQL;
 -   Python;
--   AWS (S3, DocumentDB, Cognito);
+-   AWS (S3, DocumentDB, Cognito, SQS);
 -   Elasticsearch;
 
 ### Frontend
 
+-   React
 -   VueJs 2e3 / Vuetify / Vuero / Pinia / Casl;
 -   Angular
 
