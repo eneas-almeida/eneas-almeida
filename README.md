@@ -90,6 +90,12 @@
 -   Técnica de expurgo;
 </details>
 
+## Sensors (Microserviços + RabbitMQ)
+
+<img src="./images/microservicos.png" />
+
+👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Sensor</a>: Desenvolvimento de backend com Java, arquitetura de microserviços e comunicação assíncrona via RabbitMQ. O projeto iniciou com a modelagem de um sistema monolítico, que posteriormente foi refatorado em microserviços, incorporando o uso de um message broker para orquestração e troca de mensagens.<br />
+
 ## Luizalabs
 
 👉 <a href="https://github.com/eneas-almeida/luizalabs">Luizalabs</a>: backend em NodeJs utilizando clean architecture e frontend utilizando VueJs.<br />
