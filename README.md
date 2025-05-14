@@ -2,13 +2,15 @@
 
 ## Sobre
 
--   ❤️ 8+ anos de experiência em desenvolvimento moderno;
--   🎓 Bacharel em Engenharia de Computação;
--   🎓 Pós-graduado em Arquitetura de Software Distribuído - [**PUC MINAS**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
--   ☂️ Go Expert [**FULL CYCLE**](https://goexpert.fullcycle.com.br/curso/);
--   Focado nas stacks **NodeJs**, **Go** e **Java**
+-   ❤️ 9+ anos de experiência em desenvolvimento moderno;
+-   🎓 Bacharel em Engenharia de Computação (IFPB);
+-   🎓 Pós-graduado em Arquitetura de Software Distribuído - [**PUC Minas**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
+-   ☂️ Go Expert [**Full Cycle**](https://goexpert.fullcycle.com.br/curso/);
+-   ☂️ Especialista Microserviços (Java) [**AlgaWorks**](https://lp.algaworks.com/curso-especialista-microsservicos-java-spring-cadastro/);
+-   Stacks de backend **NodeJs**, **Go** e **Java**;
+-   Stacks de frontend **VueJs**, **Angular** e **React**.
 
-### +
+### Pessoal
 
 -   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador);
 -   🍖 Fã de churrasco, fez um? me chama! 🔥
@@ -20,7 +22,7 @@
 -   NodeJs / NestJs / Typescript / Javascript;
 -   GoLang;
 -   Java;
--   RabbitMQ / Kafka;
+-   RabbitMQ / Kafka / SQS;
 -   gRPC;
 -   TypeORM / Prisma / Mongoose / Redis / SQL;
 -   GraphQL;
