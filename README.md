@@ -100,6 +100,10 @@
 
 <a href="https://github.com/eneas-almeida/ms-sensors-central"><img src="./images/microservicos.png" /></a>
 
+## NestJS + CQRS + Clean Architecture
+
+👉 <a href="https://github.com/eneas-almeida/events-nest">Modelo de microserviço baseado em Eventos</a>
+
 ## Luizalabs
 
 👉 <a href="https://github.com/eneas-almeida/luizalabs">Luizalabs</a>: backend em NodeJs utilizando clean architecture e frontend utilizando VueJs.<br />
