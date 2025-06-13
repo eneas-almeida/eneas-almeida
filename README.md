@@ -1,12 +1,15 @@
 # Enéas Almeida
 
+**Observação:** 98% dos fluxos de BPMN, UML, desenhos técnicos e repositórios são de autoria própria.
+
 ## Sobre
 
 -   ❤️ 9+ anos de experiência em desenvolvimento moderno;
--   🎓 Bacharel em Engenharia de Computação (IFPB);
+-   🎓 Bacharel em Engenharia de Computação - **Instituto Federal da Paraíba**;
 -   🎓 Pós-graduado em Arquitetura de Software Distribuído - [**PUC Minas**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
--   ☂️ Go Expert [**Full Cycle**](https://goexpert.fullcycle.com.br/curso/);
--   ☂️ Especialista Microserviços (Java) [**AlgaWorks**](https://lp.algaworks.com/curso-especialista-microsservicos-java-spring-cadastro/);
+-   ☂️ MBA em Engenharia de Software com IA, pela [**Full Cycle**](https://ia.fullcycle.com.br/mba-ia/?utm_source=site-fullcycle&utm_medium=slider-site&utm_content=org_slider_mba_engenharia_ia) - **(Em andamento)**;
+-   ☂️ Go Expert, pela [**Full Cycle**](https://goexpert.fullcycle.com.br/curso/) - **(Finalizado)**;
+-   ☂️ Especialista Microserviços com Java, pela [**AlgaWorks**](https://lp.algaworks.com/curso-especialista-microsservicos-java-spring-cadastro/) - **(Em andamento)**;
 -   Stacks de backend **NodeJs**, **Go** e **Java**;
 -   Stacks de frontend **VueJs**, **Angular** e **React**.
 
@@ -15,26 +18,39 @@
 -   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador);
 -   🍖 Fã de churrasco, fez um? me chama! 🔥
 
+## Atuação mais significativa: Sicoob
+
+Desenvolvedor principal, responsável pela migração e desenvolvimento de 4 microserviços principais e 7 auxiliares, que hoje estão em produção gerando cerca de 6 milhões de reais por mês. Microserviços de transferências de pontos gerados no cartão Sicoob para: Livelo, Decolar, Smiles, Azul e Latam. Os microserviços desenvolvidos, são integrados com diversos webservices para validação de transferência, como: Oracle, Vtex, Siebel, Salesforce, entre outros.
+<br /><br />O fluxo abaixo demonstra o primeiro passo, o entendimento das regras de negócios e a diagramação do microserviço a ser migrado.
+
+**Observação:** Alguns dados foram removidos do fluxo para não comprometer a segurança do sistema.
+
+<img src="./images/fluxo-smiles.png" alt="Fluxo" />
+
 ## Stacks de atuações
 
 ### Backend
 
 -   NodeJs / NestJs / Typescript / Javascript;
+-   Java 8, 11, 17 e 21;
 -   GoLang;
--   Java;
 -   RabbitMQ / Kafka / SQS;
 -   gRPC;
+-   Clean Architecture / CQRS / MVC / DDD;
 -   TypeORM / Prisma / Mongoose / Redis / SQL;
--   GraphQL;
+-   BFF / GraphQL;
+-   Oracle, Postgres, Mysql, Redis, MongoDB;
 -   Python;
--   AWS (S3, DocumentDB, Cognito, SQS);
--   Elasticsearch;
+-   AWS (Redis, S3, DocumentDB, Cognito, SQS, Gateway);
+-   Elasticsearch / OpenSearch / Prometheus / Grafana;
+-   Kubernetes / Istio / Helm / Terraform;
+-   Especialista em documentações BPMN.
 
 ### Frontend
 
--   React
+-   React;
 -   VueJs 2e3 / Vuetify / Vuero / Pinia / Casl;
--   Angular
+-   Angular.
 
 <details>
 <summary>+ Sobre</summary>
@@ -47,14 +63,12 @@
 -   Experiência na criação de componentes reutilizáveis;
 -   Experiência na utilização de conceitos DDD;
 -   SOLID / Clean Architecture;
--   Experiência em desenvolvimento de códigos guiado a testes (TDD);
 -   Git / Gitflow / Conventional Commit;
 -   UML;
 -   BPMN;
 -   Docker;
 -   Sonarlint;
 -   Sentry;
--   keycloak / Cognito (AWS);
 -   Documentação de APIs;
 -   Compreensão de CI/CD;
 -   Jira / Bitrix24 / GitLab.
@@ -84,12 +98,11 @@
 -   Utilização de bibliotecas para transpilar o código mais rapidamente;
 -   Rate Limit;
 -   Swagger;
--   Filas com o Kafka e RabittMQ;
 -   Socket.io;
 -   Criação de caches;
 -   Interceptação de erros com o sentry;
 -   Utilização das bibliotecas: bull, tsryng, ioredis, supertest, mongodb, sentry, moment;
--   Técnica de expurgo;
+-   Técnica de expurgo.
 </details>
 
 ## Sensors (Microserviços + RabbitMQ)
@@ -431,3 +444,7 @@ Os autores citados abaixo são fontes de referências em minha jornada de estudo
 -   Codar.me **(NodeJs)**
 -   Plínio Naves **(VueJs & Vuetify)**
 -   Victor Hugo Negrisoli **(Microserviços)**
+
+<hr>
+
+© Documento elaborado por <a href="https://github.com/eneas-almeida">Edivam Enéas de Almeida Júnior</a>.
