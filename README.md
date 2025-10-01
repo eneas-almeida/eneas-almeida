@@ -11,7 +11,7 @@
 -   ☂️ Go Expert, pela [**Full Cycle**](https://goexpert.fullcycle.com.br/curso/) - **(Finalizado)**;
 -   ☂️ Especialista Microserviços com Java, pela [**AlgaWorks**](https://lp.algaworks.com/curso-especialista-microsservicos-java-spring-cadastro/) - **(Em andamento)**;
 -   Stacks de backend **NodeJs**, **Go** e **Java**;
--   Stacks de frontend **VueJs**, **Angular** e **React**.
+-   Stacks de frontend **VueJs**, **Angular** e **React**, sendo especialista na stack VueJs.
 
 ### Pessoal
 
@@ -29,28 +29,28 @@ Desenvolvedor principal, responsável pela migração e desenvolvimento de 4 mic
 
 ## Stacks de atuações
 
+### Frontend
+
+-   VueJs 2 e 3 com bibliotecas de UI (Vuetify / PrimeVue / Quasar);
+-   React;
+-   Angular.
+
 ### Backend
 
--   NodeJs / NestJs / Typescript / Javascript;
 -   Java 8, 11, 17 e 21;
+-   NodeJs / NestJs / Typescript / Javascript;
 -   GoLang;
+-   Python;
 -   RabbitMQ / Kafka / SQS;
 -   gRPC;
 -   Clean Architecture / CQRS / MVC / DDD;
 -   TypeORM / Prisma / Mongoose / Redis / SQL;
 -   BFF / GraphQL;
 -   Oracle, Postgres, Mysql, Redis, MongoDB;
--   Python;
 -   AWS (Redis, S3, DocumentDB, Cognito, SQS, Gateway);
 -   Elasticsearch / OpenSearch / Prometheus / Grafana;
 -   Kubernetes / Istio / Helm / Terraform;
 -   Especialista em documentações BPMN.
-
-### Frontend
-
--   React;
--   VueJs 2e3 / Vuetify / Vuero / Pinia / Casl;
--   Angular.
 
 <details>
 <summary>+ Sobre</summary>
