@@ -29,28 +29,44 @@ Desenvolvedor principal, responsável pela migração e desenvolvimento de 4 mic
 
 ## Stacks de atuações
 
-### Frontend
+## Frontend
 
 -   VueJs 2 e 3 com bibliotecas de UI (Vuetify / PrimeVue / Quasar);
 -   React;
 -   Angular.
 
-### Backend
+## Backend
 
--   Java 8, 11, 17 e 21;
--   NodeJs / NestJs / Typescript / Javascript;
--   GoLang;
--   Python;
--   RabbitMQ / Kafka / SQS;
--   gRPC;
--   Clean Architecture / CQRS / MVC / DDD;
--   TypeORM / Prisma / Mongoose / Redis / SQL;
--   BFF / GraphQL;
--   Oracle, Postgres, Mysql, Redis, MongoDB;
--   AWS (Redis, S3, DocumentDB, Cognito, SQS, Gateway);
--   Elasticsearch / OpenSearch / Prometheus / Grafana;
--   Kubernetes / Istio / Helm / Terraform;
--   Especialista em documentações BPMN.
+### Linguagens e Plataformas
+- **Java** 8, 11, 17 e 21 (Spring Boot / WebFlux)  
+- **Node.js / NestJs / TypeScript / JavaScript**  
+- **GoLang**  
+- **Python**  
+
+### Arquitetura e Design
+- Clean Architecture / CQRS / MVC / DDD  
+- BFF / GraphQL  
+- Especialista em documentações BPMN  
+
+### Banco de Dados e Armazenamento
+- **Oracle, PostgreSQL, MySQL, MongoDB, Redis**  
+- **TypeORM / Prisma / Mongoose**  
+
+### Mensageria e Integração
+- RabbitMQ / Kafka / SQS  
+- gRPC  
+
+### Ferramentas e Relatórios
+- Jasper Reports  
+- Elasticsearch / OpenSearch / Prometheus / Grafana  
+
+### Cloud e DevOps
+- **AWS:** S3, Redis, DocumentDB, Cognito, SQS, API Gateway  
+- Kubernetes / Istio / Helm / Terraform  
+
+### Servidores e Middleware
+- JBoss
+
 
 <details>
 <summary>+ Sobre</summary>
