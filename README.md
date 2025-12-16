@@ -27,7 +27,7 @@ Desenvolvedor principal, responsável pela migração e desenvolvimento de 4 mic
 
 <hr />
 
-👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Bridge</a>
+👉 <a href="https://github.com/eneas-almeida/bridge">Bridge</a>
 
 <a href="https://github.com/eneas-almeida/bridge"><img src="./images/java-grpc.png" /></a>
 
