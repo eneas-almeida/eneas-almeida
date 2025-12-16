@@ -25,7 +25,25 @@ Desenvolvedor principal, responsável pela migração e desenvolvimento de 4 mic
 
 **Observação:** Alguns dados foram removidos do fluxo para não comprometer a segurança do sistema.
 
-<img src="./images/fluxo-smiles.png" alt="Fluxo" />
+<hr />
+
+👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Bridge</a>
+
+<a href="https://github.com/eneas-almeida/bridge"><img src="./images/java-grpc.png" /></a>
+
+O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéas Almeida, composta por dois serviços principais que se comunicam via **gRPC**:
+
+- **API Service**: Gateway REST que expõe endpoints HTTP e se comunica com o serviço People via gRPC
+- **People Service**: Serviço backend que fornece dados de usuários via gRPC, consumindo a API externa JSONPlaceholder
+
+```
+┌──────────────┐     HTTP/REST      ┌──────────────┐      gRPC       ┌──────────────┐     HTTP
+│   Cliente    │ ─────────────────> │  API Service │ ──────────────> │People Service│ ──────────> JSONPlaceholder
+│  (Browser)   │                    │  (Port 8081) │                 │ (Port 9090)  │             (External API)
+└──────────────┘                    └──────────────┘                 └──────────────┘
+```
+
+<b>Tags:</b> Java | Microservice | SpringBoot | GRPC | WebFlux
 
 ## Stacks de atuações
 
