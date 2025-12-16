@@ -28,7 +28,7 @@ Desenvolvedor principal, responsável pela migração e desenvolvimento de 4 mic
 
 <img src="./images/fluxo-smiles.png" alt="Fluxo" />
 
-## Projeto Recente
+## PROJETO RECENTE
 
 👉 <a href="https://github.com/eneas-almeida/bridge">Bridge</a>
 
