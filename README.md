@@ -23,9 +23,12 @@
 Desenvolvedor principal, responsável pela migração e desenvolvimento de 4 microserviços principais e 7 auxiliares, que hoje estão em produção gerando cerca de 6 milhões de reais por mês. Microserviços de transferências de pontos gerados no cartão Sicoob para: Livelo, Decolar, Smiles, Azul e Latam. Os microserviços desenvolvidos, são integrados com diversos webservices para validação de transferência, como: Oracle, Vtex, Siebel, Salesforce, entre outros.
 <br /><br />O fluxo abaixo demonstra o primeiro passo, o entendimento das regras de negócios e a diagramação do microserviço a ser migrado.
 
+
 **Observação:** Alguns dados foram removidos do fluxo para não comprometer a segurança do sistema.
 
-<hr />
+<img src="./images/fluxo-smiles.png" alt="Fluxo" />
+
+## Projeto Recente
 
 👉 <a href="https://github.com/eneas-almeida/bridge">Bridge</a>
 
