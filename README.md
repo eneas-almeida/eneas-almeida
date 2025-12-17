@@ -191,7 +191,18 @@ Desenvolvimento backend em Java, com arquitetura de microserviços e comunicaç�
     <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/tela-resp-lista.png" alt="TELA RESPONSAIVA" /></a>
 </p>
 
-Backend em NodeJs utilizando clean architecture e frontend utilizando VueJs
+API RESTful desenvolvida para gerenciar contas de usuários, listas de favoritos e integração com catálogo de produtos. O projeto foi construído seguindo os princípios de **Clean Architecture**, garantindo separação de responsabilidades, testabilidade e manutenibilidade.
+
+### Principais Funcionalidades
+
+- ✅ Gerenciamento de contas de usuário (criação e autenticação)
+- ✅ Sistema de autenticação JWT
+- ✅ CRUD completo de listas de favoritos
+- ✅ Gerenciamento de produtos em listas de favoritos
+- ✅ Integração com API externa de produtos
+- ✅ Arquitetura limpa e desacoplada
+- ✅ Testes unitários abrangentes
+- ✅ Tratamento robusto de erros
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
