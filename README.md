@@ -74,7 +74,7 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 -   📬 RabbitMQ, Apache Kafka, AWS SQS
 -   🔧 TypeORM, Prisma, Mongoose
 
-# Experiência Profissional de Maior Relevância: Sicoob
+# Experiência profissional de maior relevância: Sicoob
 
 **Domínio de Negócio**
 
@@ -119,15 +119,15 @@ Transferência de pontos do cartão Sicoob para os parceiros.
 - Salesforce
 - Linkapi
 
-## Sensors
+# Último projeto desenvolvido: Sensores de monitoramento
 
-👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Sensor</a>
+👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Sensores de monitoramento</a>
 
 Desenho da arquitetura.
 
 <a href="https://github.com/eneas-almeida/ms-sensors-central"><img src="./images/microservicos.png" /></a>
 
-Desenvolvimento backend em Java, com arquitetura de microserviços e comunicação assíncrona via RabbitMQ, incluindo a evolução de um sistema monolítico para microserviços com uso de message broker para orquestração e troca de mensagens.
+Sensores de monitoramento utilizando microsserviços, comunicação assíncrona com RabbitMq e Java.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Microservice](https://img.shields.io/badge/Microservice-00599C?style=flat&logo=microgenetics&logoColor=white)
@@ -149,18 +149,17 @@ Telas do sistema em VueJs.
     <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/tela-resp-lista.png" alt="TELA RESPONSAIVA" /></a>
 </p>
 
-API RESTful desenvolvida para gerenciar contas de usuários, listas de favoritos e integração com catálogo de produtos. O projeto foi construído seguindo os princípios de **Clean Architecture**, garantindo separação de responsabilidades, testabilidade e manutenibilidade.
+Aplicação para inserção de produtos em uma lista de favoritos **(Magazine Luiza)**. Backend utilizando estrutura em Clean Architecture com NodeJs.
 
 ### Principais Funcionalidades
 
-- ✅ Gerenciamento de contas de usuário (criação e autenticação)
-- ✅ Sistema de autenticação JWT
-- ✅ CRUD completo de listas de favoritos
-- ✅ Gerenciamento de produtos em listas de favoritos
-- ✅ Integração com API externa de produtos
-- ✅ Arquitetura limpa e desacoplada
-- ✅ Testes unitários abrangentes
-- ✅ Tratamento robusto de erros
+✅ Gerenciamento de contas de usuário (criação e autenticação)
+✅ Sistema de autenticação JWT
+✅ Gerenciamento de produtos em listas de favoritos
+✅ Integração com API externa de produtos
+✅ Arquitetura limpa e desacoplada
+✅ Testes unitários abrangentes
+✅ Tratamento robusto de erros
 
 ### Fluxo de Requisição
 
