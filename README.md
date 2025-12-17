@@ -2,16 +2,49 @@
 
 **Observação:** 98% dos fluxos de BPMN, UML, desenhos técnicos e repositórios são de autoria própria.
 
-## Sobre
+## 👨‍💻 Sobre
 
--   ❤️ 9+ anos de experiência em desenvolvimento moderno;
--   🎓 Bacharel em Engenharia de Computação - **Instituto Federal da Paraíba**;
--   🎓 Pós-graduado em Arquitetura de Software Distribuído - [**PUC Minas**](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515);
--   ☂️ MBA em Engenharia de Software com IA, pela [**Full Cycle**](https://ia.fullcycle.com.br/mba-ia/?utm_source=site-fullcycle&utm_medium=slider-site&utm_content=org_slider_mba_engenharia_ia) - **(Em andamento)**;
--   ☂️ Go Expert, pela [**Full Cycle**](https://goexpert.fullcycle.com.br/curso/) - **(Finalizado)**;
--   ☂️ Especialista Microserviços com Java, pela [**AlgaWorks**](https://lp.algaworks.com/curso-especialista-microsservicos-java-spring-cadastro/) - **(Em andamento)**;
--   Stacks de backend **NodeJs**, **Go** e **Java**;
--   Stacks de frontend **VueJs**, **Angular** e **React**, sendo especialista na stack VueJs.
+### Experiência Profissional
+-   ❤️ **9+ anos** de experiência em desenvolvimento de software moderno
+-   💼 Desenvolvedor Principal no **Sicoob** - Responsável por microserviços que processam **R$ 6 milhões/mês**
+-   🏗️ Especialista em **Arquitetura de Microserviços** e **Sistemas Distribuídos**
+-   📊 Experiência com grandes volumes de dados financeiros em ambientes de alta pressão
+-   🎯 Foco em **Clean Architecture**, **DDD** e **Design Patterns**
+
+### Formação Acadêmica
+-   🎓 **Bacharel em Engenharia de Computação** - Instituto Federal da Paraíba
+-   🎓 **Pós-graduação em Arquitetura de Software Distribuído** - [PUC Minas](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-2013?variant_id=37515)
+-   🎓 **MBA em Engenharia de Software com IA** - [Full Cycle](https://ia.fullcycle.com.br/mba-ia/?utm_source=site-fullcycle&utm_medium=slider-site&utm_content=org_slider_mba_engenharia_ia) *(Em andamento)*
+-   📜 **Go Expert** - [Full Cycle](https://goexpert.fullcycle.com.br/curso/) *(Concluído)*
+-   📜 **Especialista em Microserviços com Java** - [AlgaWorks](https://lp.algaworks.com/curso-especialista-microsservicos-java-spring-cadastro/) *(Em andamento)*
+
+### Stack Tecnológica
+
+**Backend (Fullstack)**
+-   ⚡ **Node.js / NestJS / TypeScript** - Desenvolvimento de APIs REST, microserviços e aplicações escaláveis
+-   ☕ **Java (8, 11, 17, 21)** - Spring Boot, WebFlux, microserviços de alta performance
+-   🔷 **Go (Golang)** - APIs de alta concorrência, gRPC, sistemas distribuídos
+-   🐍 **Python** - Scripts, automação e processamento de dados
+
+**Frontend (Especialista Vue.js)**
+-   💚 **Vue.js 2 & 3** (Especialista) - Vuetify, PrimeVue, Quasar, Composition API, Pinia
+-   ⚛️ **React** - Desenvolvimento de interfaces modernas e responsivas
+-   🅰️ **Angular** - Aplicações enterprise
+
+**Arquitetura & Padrões**
+-   🏛️ Clean Architecture, CQRS, MVC, DDD, Event-Driven Architecture
+-   🔄 Microserviços, BFF (Backend for Frontend), GraphQL, gRPC
+-   📐 Especialista em documentações **BPMN** e **UML**
+
+**DevOps & Cloud**
+-   ☁️ **AWS**: S3, Redis, DocumentDB, Cognito, SQS, API Gateway, Lambda
+-   🐳 **Docker**, **Kubernetes**, **Istio**, **Helm**, **Terraform**
+-   🔄 CI/CD, GitHub Actions, Pipelines automatizados
+
+**Banco de Dados & Mensageria**
+-   💾 Oracle, PostgreSQL, MySQL, MongoDB, Redis
+-   📬 RabbitMQ, Apache Kafka, AWS SQS
+-   🔧 TypeORM, Prisma, Mongoose
 
 ### Pessoal
 
@@ -150,9 +183,11 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 <a href="https://github.com/eneas-almeida/ms-sensors-central"><img src="./images/microservicos.png" /></a>
 
-## NestJS + CQRS + Clean Architecture
+## Events-Nest (NestJS + CQRS + Clean Architecture)
 
-👉 <a href="https://github.com/eneas-almeida/events-nest">Modelo de microserviço baseado em Eventos</a>
+👉 <a href="https://github.com/eneas-almeida/events-nest">Events-Nest</a>: Microserviço baseado em eventos implementando padrões avançados de arquitetura. O projeto demonstra a aplicação prática de CQRS (Command Query Responsibility Segregation), Event Sourcing e Clean Architecture com NestJS, separando comandos de consultas e mantendo um histórico completo de eventos.<br />
+
+<b>Tags:</b> NestJS | TypeScript | CQRS | Event Sourcing | Clean Architecture | DDD | Microservices | Design Patterns
 
 ## Luizalabs
 
@@ -174,13 +209,15 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/eneas-almeida/grpc">gRPC</a>                     | Implementação gRPC.                                                    |
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/eneas-almeida/graphql">GraphQL</a>               | Implementação GraphQL.                                                 |
 
-## Bekid
+## Bekid (IA + Monitoramento Escolar)
 
 **O que resolve?**
 
-Monitoramento da criança no ambiente escolar através de IA.
+Monitoramento da criança no ambiente escolar através de IA para combate ao bullying.
 
-👉 <a href="https://github.com/eneas-almeida/bekid">Bekid</a> é um sistema para mapeamento de emoções para o auxílio no combate ao bullying escolar. Aplicação em NodeJs e VueJs. **(finalizado, online em produção)**<br />
+👉 <a href="https://github.com/eneas-almeida/bekid">Bekid</a> é um sistema de mapeamento de emoções utilizando Inteligência Artificial para auxílio no combate ao bullying escolar. A aplicação realiza análise comportamental em tempo real, oferecendo dashboards para gestores educacionais com alertas e relatórios. **(finalizado, online em produção)**<br />
+
+<b>Tags:</b> NodeJS | VueJS | AI/ML | Computer Vision | Emotion Detection | Socket.io | Real-time | MongoDB | Education Tech
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/bekid"><img src="./images/diagram-v5.png" alt="Diagrama" /></a>
@@ -188,91 +225,109 @@ Monitoramento da criança no ambiente escolar através de IA.
 
 <a href="https://github.com/eneas-almeida/bekid"><img src="./images/bekid.png" alt="Desenho das telas" /></a>
 
-## Bestore
+## Bestore (E-commerce API)
 
-👉 <a href="https://github.com/eneas-almeida/bestore">Bestore</a> - Aplicação de venda de produtos. API REST em Java com Spring Boot e Mysql. **(finalizado)**<br />
+👉 <a href="https://github.com/eneas-almeida/bestore">Bestore</a> - API REST completa para e-commerce com gerenciamento de produtos, categorias, carrinho de compras e processamento de pedidos. Desenvolvida em Java com Spring Boot e MySQL, seguindo padrões REST e boas práticas de desenvolvimento. **(finalizado)**<br />
+
+<b>Tags:</b> Java | Spring Boot | MySQL | REST API | E-commerce | JPA | Hibernate | MVC | Docker
 
 <img src="https://github.com/eneas-almeida/bestore/raw/master/media/diagrams/diagrama-v5.png" />
 
-## Clean Architecture
+## Customer Clean Architecture (Guia Arquitetural)
 
-O projeto abaixo demonstra as camadas utilizadas em uma arquitetura limpa de microsserviços.
+O projeto demonstra a implementação completa de Clean Architecture em microserviços, com separação clara de camadas (Domain, Application, Infrastructure, Presentation) e aplicação de princípios SOLID e DDD.
 
-👉 <a href="https://github.com/eneas-almeida/customer-clean-architecture">Guia Clean Architecture</a> - Guia de repasses para equipe.
+👉 <a href="https://github.com/eneas-almeida/customer-clean-architecture">Guia Clean Architecture</a> - Guia técnico completo para implementação de arquitetura limpa, utilizado para onboarding e padronização de equipe.<br />
+
+<b>Tags:</b> Clean Architecture | DDD | SOLID | TypeScript | NestJS | Design Patterns | Best Practices | Layered Architecture
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/customer-clean-architecture"><img src="./images/camadas.png" /></a>
 </p>
 
-## gRPC
+## gRPC (Guia de Implementação)
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/grpc"><img src="./images/goandgrpc.png" width="300" /></a>
 </p>
 
-👉 <a href="https://github.com/eneas-almeida/grpc">Guia gRPC</a> - Guia de repasses para equipe.
+👉 <a href="https://github.com/eneas-almeida/grpc">Guia gRPC</a> - Guia completo de implementação de gRPC com Go, incluindo comunicação unária, streaming (server, client e bidirecional), interceptors, autenticação e melhores práticas para comunicação de alta performance entre microserviços.<br />
 
-## GraphQL
+<b>Tags:</b> gRPC | Go | Protocol Buffers | Microservices | RPC | Streaming | High Performance | API Design
+
+## GraphQL (Guia de Implementação)
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/graphql"><img src="./images/graphmaisgo.png" /></a>
 </p>
 
-👉 <a href="https://github.com/eneas-almeida/graphql">Guia GraphQL</a> - Guia de repasses para equipe.
+👉 <a href="https://github.com/eneas-almeida/graphql">Guia GraphQL</a> - Guia completo de implementação de GraphQL com Go, incluindo schemas, queries, mutations, resolvers, subscriptions e otimizações. Demonstra como criar APIs flexíveis e eficientes permitindo que clientes solicitem exatamente os dados necessários.<br />
 
-## RabbitMQ
+<b>Tags:</b> GraphQL | Go | API Design | Queries | Mutations | Subscriptions | Schema | Resolvers | Real-time
+
+## RabbitMQ (Guia de Mensageria)
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/rabbitmq"><img src="./images/rabbitmq.webp" width="300" /></a>
 </p>
 
-👉 <a href="https://github.com/eneas-almeida/rabbitmq">Guia RabbitMQ</a> - Guia de repasses para equipe.
+👉 <a href="https://github.com/eneas-almeida/rabbitmq">Guia RabbitMQ</a> - Guia completo de mensageria com RabbitMQ, incluindo exchanges (direct, topic, fanout, headers), filas, dead letter queues, padrões de retry, confirmações de mensagens e melhores práticas para comunicação assíncrona entre microserviços.<br />
 
-## Kafka
+<b>Tags:</b> RabbitMQ | Message Broker | AMQP | Async Communication | Microservices | Dead Letter Queue | Retry Pattern | Event-Driven
+
+## Kafka (Guia de Event Streaming)
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/kafka"><img src="https://github.com/eneas-almeida/kafka/raw/master/media/kafka/kafka-1-2.gif" /></a>
 </p>
 
-👉 <a href="https://github.com/eneas-almeida/kafka">Guia Kafka</a> - Guia de repasses para equipe.<br />
+👉 <a href="https://github.com/eneas-almeida/kafka">Guia Kafka</a> - Guia completo de Apache Kafka para event streaming, incluindo producers, consumers, consumer groups, partições, replicação, offset management e estratégias de processamento de mensagens em larga escala. Implementações práticas em múltiplas linguagens.<br />
+
+<b>Tags:</b> Apache Kafka | Event Streaming | Message Queue | Distributed Systems | High Throughput | Real-time Processing | Pub/Sub | Scalability<br />
 👉 <a href="https://github.com/eneas-almeida/customer-clean-architecture/blob/main/src/infra/services/queue/kafka-queue.service.ts">Implementação de um serviço em Typescript com Kafka</a><br />
 👉 <a href="https://github.com/eneas-almeida/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
 👉 <a href="https://github.com/eneas-almeida/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
 👉 <a href="https://github.com/eneas-almeida/kafka/tree/master/kafka-python">Kafka + Python</a>
 
-## BFF
+## BFF - Backend for Frontend (Padrão Arquitetural)
 
 <p align="center">
   <a href="https://github.com/eneas-almeida/bff"><img src="./images/bff.gif" /></a>
 </p>
 
-👉 <a href="https://github.com/eneas-almeida/bff">Guia BFF</a> - Guia de repasses para equipe.
+👉 <a href="https://github.com/eneas-almeida/bff">Guia BFF</a> - Guia completo do padrão Backend for Frontend, demonstrando como criar camadas de backend específicas para cada tipo de cliente (web, mobile, desktop). O BFF atua como intermediário entre o frontend e os microserviços, agregando dados, otimizando payload e adaptando APIs para necessidades específicas de cada plataforma.<br />
+
+<b>Tags:</b> BFF | Backend for Frontend | API Gateway | Microservices | API Aggregation | Mobile Backend | Web Backend | GraphQL
 
 <hr>
 
-## Go Clean Architecture
+## Go Account API (Clean Architecture + MongoDB)
 
-Account API é um microserviço desenvolvido em Go, que utiliza um padrão arquitetural Clean Architecture.
+Microserviço de gerenciamento de contas desenvolvido em Go seguindo rigorosamente os princípios de Clean Architecture. Utiliza Fiber Framework para alta performance HTTP, MongoDB como banco de dados, e implementa separação de camadas (entities, usecases, repositories, handlers) garantindo testabilidade e manutenibilidade.
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/go-account-api-mongodb"><img src="./images/fiber.png" /></a>
 </p>
 
-👉 <a href="https://github.com/eneas-almeida/go-account-api-mongodb">Link do projeto</a>
+👉 <a href="https://github.com/eneas-almeida/go-account-api-mongodb">Link do projeto</a><br />
+
+<b>Tags:</b> Go | Fiber | MongoDB | Clean Architecture | REST API | Dependency Injection | Repository Pattern | SOLID
 
 <hr>
 
-## MyPoint
+## MyPoint (Sistema de Ponto + Alta Concorrência)
 
 **O que resolve?**
 
-Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de dados, que levam a exaustão dos recursos de processamento.
+Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas paralelas e densas que levam à exaustão dos recursos de processamento.
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/mypoint"><img src="./images/architeture-v1.png" alt="Arquitetura do sistema" /></a>
 </p>
 
-👉 <a href="https://github.com/eneas-almeida/mypoint">MyPoint</a> é um sistema para registro de pontos de funcionários. Aplicação utilizando microserviços, filas com o RabbitMq, NestJs, VueJs e Socket.io. **(em andamento)**<br />
+👉 <a href="https://github.com/eneas-almeida/mypoint">MyPoint</a> é um sistema para registro de ponto eletrônico de funcionários construído com arquitetura de microserviços. Utiliza filas (RabbitMQ) para processamento assíncrono, cache distribuído para redução de carga no banco, e WebSocket para atualizações em tempo real. A arquitetura suporta alto volume de requisições simultâneas sem degradação de performance. **(em andamento)**<br />
+
+<b>Tags:</b> NestJS | VueJS | RabbitMQ | Microservices | Socket.io | Redis | MongoDB | High Concurrency | Real-time | Event-Driven
 
 <hr>
 
@@ -314,33 +369,63 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 <hr>
 
-### Socket.io
+### Socket.io (Comunicação Real-time)
 
-👉 <a href="https://github.com/eneas-almeida/socketio_vuejs_nodejs">Socket.io com Vue/Node/Nest</a> - Utilização de sockets com VueJs no frontend e NodeJs/NestJs no backend, estabelecendo comunicação com validação entre tokens JWT, utilizando padrão de projeto observer. ❤️ **(finalizado)**
+👉 <a href="https://github.com/eneas-almeida/socketio_vuejs_nodejs">Socket.io com Vue/Node/Nest</a> - Sistema de comunicação bidirecional em tempo real utilizando WebSockets. Implementa autenticação via JWT, padrão Observer para eventos, rooms/namespaces e reconexão automática. Frontend em Vue.js e backend em Node.js/NestJS. ❤️ **(finalizado)**<br />
 
-### Arquitetura com NestJs
+<b>Tags:</b> Socket.io | WebSocket | VueJS | NodeJS | NestJS | Real-time | JWT | Observer Pattern | Bidirectional Communication
 
-👉 <a href="https://github.com/eneas-almeida/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> Arquitetura de uma api rest com NestJs, utilizando a modelagem de **domínios ricos**, através da técnica **value object**, tratamento de exceções com **either** e transformações de dados utilizando os conceitos de **dtos** e **mappers**.
+### Arquitetura com NestJs (Domínios Ricos + DDD)
+
+👉 <a href="https://github.com/eneas-almeida/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> - API REST implementando **Domain-Driven Design** com modelagem de domínios ricos. Utiliza **Value Objects** para encapsular regras de negócio, **Either Pattern** para tratamento funcional de erros, **DTOs** para validação de entrada/saída e **Mappers** para transformação entre camadas, garantindo separação de responsabilidades e domínio livre de frameworks.<br />
+
+<b>Tags:</b> NestJS | DDD | Value Objects | Either Pattern | DTOs | Mappers | Domain Modeling | Clean Architecture | TypeScript
 
 <hr>
 
 ## Mais APIs desenvolvidas
 
-👉 <a href="https://github.com/eneas-almeida/api-evasao-escolar-nestjs">Evasão Escolar</a> - Aplicação para análise da ocorrência da evasão escolar em instituições públicas de nível superior. Backend desenvolvido com Typescript, NestJs, TypeORM e Postgres. **(finalizado, online em produção)**<br />
+### Evasão Escolar (Sistema de Análise Educacional)
 
-👉 <a href="https://github.com/eneas-almeida/api-tindin">Tindin</a> - Aplicação de controle de aulas ministradas. Desenvolvida em NodeJs, utilizando banco de dados MongoDB (TypeORM), com cobertura de testes (coverages), utilizando o Jest. **(finalizado)**<br />
+👉 <a href="https://github.com/eneas-almeida/api-evasao-escolar-nestjs">Evasão Escolar</a> - Sistema para análise e prevenção da evasão escolar em instituições públicas de nível superior. Coleta e processa dados acadêmicos para identificar padrões e alunos em risco, gerando relatórios e dashboards para gestores educacionais. **(finalizado, online em produção)**<br />
 
-👉 <a href="https://github.com/eneas-almeida/api-places-to-know">Places to Know</a> - Desenvolvida em NodeJs, com objetivo de gerar um banco de dados de fotos de locais pelo mundo. Os detalhes do projeto são a integração com uma API externa, criação de uma busca com filtro e paginação. **(finalizado)**
+<b>Tags:</b> NestJS | TypeScript | TypeORM | PostgreSQL | Education | Data Analysis | REST API | Production
+
+---
+
+### Tindin (Controle de Aulas)
+
+👉 <a href="https://github.com/eneas-almeida/api-tindin">Tindin</a> - API para controle e gerenciamento de aulas ministradas por professores. Sistema completo com autenticação, CRUD de aulas, relatórios e estatísticas. Desenvolvida com TDD e alta cobertura de testes. **(finalizado)**<br />
+
+<b>Tags:</b> NodeJS | MongoDB | Jest | TDD | High Coverage | REST API | Authentication | Education
+
+---
+
+### Places to Know (API de Locais Turísticos)
+
+👉 <a href="https://github.com/eneas-almeida/api-places-to-know">Places to Know</a> - API para catalogação de locais turísticos pelo mundo com integração a APIs externas de geolocalização. Implementa sistema de busca avançada com filtros múltiplos, paginação e cache de resultados. **(finalizado)**<br />
+
+<b>Tags:</b> NodeJS | External API Integration | Search | Filters | Pagination | Geolocation | Cache | REST API
 
 ## Trabalhos antigos
 
-👉 <a href="https://github.com/eneas-almeida/oraculo">Oráculo</a> - Sistema de gerenciamento financeiro. Frontend desenvolvido em html, javascript e JQuery para empresa cliente. **(finalizado)**<br />
+### Oráculo (Sistema Financeiro)
+
+👉 <a href="https://github.com/eneas-almeida/oraculo">Oráculo</a> - Sistema completo de gerenciamento financeiro para empresa cliente. Interface desenvolvida com HTML5, JavaScript vanilla e jQuery, implementando controle de receitas, despesas, fluxo de caixa e relatórios gerenciais. **(finalizado)**<br />
+
+<b>Tags:</b> HTML5 | JavaScript | jQuery | Financial System | Client Project
 
 <p align="center">
-  <a href="https://github.com/eneas-almeida/gerente-rh"><img src="./images/oraculo.png" /></a>
+  <a href="https://github.com/eneas-almeida/oraculo"><img src="./images/oraculo.png" /></a>
 </p>
 
-👉 <a href="https://github.com/eneas-almeida/gerente-rh">Gerente RH</a> - Sistema de gerenciamento de funcionários. MVC desenvolvido em C# com Microsoft SQL. **(finalizado)**<br />
+---
+
+### Gerente RH (Sistema de Recursos Humanos)
+
+👉 <a href="https://github.com/eneas-almeida/gerente-rh">Gerente RH</a> - Sistema desktop de gerenciamento de funcionários com controle de cadastro, folha de pagamento, férias e benefícios. Desenvolvido em arquitetura MVC com C# e Microsoft SQL Server. **(finalizado)**<br />
+
+<b>Tags:</b> C# | .NET | SQL Server | MVC | Desktop Application | HR System
 
 <p align="center">
   <a href="https://github.com/eneas-almeida/gerente-rh"><img src="./images/gerente.png" /></a>
@@ -368,29 +453,73 @@ Problemas de concorrência. Multiplas consultas paralelas e densas, no banco de 
 
 ## Estudos de casos
 
-👉 <a href="https://github.com/eneas-almeida/auth-nest">API Rest SigIn/SigUp</a> - Autenticação e autorização com NestJs, TypeORM, Postgres, JWT, Interceptors, Logger, Jest. **(finalizado)**<br />
+### Auth NestJS (Autenticação Completa)
 
-👉 <a href="https://github.com/eneas-almeida/nestjs-with-prisma">API Rest NestJs com Prisma</a> - API Rest utilizando o NestJs com Prisma, Swagger, Postgres, Docker compose, Seed, Validators, Transformers, Pagination, Prisma Exception Handling e Logger. **(finalizado)**<br />
+👉 <a href="https://github.com/eneas-almeida/auth-nest">API Rest SigIn/SigUp</a> - Sistema completo de autenticação e autorização implementando JWT, refresh tokens, guards, interceptors personalizados, logger estruturado e testes unitários. **(finalizado)**<br />
 
-👉 <a href="https://github.com/eneas-almeida/nodejs-prisma">API Rest NodeJs com Prisma</a> - Cadastro simples de usuários com Prisma, arquitetura Package by Feature e Teste unitário com o Jest. **(finalizado)**<br />
+<b>Tags:</b> NestJS | TypeORM | PostgreSQL | JWT | Authentication | Authorization | Interceptors | Guards | Jest
 
-👉 <a href="https://github.com/eneas-almeida/series-tv-backend">Séries TV</a> - FullStack. Estudo de caso de um fullstack em Spring Boot + Angular 12. **(finalizado)**<br />
+---
 
-👉 <a href="https://github.com/eneas-almeida/grisoli">Grisoli</a> - Aplicação em uma arquitetura de microserviços utilizando NodeJs com Typescript, Spring Boot, Prisma, TypeORM, Docker, RabbitMQ, testes unitários, CI-CD com github actions. **(abortado)**
+### NestJS + Prisma (API Completa)
 
-👉 <a href="https://github.com/eneas-almeida/vacina_pb">VacinaPB</a> - Estudo de caso **TDD**, desenvolvido em Typescript e NodeJs, utilizando padrões de projetos e modelagem de domínio, baseado em uma arquitetura limpa, de acordo com ensinamentos de Martin Fowler em seu livro sobre refatoração e arquitetura limpa. **(finalizado)**<br />
+👉 <a href="https://github.com/eneas-almeida/nestjs-with-prisma">API Rest NestJs com Prisma</a> - API REST moderna com Prisma ORM, documentação Swagger/OpenAPI, validação de dados com class-validator, transformers, paginação customizada, exception handling global e logger. Inclui Docker Compose para ambiente de desenvolvimento. **(finalizado)**<br />
 
-👉 <a href="https://github.com/eneas-almeida/modelagem_entidade">Modelgem de entidade (Tiny)</a> - Modelagem de uma entidade em Java, utilizando **Tiny**. A técnica consiste em modelar uma entidade com auxílio de uma classe externa Either.java, de forma que os erros possam ser gerenciados elegantemente. **(finalizado)**<br />
+<b>Tags:</b> NestJS | Prisma | PostgreSQL | Swagger | Docker | Validators | Transformers | Pagination | Exception Handling
 
-👉 <a href="https://github.com/eneas-almeida/teste_exaustao">Teste Exaustão (JMeter)</a> - Estudo de caso de aplicação desenvolvida em Typescript + NodeJs. **(finalizado)**<br />
+---
 
-👉 <a href="https://github.com/eneas-almeida/deploy_codeship">Deploy em QA e Produção</a> - Estudo de caso de integração continua nos serviços da **Codeship**, deploiando em QA e em produção. **(finalizado)**<br />
+### VacinaPB (TDD + Clean Architecture)
 
-👉 <a href="https://github.com/eneas-almeida/create_releases">Create releases</a> - Estudo de caso de criaçao de releases automatizadas no Github. **(finalizado)**<br />
+👉 <a href="https://github.com/eneas-almeida/vacina_pb">VacinaPB</a> - Estudo de caso aplicando **Test-Driven Development (TDD)** rigorosamente. Implementa Clean Architecture, padrões de projeto (Repository, Factory, Strategy), modelagem de domínio rica com Value Objects e Entity, baseado nos ensinamentos de Martin Fowler sobre refatoração e arquitetura. **(finalizado)**<br />
 
-👉 <a href="https://github.com/eneas-almeida/mongo_spring">API Rest Spring Boot com MongoDB</a> - Estudo de caso de uma api Spring Boot + MongoDB. **(finalizado)**<br />
+<b>Tags:</b> TypeScript | NodeJS | TDD | Clean Architecture | DDD | Value Objects | Design Patterns | Martin Fowler
 
-👉 <a href="https://github.com/eneas-almeida/agenda_contatos">Agenda de contatos</a> - Servlets em Java. Estudo de caso de uma agenda de contatos. **(finalizado)**<br />
+---
+
+### Modelagem de Entidade (Either Pattern)
+
+👉 <a href="https://github.com/eneas-almeida/modelagem_entidade">Modelagem de entidade (Tiny)</a> - Implementação do **Either Pattern** em Java para tratamento funcional de erros. A técnica utiliza uma classe Either.java para encapsular sucesso ou falha, permitindo gerenciamento elegante de exceções sem try-catch, inspirado em programação funcional. **(finalizado)**<br />
+
+<b>Tags:</b> Java | Either Pattern | Functional Programming | Error Handling | Design Patterns | Clean Code
+
+---
+
+### Testes de Performance (JMeter)
+
+👉 <a href="https://github.com/eneas-almeida/teste_exaustao">Teste Exaustão (JMeter)</a> - Testes de carga e stress usando Apache JMeter para análise de performance, identificação de gargalos e limites de capacidade da aplicação. **(finalizado)**<br />
+
+<b>Tags:</b> JMeter | Performance Testing | Load Testing | Stress Testing | TypeScript | NodeJS
+
+---
+
+### CI/CD (Codeship)
+
+👉 <a href="https://github.com/eneas-almeida/deploy_codeship">Deploy em QA e Produção</a> - Pipeline de integração contínua e deploy automatizado utilizando Codeship, com ambientes separados de QA e Produção, testes automatizados e deploy condicional. **(finalizado)**<br />
+
+<b>Tags:</b> CI/CD | Codeship | Automated Deployment | QA | Production | DevOps
+
+---
+
+### Releases Automatizadas
+
+👉 <a href="https://github.com/eneas-almeida/create_releases">Create releases</a> - Automação de criação de releases no GitHub com versionamento semântico, changelog automático e tagging. **(finalizado)**<br />
+
+<b>Tags:</b> GitHub Actions | Automation | Semantic Versioning | Release Management | CI/CD
+
+---
+
+### Outros Estudos
+
+👉 <a href="https://github.com/eneas-almeida/nodejs-prisma">API Rest NodeJs com Prisma</a> - Arquitetura Package by Feature com Prisma e testes Jest. **(finalizado)**<br />
+
+👉 <a href="https://github.com/eneas-almeida/series-tv-backend">Séries TV</a> - Fullstack com Spring Boot + Angular 12. **(finalizado)**<br />
+
+👉 <a href="https://github.com/eneas-almeida/grisoli">Grisoli</a> - Microserviços com NodeJs, Spring Boot, RabbitMQ e GitHub Actions. **(abortado)**<br />
+
+👉 <a href="https://github.com/eneas-almeida/mongo_spring">API Rest Spring Boot com MongoDB</a> - Spring Boot + MongoDB. **(finalizado)**<br />
+
+👉 <a href="https://github.com/eneas-almeida/agenda_contatos">Agenda de contatos</a> - Servlets Java. **(finalizado)**<br />
 
 ## VueJs
 
