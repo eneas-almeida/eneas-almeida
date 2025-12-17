@@ -8,8 +8,7 @@
 -   ❤️ **9+ anos** de experiência em desenvolvimento de software moderno
 -   💼 Desenvolvedor Principal no **Sicoob** - Responsável por microserviços que processam **R$ 6 milhões/mês**
 -   🏗️ Especialista em **Arquitetura de Microserviços** e **Sistemas Distribuídos**
--   📊 Experiência com grandes volumes de dados financeiros em ambientes de alta pressão
--   🎯 Foco em **Clean Architecture**, **SOLID** e **Design Patterns**
+-   📊 Experiência com grandes volumes de dados financeiros e sensíveis em ambientes de alta pressão
 
 ### Formação Acadêmica
 -   🎓 **Bacharel em Engenharia de Computação** - Instituto Federal da Paraíba
@@ -166,9 +165,11 @@ O fluxo abaixo foi desenvolvido por Enéas Almeida no âmbito de trabalho, dados
 -   Técnica de expurgo.
 </details>
 
-## Sensors (Microserviços + RabbitMQ)
+## Sensors
 
-👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Sensor</a>: Desenvolvimento de backend com Java, arquitetura de microserviços e comunicação assíncrona via RabbitMQ. O projeto iniciou com a modelagem de um sistema monolítico, que posteriormente foi refatorado em microserviços, incorporando o uso de um message broker para orquestração e troca de mensagens.<br />
+👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Sensor</a>
+
+Desenvolvimento backend em Java, com arquitetura de microserviços e comunicação assíncrona via RabbitMQ, incluindo a evolução de um sistema monolítico para microserviços com uso de message broker para orquestração e troca de mensagens.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Microservice](https://img.shields.io/badge/Microservice-00599C?style=flat&logo=microgenetics&logoColor=white)
