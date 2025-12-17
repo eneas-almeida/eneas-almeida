@@ -80,11 +80,12 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 **Domínio de Negócio**
 
-- Transferência de pontos do cartão Sicoob para:
-  - Livelo
-  - Smiles
-  - Azul
-  - Latam
+Transferência de pontos do cartão Sicoob para:
+
+- Livelo
+- Smiles
+- Azul
+- Latam
 
 **Papel**
 
@@ -101,71 +102,36 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 **Integrações**
 
-- Web services corporativos:
-  - Oracle
-  - VTEX
-  - Siebel
-  - Salesforce
-  - Linkapi
+Web services corporativos:
 
-**Fluxo de exemplo**
+- Oracle
+- VTEX
+- Siebel
+- Salesforce
+- Linkapi
 
-O fluxo abaixo foi desenvolvido por Enéas Almeida no âmbito de trabalho, dados foram omitidos para não comprometer a segurança da aplicação.
+# Atualmente: Serasa Experian
 
-<img src="./images/fluxo-smiles.png" alt="Fluxo" />
+<img src="./images/serasa.png" width="100%" />
 
-<details>
-<summary>+ Sobre</summary>
+**Domínio de Negócio**
 
--   Atuação em ambientes com adoção de metodologias ágeis;
--   Atuação em ambientes de pressão com grande volume de dados financeiros;
--   Banco de dados relacional e NoSql;
--   Experiência em desenvolvimento em arquitetura de microsserviços;
--   Experiência em API Manager (Linkapi);
--   Experiência na criação de componentes reutilizáveis;
--   Experiência na utilização de conceitos DDD;
--   SOLID / Clean Architecture;
--   Git / Gitflow / Conventional Commit;
--   UML;
--   BPMN;
--   Docker;
--   Sonarlint;
--   Sentry;
--   Documentação de APIs;
--   Compreensão de CI/CD;
--   Jira.
-</details>
+Enriquecimento da dados:
 
-<details>
-<summary>Técnicas de desenvolvimento utilizadas</summary>
+- Pessoas
+- Empresas
 
--   Fail first;
--   Padronização de commits (conventional commits);
--   Versionamento de módulos para facilitação de refatorações;
--   Modelagem de entidades ricas com tratamento de exceções (Either) (DDD);
--   Desenvolvimento guiado a interfaces;
--   Chaveamento nas injeções de dependências utilizando o padrão strategy;
--   Persistência dos dados em memória para facilitação dos testes unitários;
--   Tratamento de exceções personalizados;
--   Utilizações dos padrões Adapter, Build, Strategy, Barrels, Dto, Factory;
--   Utilização dos pipes validations para validação de dados nos DTOs;
--   Camada de repositórios com ORM TypeORM;
--   Versionamento do banco de dados, através das migrations;
--   Criação dos index nas colunas através das migrations;
--   Mappers para realizar as conversões de dados;
--   Variáveis de ambiente;
--   Interceptadores para criação dos logs da aplicação;
--   Decorators personalizados;
--   Testes unitários com o Jest, guiado pelo coverage reports;
--   Utilização de bibliotecas para transpilar o código mais rapidamente;
--   Rate Limit;
--   Swagger;
--   Socket.io;
--   Criação de caches;
--   Interceptação de erros com o sentry;
--   Utilização das bibliotecas: bull, tsryng, ioredis, supertest, mongodb, sentry, moment;
--   Técnica de expurgo.
-</details>
+**Papel**
+
+- Engenheiro de software
+
+**Responsabilidades**
+
+- Evolução dos microsserviços existentes e integração de novas APIs externas
+
+**Tecnologias**
+
+- Microsserviços / Java / gRPC / WebFlux / ElasticSearch / Datadog / Mensageria
 
 ## Sensors
 
