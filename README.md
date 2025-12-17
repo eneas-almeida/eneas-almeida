@@ -76,6 +76,10 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 # Atuação mais significativa: Sicoob
 
+**Domínio de Negócio**
+
+Transferência de pontos do cartão Sicoob para:
+
 ```
                                                 ┌────────────────┐
                                         ┌──────>│    TudoAzul    │
@@ -93,15 +97,6 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
                                         └──────>│   Latam Pass   │
                                                 └────────────────┘
 ```
-
-**Domínio de Negócio**
-
-Transferência de pontos do cartão Sicoob para:
-
-- Livelo
-- Smiles
-- Azul
-- Latam
 
 **Papel**
 
