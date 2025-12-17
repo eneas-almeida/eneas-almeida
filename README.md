@@ -49,14 +49,14 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 ## Stack Tecnológica
 
 **Backend (Fullstack)**
--   ⚡ **Node.js / NestJS / TypeScript** - Desenvolvimento de APIs REST, microserviços e aplicações escaláveis
 -   ☕ **Java (8, 11, 17, 21)** - JBoss, Spring Boot, WebFlux, microserviços de alta performance
+-   ⚡ **Node.js / NestJS / TypeScript** - Desenvolvimento de APIs REST, microserviços e aplicações escaláveis
 -   🔷 **Go (Golang)** - APIs de alta concorrência, gRPC, sistemas distribuídos
 -   🐍 **Python** - Scripts, automação e processamento de dados
 
 **Frontend (Especialista Vue.js)**
--   💚 **Vue.js 2 & 3** (Especialista) - Vuetify, PrimeVue, Quasar, Composition API, Pinia
 -   ⚛️ **React** - Desenvolvimento de interfaces modernas e responsivas
+-   💚 **Vue.js 2 & 3** (Especialista) - Vuetify, PrimeVue, Quasar, Composition API, Pinia
 -   🅰️ **Angular** - Aplicações enterprise
 
 **Arquitetura & Padrões**
