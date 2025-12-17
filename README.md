@@ -65,7 +65,7 @@ Desenvolvedor principal, responsável pela migração e desenvolvimento de 4 mic
 
 👉 <a href="https://github.com/eneas-almeida/bridge">Bridge</a>
 
-<a href="https://github.com/eneas-almeida/bridge"><img src="./images/java-grpc.png" /></a>
+<a href="https://github.com/eneas-almeida/bridge"><img src="./images/java-grpc-2.png" /></a>
 
 O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéas Almeida, composta por dois serviços principais que se comunicam via **gRPC**:
 
@@ -79,7 +79,12 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 └──────────────┘                    └──────────────┘                 └──────────────┘
 ```
 
-<b>Tags:</b> Java | Microservice | SpringBoot | GRPC | WebFlux
+<b>Tags:</b>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Microservice](https://img.shields.io/badge/Microservice-00599C?style=for-the-badge&logo=microgenetics&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Stacks de atuações
 
@@ -179,7 +184,16 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Sensor</a>: Desenvolvimento de backend com Java, arquitetura de microserviços e comunicação assíncrona via RabbitMQ. O projeto iniciou com a modelagem de um sistema monolítico, que posteriormente foi refatorado em microserviços, incorporando o uso de um message broker para orquestração e troca de mensagens.<br />
 
-<b>Tags:</b> Java | Microservice | SpringBoot | Gradle | RabbitMQ | Retry Pattern | Dead Queue | Docker | MongoDB
+<b>Tags:</b>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Microservice](https://img.shields.io/badge/Microservice-00599C?style=for-the-badge&logo=microgenetics&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Retry Pattern](https://img.shields.io/badge/Retry_Pattern-4B8BBE?style=for-the-badge&logo=retry&logoColor=white)
+![Dead Queue](https://img.shields.io/badge/Dead_Queue-FF6B6B?style=for-the-badge&logo=queue&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <a href="https://github.com/eneas-almeida/ms-sensors-central"><img src="./images/microservicos.png" /></a>
 
@@ -187,13 +201,35 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 👉 <a href="https://github.com/eneas-almeida/events-nest">Events-Nest</a>: Microserviço baseado em eventos implementando padrões avançados de arquitetura. O projeto demonstra a aplicação prática de CQRS (Command Query Responsibility Segregation), Event Sourcing e Clean Architecture com NestJS, separando comandos de consultas e mantendo um histórico completo de eventos.<br />
 
-<b>Tags:</b> NestJS | TypeScript | CQRS | Event Sourcing | Clean Architecture | DDD | Microservices | Design Patterns
+<b>Tags:</b>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-FF6B6B?style=for-the-badge&logo=eventstore&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=architecture&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-4B8BBE?style=for-the-badge&logo=domain&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00599C?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFA500?style=for-the-badge&logo=pattern&logoColor=white)
 
 ## Luizalabs
 
 👉 <a href="https://github.com/eneas-almeida/luizalabs">Luizalabs</a>: backend em NodeJs utilizando clean architecture e frontend utilizando VueJs.<br />
 
-<b>Tags:</b> Nodejs | VueJs | Frontend | Backed | Mongodb | Microservice | Jest | Solid | Clean-code | Design-patterns | Clean-architecture | Retry Pattern | Tests | Jdocs
+<b>Tags:</b>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Backend](https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microservice](https://img.shields.io/badge/Microservice-00599C?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge&logo=code&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-00599C?style=for-the-badge&logo=code&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFA500?style=for-the-badge&logo=pattern&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=architecture&logoColor=white)
+![Retry Pattern](https://img.shields.io/badge/Retry_Pattern-4B8BBE?style=for-the-badge&logo=retry&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-C21325?style=for-the-badge&logo=testing-library&logoColor=white)
+![Jdocs](https://img.shields.io/badge/Jdocs-4285F4?style=for-the-badge&logo=documentation&logoColor=white)
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/tela-resp-lista.png" alt="TELA RESPONSAIVA" /></a>
@@ -217,7 +253,16 @@ Monitoramento da criança no ambiente escolar através de IA para combate ao bul
 
 👉 <a href="https://github.com/eneas-almeida/bekid">Bekid</a> é um sistema de mapeamento de emoções utilizando Inteligência Artificial para auxílio no combate ao bullying escolar. A aplicação realiza análise comportamental em tempo real, oferecendo dashboards para gestores educacionais com alertas e relatórios. **(finalizado, online em produção)**<br />
 
-<b>Tags:</b> NodeJS | VueJS | AI/ML | Computer Vision | Emotion Detection | Socket.io | Real-time | MongoDB | Education Tech
+<b>Tags:</b>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Emotion Detection](https://img.shields.io/badge/Emotion_Detection-E91E63?style=for-the-badge&logo=brain&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Real-time](https://img.shields.io/badge/Real--time-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Education Tech](https://img.shields.io/badge/Education_Tech-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/bekid"><img src="./images/diagram-v5.png" alt="Diagrama" /></a>
@@ -229,7 +274,16 @@ Monitoramento da criança no ambiente escolar através de IA para combate ao bul
 
 👉 <a href="https://github.com/eneas-almeida/bestore">Bestore</a> - API REST completa para e-commerce com gerenciamento de produtos, categorias, carrinho de compras e processamento de pedidos. Desenvolvida em Java com Spring Boot e MySQL, seguindo padrões REST e boas práticas de desenvolvimento. **(finalizado)**<br />
 
-<b>Tags:</b> Java | Spring Boot | MySQL | REST API | E-commerce | JPA | Hibernate | MVC | Docker
+<b>Tags:</b>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
+![E-commerce](https://img.shields.io/badge/E--commerce-FF6F00?style=for-the-badge&logo=shopify&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <img src="https://github.com/eneas-almeida/bestore/raw/master/media/diagrams/diagrama-v5.png" />
 
@@ -239,7 +293,15 @@ O projeto demonstra a implementação completa de Clean Architecture em microser
 
 👉 <a href="https://github.com/eneas-almeida/customer-clean-architecture">Guia Clean Architecture</a> - Guia técnico completo para implementação de arquitetura limpa, utilizado para onboarding e padronização de equipe.<br />
 
-<b>Tags:</b> Clean Architecture | DDD | SOLID | TypeScript | NestJS | Design Patterns | Best Practices | Layered Architecture
+<b>Tags:</b>
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=architecture&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-4B8BBE?style=for-the-badge&logo=domain&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge&logo=code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFA500?style=for-the-badge&logo=pattern&logoColor=white)
+![Best Practices](https://img.shields.io/badge/Best_Practices-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-00599C?style=for-the-badge&logo=layers&logoColor=white)
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/customer-clean-architecture"><img src="./images/camadas.png" /></a>
@@ -253,7 +315,15 @@ O projeto demonstra a implementação completa de Clean Architecture em microser
 
 👉 <a href="https://github.com/eneas-almeida/grpc">Guia gRPC</a> - Guia completo de implementação de gRPC com Go, incluindo comunicação unária, streaming (server, client e bidirecional), interceptors, autenticação e melhores práticas para comunicação de alta performance entre microserviços.<br />
 
-<b>Tags:</b> gRPC | Go | Protocol Buffers | Microservices | RPC | Streaming | High Performance | API Design
+<b>Tags:</b>
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00599C?style=for-the-badge&logo=microgenetics&logoColor=white)
+![RPC](https://img.shields.io/badge/RPC-4285F4?style=for-the-badge&logo=protocol&logoColor=white)
+![Streaming](https://img.shields.io/badge/Streaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![High Performance](https://img.shields.io/badge/High_Performance-00C853?style=for-the-badge&logo=speedtest&logoColor=white)
+![API Design](https://img.shields.io/badge/API_Design-009688?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## GraphQL (Guia de Implementação)
 
@@ -263,7 +333,16 @@ O projeto demonstra a implementação completa de Clean Architecture em microser
 
 👉 <a href="https://github.com/eneas-almeida/graphql">Guia GraphQL</a> - Guia completo de implementação de GraphQL com Go, incluindo schemas, queries, mutations, resolvers, subscriptions e otimizações. Demonstra como criar APIs flexíveis e eficientes permitindo que clientes solicitem exatamente os dados necessários.<br />
 
-<b>Tags:</b> GraphQL | Go | API Design | Queries | Mutations | Subscriptions | Schema | Resolvers | Real-time
+<b>Tags:</b>
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![API Design](https://img.shields.io/badge/API_Design-009688?style=for-the-badge&logo=swagger&logoColor=white)
+![Queries](https://img.shields.io/badge/Queries-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Mutations](https://img.shields.io/badge/Mutations-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Subscriptions](https://img.shields.io/badge/Subscriptions-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Schema](https://img.shields.io/badge/Schema-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Resolvers](https://img.shields.io/badge/Resolvers-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Real-time](https://img.shields.io/badge/Real--time-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)
 
 ## RabbitMQ (Guia de Mensageria)
 
@@ -273,7 +352,15 @@ O projeto demonstra a implementação completa de Clean Architecture em microser
 
 👉 <a href="https://github.com/eneas-almeida/rabbitmq">Guia RabbitMQ</a> - Guia completo de mensageria com RabbitMQ, incluindo exchanges (direct, topic, fanout, headers), filas, dead letter queues, padrões de retry, confirmações de mensagens e melhores práticas para comunicação assíncrona entre microserviços.<br />
 
-<b>Tags:</b> RabbitMQ | Message Broker | AMQP | Async Communication | Microservices | Dead Letter Queue | Retry Pattern | Event-Driven
+<b>Tags:</b>
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Message Broker](https://img.shields.io/badge/Message_Broker-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AMQP](https://img.shields.io/badge/AMQP-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Async Communication](https://img.shields.io/badge/Async_Communication-4B8BBE?style=for-the-badge&logo=async&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00599C?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Dead Letter Queue](https://img.shields.io/badge/Dead_Letter_Queue-FF6B6B?style=for-the-badge&logo=queue&logoColor=white)
+![Retry Pattern](https://img.shields.io/badge/Retry_Pattern-4B8BBE?style=for-the-badge&logo=retry&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ## Kafka (Guia de Event Streaming)
 
@@ -283,7 +370,16 @@ O projeto demonstra a implementação completa de Clean Architecture em microser
 
 👉 <a href="https://github.com/eneas-almeida/kafka">Guia Kafka</a> - Guia completo de Apache Kafka para event streaming, incluindo producers, consumers, consumer groups, partições, replicação, offset management e estratégias de processamento de mensagens em larga escala. Implementações práticas em múltiplas linguagens.<br />
 
-<b>Tags:</b> Apache Kafka | Event Streaming | Message Queue | Distributed Systems | High Throughput | Real-time Processing | Pub/Sub | Scalability<br />
+<b>Tags:</b>
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Event Streaming](https://img.shields.io/badge/Event_Streaming-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Message Queue](https://img.shields.io/badge/Message_Queue-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-00599C?style=for-the-badge&logo=system&logoColor=white)
+![High Throughput](https://img.shields.io/badge/High_Throughput-00C853?style=for-the-badge&logo=speedtest&logoColor=white)
+![Real-time Processing](https://img.shields.io/badge/Real--time_Processing-FF6B6B?style=for-the-badge&logo=processing&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Scalability](https://img.shields.io/badge/Scalability-00C853?style=for-the-badge&logo=scale&logoColor=white)
+<br />
 👉 <a href="https://github.com/eneas-almeida/customer-clean-architecture/blob/main/src/infra/services/queue/kafka-queue.service.ts">Implementação de um serviço em Typescript com Kafka</a><br />
 👉 <a href="https://github.com/eneas-almeida/kafka/tree/master/kafka-nestjs">Kafka + NestJs</a><br />
 👉 <a href="https://github.com/eneas-almeida/kafka/tree/master/kafka-nodejs">Kafka + NodeJs</a><br />
@@ -297,7 +393,15 @@ O projeto demonstra a implementação completa de Clean Architecture em microser
 
 👉 <a href="https://github.com/eneas-almeida/bff">Guia BFF</a> - Guia completo do padrão Backend for Frontend, demonstrando como criar camadas de backend específicas para cada tipo de cliente (web, mobile, desktop). O BFF atua como intermediário entre o frontend e os microserviços, agregando dados, otimizando payload e adaptando APIs para necessidades específicas de cada plataforma.<br />
 
-<b>Tags:</b> BFF | Backend for Frontend | API Gateway | Microservices | API Aggregation | Mobile Backend | Web Backend | GraphQL
+<b>Tags:</b>
+![BFF](https://img.shields.io/badge/BFF-00599C?style=for-the-badge&logo=backend&logoColor=white)
+![Backend for Frontend](https://img.shields.io/badge/Backend_for_Frontend-00599C?style=for-the-badge&logo=backend&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF6C37?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00599C?style=for-the-badge&logo=microgenetics&logoColor=white)
+![API Aggregation](https://img.shields.io/badge/API_Aggregation-009688?style=for-the-badge&logo=api&logoColor=white)
+![Mobile Backend](https://img.shields.io/badge/Mobile_Backend-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Web Backend](https://img.shields.io/badge/Web_Backend-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 <hr>
 
@@ -311,7 +415,15 @@ Microserviço de gerenciamento de contas desenvolvido em Go seguindo rigorosamen
 
 👉 <a href="https://github.com/eneas-almeida/go-account-api-mongodb">Link do projeto</a><br />
 
-<b>Tags:</b> Go | Fiber | MongoDB | Clean Architecture | REST API | Dependency Injection | Repository Pattern | SOLID
+<b>Tags:</b>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=fiber&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=architecture&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-4B8BBE?style=for-the-badge&logo=di&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-FFA500?style=for-the-badge&logo=pattern&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge&logo=code&logoColor=white)
 
 <hr>
 
@@ -327,7 +439,17 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/mypoint">MyPoint</a> é um sistema para registro de ponto eletrônico de funcionários construído com arquitetura de microserviços. Utiliza filas (RabbitMQ) para processamento assíncrono, cache distribuído para redução de carga no banco, e WebSocket para atualizações em tempo real. A arquitetura suporta alto volume de requisições simultâneas sem degradação de performance. **(em andamento)**<br />
 
-<b>Tags:</b> NestJS | VueJS | RabbitMQ | Microservices | Socket.io | Redis | MongoDB | High Concurrency | Real-time | Event-Driven
+<b>Tags:</b>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00599C?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![High Concurrency](https://img.shields.io/badge/High_Concurrency-00C853?style=for-the-badge&logo=performance&logoColor=white)
+![Real-time](https://img.shields.io/badge/Real--time-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 <hr>
 
@@ -373,13 +495,31 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/socketio_vuejs_nodejs">Socket.io com Vue/Node/Nest</a> - Sistema de comunicação bidirecional em tempo real utilizando WebSockets. Implementa autenticação via JWT, padrão Observer para eventos, rooms/namespaces e reconexão automática. Frontend em Vue.js e backend em Node.js/NestJS. ❤️ **(finalizado)**<br />
 
-<b>Tags:</b> Socket.io | WebSocket | VueJS | NodeJS | NestJS | Real-time | JWT | Observer Pattern | Bidirectional Communication
+<b>Tags:</b>
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Real-time](https://img.shields.io/badge/Real--time-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Observer Pattern](https://img.shields.io/badge/Observer_Pattern-FFA500?style=for-the-badge&logo=pattern&logoColor=white)
+![Bidirectional Communication](https://img.shields.io/badge/Bidirectional_Communication-4B8BBE?style=for-the-badge&logo=communication&logoColor=white)
 
 ### Arquitetura com NestJs (Domínios Ricos + DDD)
 
 👉 <a href="https://github.com/eneas-almeida/nestjs/tree/master/nestjs-value-object">NestJs + Domínios Ricos</a> - API REST implementando **Domain-Driven Design** com modelagem de domínios ricos. Utiliza **Value Objects** para encapsular regras de negócio, **Either Pattern** para tratamento funcional de erros, **DTOs** para validação de entrada/saída e **Mappers** para transformação entre camadas, garantindo separação de responsabilidades e domínio livre de frameworks.<br />
 
-<b>Tags:</b> NestJS | DDD | Value Objects | Either Pattern | DTOs | Mappers | Domain Modeling | Clean Architecture | TypeScript
+<b>Tags:</b>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-4B8BBE?style=for-the-badge&logo=domain&logoColor=white)
+![Value Objects](https://img.shields.io/badge/Value_Objects-512BD4?style=for-the-badge&logo=code&logoColor=white)
+![Either Pattern](https://img.shields.io/badge/Either_Pattern-FFA500?style=for-the-badge&logo=pattern&logoColor=white)
+![DTOs](https://img.shields.io/badge/DTOs-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Mappers](https://img.shields.io/badge/Mappers-4B8BBE?style=for-the-badge&logo=mapping&logoColor=white)
+![Domain Modeling](https://img.shields.io/badge/Domain_Modeling-4B8BBE?style=for-the-badge&logo=model&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=architecture&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <hr>
 
@@ -389,7 +529,15 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/api-evasao-escolar-nestjs">Evasão Escolar</a> - Sistema para análise e prevenção da evasão escolar em instituições públicas de nível superior. Coleta e processa dados acadêmicos para identificar padrões e alunos em risco, gerando relatórios e dashboards para gestores educacionais. **(finalizado, online em produção)**<br />
 
-<b>Tags:</b> NestJS | TypeScript | TypeORM | PostgreSQL | Education | Data Analysis | REST API | Production
+<b>Tags:</b>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Education](https://img.shields.io/badge/Education-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
+![Production](https://img.shields.io/badge/Production-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 ---
 
@@ -397,7 +545,15 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/api-tindin">Tindin</a> - API para controle e gerenciamento de aulas ministradas por professores. Sistema completo com autenticação, CRUD de aulas, relatórios e estatísticas. Desenvolvida com TDD e alta cobertura de testes. **(finalizado)**<br />
 
-<b>Tags:</b> NodeJS | MongoDB | Jest | TDD | High Coverage | REST API | Authentication | Education
+<b>Tags:</b>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-C21325?style=for-the-badge&logo=testing-library&logoColor=white)
+![High Coverage](https://img.shields.io/badge/High_Coverage-00C853?style=for-the-badge&logo=codecov&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Education](https://img.shields.io/badge/Education-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 ---
 
@@ -405,7 +561,15 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/api-places-to-know">Places to Know</a> - API para catalogação de locais turísticos pelo mundo com integração a APIs externas de geolocalização. Implementa sistema de busca avançada com filtros múltiplos, paginação e cache de resultados. **(finalizado)**<br />
 
-<b>Tags:</b> NodeJS | External API Integration | Search | Filters | Pagination | Geolocation | Cache | REST API
+<b>Tags:</b>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![External API Integration](https://img.shields.io/badge/External_API_Integration-009688?style=for-the-badge&logo=api&logoColor=white)
+![Search](https://img.shields.io/badge/Search-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Filters](https://img.shields.io/badge/Filters-FF6B6B?style=for-the-badge&logo=filter&logoColor=white)
+![Pagination](https://img.shields.io/badge/Pagination-4B8BBE?style=for-the-badge&logo=page&logoColor=white)
+![Geolocation](https://img.shields.io/badge/Geolocation-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Cache](https://img.shields.io/badge/Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
 
 ## Trabalhos antigos
 
@@ -413,7 +577,12 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/oraculo">Oráculo</a> - Sistema completo de gerenciamento financeiro para empresa cliente. Interface desenvolvida com HTML5, JavaScript vanilla e jQuery, implementando controle de receitas, despesas, fluxo de caixa e relatórios gerenciais. **(finalizado)**<br />
 
-<b>Tags:</b> HTML5 | JavaScript | jQuery | Financial System | Client Project
+<b>Tags:</b>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Financial System](https://img.shields.io/badge/Financial_System-00C853?style=for-the-badge&logo=money&logoColor=white)
+![Client Project](https://img.shields.io/badge/Client_Project-4285F4?style=for-the-badge&logo=project&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/eneas-almeida/oraculo"><img src="./images/oraculo.png" /></a>
@@ -425,7 +594,13 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/gerente-rh">Gerente RH</a> - Sistema desktop de gerenciamento de funcionários com controle de cadastro, folha de pagamento, férias e benefícios. Desenvolvido em arquitetura MVC com C# e Microsoft SQL Server. **(finalizado)**<br />
 
-<b>Tags:</b> C# | .NET | SQL Server | MVC | Desktop Application | HR System
+<b>Tags:</b>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Desktop Application](https://img.shields.io/badge/Desktop_Application-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![HR System](https://img.shields.io/badge/HR_System-4285F4?style=for-the-badge&logo=people&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/eneas-almeida/gerente-rh"><img src="./images/gerente.png" /></a>
@@ -457,7 +632,16 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/auth-nest">API Rest SigIn/SigUp</a> - Sistema completo de autenticação e autorização implementando JWT, refresh tokens, guards, interceptors personalizados, logger estruturado e testes unitários. **(finalizado)**<br />
 
-<b>Tags:</b> NestJS | TypeORM | PostgreSQL | JWT | Authentication | Authorization | Interceptors | Guards | Jest
+<b>Tags:</b>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Authorization](https://img.shields.io/badge/Authorization-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Interceptors](https://img.shields.io/badge/Interceptors-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Guards](https://img.shields.io/badge/Guards-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -465,7 +649,16 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/nestjs-with-prisma">API Rest NestJs com Prisma</a> - API REST moderna com Prisma ORM, documentação Swagger/OpenAPI, validação de dados com class-validator, transformers, paginação customizada, exception handling global e logger. Inclui Docker Compose para ambiente de desenvolvimento. **(finalizado)**<br />
 
-<b>Tags:</b> NestJS | Prisma | PostgreSQL | Swagger | Docker | Validators | Transformers | Pagination | Exception Handling
+<b>Tags:</b>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Validators](https://img.shields.io/badge/Validators-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-4B8BBE?style=for-the-badge&logo=transform&logoColor=white)
+![Pagination](https://img.shields.io/badge/Pagination-4B8BBE?style=for-the-badge&logo=page&logoColor=white)
+![Exception Handling](https://img.shields.io/badge/Exception_Handling-FF6B6B?style=for-the-badge&logo=error&logoColor=white)
 
 ---
 
@@ -473,7 +666,15 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/vacina_pb">VacinaPB</a> - Estudo de caso aplicando **Test-Driven Development (TDD)** rigorosamente. Implementa Clean Architecture, padrões de projeto (Repository, Factory, Strategy), modelagem de domínio rica com Value Objects e Entity, baseado nos ensinamentos de Martin Fowler sobre refatoração e arquitetura. **(finalizado)**<br />
 
-<b>Tags:</b> TypeScript | NodeJS | TDD | Clean Architecture | DDD | Value Objects | Design Patterns | Martin Fowler
+<b>Tags:</b>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-C21325?style=for-the-badge&logo=testing-library&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=architecture&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-4B8BBE?style=for-the-badge&logo=domain&logoColor=white)
+![Value Objects](https://img.shields.io/badge/Value_Objects-512BD4?style=for-the-badge&logo=code&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFA500?style=for-the-badge&logo=pattern&logoColor=white)
+![Martin Fowler](https://img.shields.io/badge/Martin_Fowler-FF6B6B?style=for-the-badge&logo=book&logoColor=white)
 
 ---
 
@@ -481,7 +682,13 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/modelagem_entidade">Modelagem de entidade (Tiny)</a> - Implementação do **Either Pattern** em Java para tratamento funcional de erros. A técnica utiliza uma classe Either.java para encapsular sucesso ou falha, permitindo gerenciamento elegante de exceções sem try-catch, inspirado em programação funcional. **(finalizado)**<br />
 
-<b>Tags:</b> Java | Either Pattern | Functional Programming | Error Handling | Design Patterns | Clean Code
+<b>Tags:</b>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Either Pattern](https://img.shields.io/badge/Either_Pattern-FFA500?style=for-the-badge&logo=pattern&logoColor=white)
+![Functional Programming](https://img.shields.io/badge/Functional_Programming-512BD4?style=for-the-badge&logo=functional&logoColor=white)
+![Error Handling](https://img.shields.io/badge/Error_Handling-FF6B6B?style=for-the-badge&logo=error&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFA500?style=for-the-badge&logo=pattern&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-00599C?style=for-the-badge&logo=code&logoColor=white)
 
 ---
 
@@ -489,7 +696,13 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/teste_exaustao">Teste Exaustão (JMeter)</a> - Testes de carga e stress usando Apache JMeter para análise de performance, identificação de gargalos e limites de capacidade da aplicação. **(finalizado)**<br />
 
-<b>Tags:</b> JMeter | Performance Testing | Load Testing | Stress Testing | TypeScript | NodeJS
+<b>Tags:</b>
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-00C853?style=for-the-badge&logo=speedtest&logoColor=white)
+![Load Testing](https://img.shields.io/badge/Load_Testing-FF6B6B?style=for-the-badge&logo=testing&logoColor=white)
+![Stress Testing](https://img.shields.io/badge/Stress_Testing-FF6B6B?style=for-the-badge&logo=testing&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
@@ -497,7 +710,13 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/deploy_codeship">Deploy em QA e Produção</a> - Pipeline de integração contínua e deploy automatizado utilizando Codeship, com ambientes separados de QA e Produção, testes automatizados e deploy condicional. **(finalizado)**<br />
 
-<b>Tags:</b> CI/CD | Codeship | Automated Deployment | QA | Production | DevOps
+<b>Tags:</b>
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Codeship](https://img.shields.io/badge/Codeship-3C4858?style=for-the-badge&logo=codeship&logoColor=white)
+![Automated Deployment](https://img.shields.io/badge/Automated_Deployment-00C853?style=for-the-badge&logo=deploy&logoColor=white)
+![QA](https://img.shields.io/badge/QA-4CAF50?style=for-the-badge&logo=quality&logoColor=white)
+![Production](https://img.shields.io/badge/Production-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=devops&logoColor=white)
 
 ---
 
@@ -505,7 +724,12 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 
 👉 <a href="https://github.com/eneas-almeida/create_releases">Create releases</a> - Automação de criação de releases no GitHub com versionamento semântico, changelog automático e tagging. **(finalizado)**<br />
 
-<b>Tags:</b> GitHub Actions | Automation | Semantic Versioning | Release Management | CI/CD
+<b>Tags:</b>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4B8BBE?style=for-the-badge&logo=automation&logoColor=white)
+![Semantic Versioning](https://img.shields.io/badge/Semantic_Versioning-3F4F75?style=for-the-badge&logo=semver&logoColor=white)
+![Release Management](https://img.shields.io/badge/Release_Management-4CAF50?style=for-the-badge&logo=release&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
