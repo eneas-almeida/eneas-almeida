@@ -9,7 +9,7 @@
 -   💼 Desenvolvedor Principal no **Sicoob** - Responsável por microserviços que processam **R$ 6 milhões/mês**
 -   🏗️ Especialista em **Arquitetura de Microserviços** e **Sistemas Distribuídos**
 -   📊 Experiência com grandes volumes de dados financeiros em ambientes de alta pressão
--   🎯 Foco em **Clean Architecture**, **DDD** e **Design Patterns**
+-   🎯 Foco em **Clean Architecture**, **SOLID** e **Design Patterns**
 
 ### Formação Acadêmica
 -   🎓 **Bacharel em Engenharia de Computação** - Instituto Federal da Paraíba
@@ -18,11 +18,40 @@
 -   📜 **Go Expert** - [Full Cycle](https://goexpert.fullcycle.com.br/curso/) *(Concluído)*
 -   📜 **Especialista em Microserviços com Java** - [AlgaWorks](https://lp.algaworks.com/curso-especialista-microsservicos-java-spring-cadastro/) *(Em andamento)*
 
-### Stack Tecnológica
+### Pessoal
+
+-   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador);
+-   🍖 Fã de churrasco, fez um? me chama! 🔥
+
+## Projeto Recente (em andamento) 🔥🔥🔥
+
+👉 <a href="https://github.com/eneas-almeida/bridge">Bridge</a>
+
+<a href="https://github.com/eneas-almeida/bridge"><img src="./images/java-grpc-2.png" /></a>
+
+O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéas Almeida, composta por dois serviços principais que se comunicam via **gRPC**:
+
+- **API Service**: Gateway REST que expõe endpoints HTTP e se comunica com o serviço People via gRPC
+- **People Service**: Serviço backend que fornece dados de usuários via gRPC, consumindo a API externa de dados de Usuários
+
+```
+┌──────────────┐     HTTP/REST      ┌──────────────┐      gRPC       ┌──────────────┐     HTTP
+│   Cliente    │ ─────────────────> │  API Service │ ──────────────> │People Service│ ──────────> Dados de usuários
+│  (Browser)   │                    │  (Port 8081) │                 │ (Port 9090)  │             (External API)
+└──────────────┘                    └──────────────┘                 └──────────────┘
+```
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Microservice](https://img.shields.io/badge/Microservice-00599C?style=flat&logo=microgenetics&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
+![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
+
+## Stack Tecnológica
 
 **Backend (Fullstack)**
 -   ⚡ **Node.js / NestJS / TypeScript** - Desenvolvimento de APIs REST, microserviços e aplicações escaláveis
--   ☕ **Java (8, 11, 17, 21)** - Spring Boot, WebFlux, microserviços de alta performance
+-   ☕ **Java (8, 11, 17, 21)** - JBoss, Spring Boot, WebFlux, microserviços de alta performance
 -   🔷 **Go (Golang)** - APIs de alta concorrência, gRPC, sistemas distribuídos
 -   🐍 **Python** - Scripts, automação e processamento de dados
 
@@ -46,84 +75,38 @@
 -   📬 RabbitMQ, Apache Kafka, AWS SQS
 -   🔧 TypeORM, Prisma, Mongoose
 
-### Pessoal
+## Atuação mais significativa: SICOOB
 
--   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador);
--   🍖 Fã de churrasco, fez um? me chama! 🔥
+**Papel**
+- Desenvolvedor principal
 
-## PROJETO RECENTE
+**Responsabilidades**
+- Migração e desenvolvimento de **4 microserviços principais** e **7 auxiliares**
+- Atuação do entendimento das regras de negócio até a entrega em produção
 
-👉 <a href="https://github.com/eneas-almeida/bridge">Bridge</a>
+**Resultados**
+- Microserviços em produção gerando cerca de **R$ 6 milhões/mês**
 
-<a href="https://github.com/eneas-almeida/bridge"><img src="./images/java-grpc-2.png" /></a>
+**Domínio de Negócio**
+- Transferência de pontos do cartão Sicoob para:
+  - Livelo
+  - Decolar
+  - Smiles
+  - Azul
+  - Latam
 
-O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéas Almeida, composta por dois serviços principais que se comunicam via **gRPC**:
+**Integrações**
+- Web services corporativos:
+  - Oracle
+  - VTEX
+  - Siebel
+  - Salesforce
 
-- **API Service**: Gateway REST que expõe endpoints HTTP e se comunica com o serviço People via gRPC
-- **People Service**: Serviço backend que fornece dados de usuários via gRPC, consumindo a API externa JSONPlaceholder
+**Fluxo de exemplo**
 
-```
-┌──────────────┐     HTTP/REST      ┌──────────────┐      gRPC       ┌──────────────┐     HTTP
-│   Cliente    │ ─────────────────> │  API Service │ ──────────────> │People Service│ ──────────> JSONPlaceholder
-│  (Browser)   │                    │  (Port 8081) │                 │ (Port 9090)  │             (External API)
-└──────────────┘                    └──────────────┘                 └──────────────┘
-```
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Microservice](https://img.shields.io/badge/Microservice-00599C?style=flat&logo=microgenetics&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
-![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
-
-## Atuação mais significativa: Sicoob
-
-Desenvolvedor principal, responsável pela migração e desenvolvimento de 4 microserviços principais e 7 auxiliares, que hoje estão em produção gerando cerca de 6 milhões de reais por mês. Microserviços de transferências de pontos gerados no cartão Sicoob para: Livelo, Decolar, Smiles, Azul e Latam. Os microserviços desenvolvidos, são integrados com diversos webservices para validação de transferência, como: Oracle, Vtex, Siebel, Salesforce, entre outros.
-<br /><br />O fluxo abaixo demonstra o primeiro passo, o entendimento das regras de negócios e a diagramação do microserviço a ser migrado.
-
-**Observação:** Alguns dados foram removidos do fluxo para não comprometer a segurança do sistema.
+O fluxo abaixo foi desenvolvido por Enéas Almeida no âmbito de trabalho, dados foram omitidos para não comprometer a segurança da aplicação.
 
 <img src="./images/fluxo-smiles.png" alt="Fluxo" />
-
-## Stacks de atuações
-
-## Frontend
-
--   VueJs 2 e 3 com bibliotecas de UI (Vuetify / PrimeVue / Quasar);
--   React;
--   Angular.
-
-## Backend
-
-### Linguagens e Plataformas
-- **Java** 8, 11, 17 e 21 (Spring Boot / WebFlux)  
-- **Node.js / NestJs / TypeScript / JavaScript**  
-- **GoLang**  
-- **Python**  
-
-### Arquitetura e Design
-- Clean Architecture / CQRS / MVC / DDD  
-- BFF / GraphQL  
-- Especialista em documentações BPMN  
-
-### Banco de Dados e Armazenamento
-- **Oracle, PostgreSQL, MySQL, MongoDB, Redis**  
-- **TypeORM / Prisma / Mongoose**  
-
-### Mensageria e Integração
-- RabbitMQ / Kafka / SQS  
-- gRPC  
-
-### Ferramentas e Relatórios
-- Jasper Reports  
-- Elasticsearch / OpenSearch / Prometheus / Grafana  
-
-### Cloud e DevOps
-- **AWS:** S3, Redis, DocumentDB, Cognito, SQS, API Gateway  
-- Kubernetes / Istio / Helm / Terraform  
-
-### Servidores e Middleware
-- JBoss
-
 
 <details>
 <summary>+ Sobre</summary>
