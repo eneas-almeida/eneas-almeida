@@ -1,6 +1,6 @@
 # Enéas Almeida
 
-**Observação:** 98% dos fluxos de BPMN, UML, desenhos técnicos e repositórios são de autoria própria.
+**Observação:** Cerca de 98% dos artefatos técnicos (BPMN, UML, projetos, desenhos e repositórios) são de autoria própria.
 
 ## 👨‍💻 Sobre
 
