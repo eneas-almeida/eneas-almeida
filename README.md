@@ -74,7 +74,7 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 -   📬 RabbitMQ, Apache Kafka, AWS SQS
 -   🔧 TypeORM, Prisma, Mongoose
 
-# Atuação mais significativa: Sicoob
+# Experiência Profissional de Maior Relevância: Sicoob
 
 **Domínio de Negócio**
 
