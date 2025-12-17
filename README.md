@@ -76,7 +76,7 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 # Atuação mais significativa: Sicoob
 
-<img src="./images/transferencia-pontos.png" width="100%" />
+<p align="center"><img src="./images/transferencia-pontos.png" width="300" /></p>
 
 **Domínio de Negócio**
 
@@ -112,7 +112,7 @@ Web services corporativos:
 
 # Atualmente: Serasa Experian
 
-<img src="./images/serasa.png" width="100%" />
+<p align="center"><img src="./images/serasa.png" width="300" /></p>
 
 **Domínio de Negócio**
 
