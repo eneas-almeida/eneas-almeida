@@ -76,7 +76,23 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 # Atuação mais significativa: Sicoob
 
-<p align="center"><img src="./images/transferencia-pontos.png" width="450" /></p>
+```
+                      ┌────────────────┐
+              ┌──────>│    TudoAzul    │
+              │       └────────────────┘
+              │
+              │       ┌────────────────┐
+┌─────────────┴──┐    │     Livelo     │
+│  Cartão Sicoob │───>└────────────────┘
+│    (Pontos)    │
+└─────────────┬──┘    ┌────────────────┐
+              │       │     Smiles     │
+              ├──────>└────────────────┘
+              │
+              │       ┌────────────────┐
+              └──────>│   Latam Pass   │
+                      └────────────────┘
+```
 
 **Domínio de Negócio**
 
