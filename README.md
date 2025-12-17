@@ -78,7 +78,7 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 **Domínio de Negócio**
 
-Transferência de pontos do cartão Sicoob para:
+Transferência de pontos do cartão Sicoob para os parceiros.
 
 ```
                                                 ┌────────────────┐
