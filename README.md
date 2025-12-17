@@ -147,10 +147,10 @@ O sistema é composto por três microsserviços independentes que trabalham em c
 
 👉 <a href="https://github.com/eneas-almeida/luizalabs">Luizalabs</a>
 
-Telas do sistema em VueJs.
+Tela do sistema em VueJs.
 
 <p align="center">
-    <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/tela-resp-lista.png" alt="TELA RESPONSAIVA" /></a>
+    <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/labs-1.png" alt="TELA RESPONSAIVA" /></a>
 </p>
 
 Aplicação para inserção de produtos em uma lista de favoritos **(Magazine Luiza)**. Backend utilizando estrutura em Clean Architecture com NodeJs.
