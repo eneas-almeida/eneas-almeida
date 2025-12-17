@@ -22,7 +22,7 @@
 -   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador);
 -   🍖 Fã de churrasco, fez um? me chama! 🔥
 
-## Projeto Recente (em andamento) 🔥🔥🔥
+## Projeto mais recente (em andamento) 🔥🔥🔥
 
 👉 <a href="https://github.com/eneas-almeida/bridge">Bridge</a>
 
@@ -143,11 +143,11 @@ O sistema é composto por três microsserviços independentes que trabalham em c
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## Luizalabs
+## Projeto lista de favoritos (Magazine Luiza)
 
 👉 <a href="https://github.com/eneas-almeida/luizalabs">Luizalabs</a>
 
-Tela do sistema em VueJs.
+Tela do sistema desenvolvida no projeto de frontend.
 
 <p align="center">
     <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/labs-1.png" alt="TELA RESPONSAIVA" /></a>
