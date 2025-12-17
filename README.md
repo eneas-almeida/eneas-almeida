@@ -127,7 +127,11 @@ Desenho da arquitetura.
 
 <a href="https://github.com/eneas-almeida/ms-sensors-central"><img src="./images/microservicos.png" /></a>
 
-Sensores de monitoramento utilizando microsserviços, comunicação assíncrona com RabbitMq e Java.
+O sistema é composto por três microsserviços independentes que trabalham em conjunto para gerenciar dispositivos sensores e processar dados de temperatura de forma assíncrona e escalável:
+
+**Device Manager:** Gerencia o cadastro e configuração dos sensores
+**Temperature Monitoring:** Coleta e monitora leituras de temperatura
+**Temperature Processing:** Processa e persiste dados de temperatura com otimizações de performance
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Microservice](https://img.shields.io/badge/Microservice-00599C?style=flat&logo=microgenetics&logoColor=white)
