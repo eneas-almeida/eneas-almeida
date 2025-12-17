@@ -153,13 +153,13 @@ Aplicação para inserção de produtos em uma lista de favoritos **(Magazine Lu
 
 ### Principais Funcionalidades
 
-✅ Gerenciamento de contas de usuário (criação e autenticação)
-✅ Sistema de autenticação JWT
-✅ Gerenciamento de produtos em listas de favoritos
-✅ Integração com API externa de produtos
-✅ Arquitetura limpa e desacoplada
-✅ Testes unitários abrangentes
-✅ Tratamento robusto de erros
+✅ Gerenciamento de contas de usuário (criação e autenticação)<br />
+✅ Sistema de autenticação JWT<br />
+✅ Gerenciamento de produtos em listas de favoritos<br />
+✅ Integração com API externa de produtos<br />
+✅ Arquitetura limpa e desacoplada<br />
+✅ Testes unitários abrangentes<br />
+✅ Tratamento robusto de erros<br />
 
 ### Fluxo de Requisição
 
@@ -219,6 +219,48 @@ sequenceDiagram
 ![Tests](https://img.shields.io/badge/Tests-C21325?style=flat&logo=testing-library&logoColor=white)
 ![Jdocs](https://img.shields.io/badge/Jdocs-4285F4?style=flat&logo=documentation&logoColor=white)
 
+
+## Projeto Bekid
+
+**Domínio do negócio**
+
+Monitoramento da criança no ambiente escolar através de IA para combate ao bullying.
+
+👉 <a href="https://github.com/eneas-almeida/bekid">Bekid</a> é um sistema de mapeamento de emoções utilizando Inteligência Artificial para auxílio no combate ao bullying escolar. A aplicação realiza análise comportamental em tempo real, oferecendo dashboards para gestores educacionais com alertas e relatórios. **(finalizado, online em produção)**<br />
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Emotion Detection](https://img.shields.io/badge/Emotion_Detection-E91E63?style=flat&logo=brain&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![Real-time](https://img.shields.io/badge/Real--time-FF6B6B?style=flat&logo=lightning&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Education Tech](https://img.shields.io/badge/Education_Tech-4285F4?style=flat&logo=google-scholar&logoColor=white)
+
+<p align="center">
+    <a href="https://github.com/eneas-almeida/bekid"><img src="./images/diagram-v5.png" alt="Diagrama" /></a>
+</p>
+
+<a href="https://github.com/eneas-almeida/bekid"><img src="./images/bekid.png" alt="Desenho das telas" /></a>
+
+## Projeto Bestore (E-commerce)
+
+👉 <a href="https://github.com/eneas-almeida/bestore">Bestore</a> - API REST completa para e-commerce com gerenciamento de produtos, categorias, carrinho de compras e processamento de pedidos. Desenvolvida em Java com Spring Boot e MySQL, seguindo padrões REST e boas práticas de desenvolvimento. **(finalizado)**<br />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=api&logoColor=white)
+![E-commerce](https://img.shields.io/badge/E--commerce-FF6F00?style=flat&logo=shopify&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+<img src="https://github.com/eneas-almeida/bestore/raw/master/media/diagrams/diagrama-v5.png" />
+
+
 ## Events-Nest (NestJS + CQRS + Clean Architecture)
 
 👉 <a href="https://github.com/eneas-almeida/events-nest">Events-Nest</a>: Microserviço baseado em eventos implementando padrões avançados de arquitetura. O projeto demonstra a aplicação prática de CQRS (Command Query Responsibility Segregation), Event Sourcing e Clean Architecture com NestJS, separando comandos de consultas e mantendo um histórico completo de eventos.<br />
@@ -241,46 +283,6 @@ sequenceDiagram
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/eneas-almeida/go-upload">Upload</a>              | Upload de arquivos na AWS S3, utilizando estratégia de fallback.       |
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/eneas-almeida/grpc">gRPC</a>                     | Implementação gRPC.                                                    |
 | <img src="./images/golang.png" width="15" /> | 👉 <a href="https://github.com/eneas-almeida/graphql">GraphQL</a>               | Implementação GraphQL.                                                 |
-
-## Bekid (IA + Monitoramento Escolar)
-
-**O que resolve?**
-
-Monitoramento da criança no ambiente escolar através de IA para combate ao bullying.
-
-👉 <a href="https://github.com/eneas-almeida/bekid">Bekid</a> é um sistema de mapeamento de emoções utilizando Inteligência Artificial para auxílio no combate ao bullying escolar. A aplicação realiza análise comportamental em tempo real, oferecendo dashboards para gestores educacionais com alertas e relatórios. **(finalizado, online em produção)**<br />
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Emotion Detection](https://img.shields.io/badge/Emotion_Detection-E91E63?style=flat&logo=brain&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-![Real-time](https://img.shields.io/badge/Real--time-FF6B6B?style=flat&logo=lightning&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Education Tech](https://img.shields.io/badge/Education_Tech-4285F4?style=flat&logo=google-scholar&logoColor=white)
-
-<p align="center">
-    <a href="https://github.com/eneas-almeida/bekid"><img src="./images/diagram-v5.png" alt="Diagrama" /></a>
-</p>
-
-<a href="https://github.com/eneas-almeida/bekid"><img src="./images/bekid.png" alt="Desenho das telas" /></a>
-
-## Bestore (E-commerce API)
-
-👉 <a href="https://github.com/eneas-almeida/bestore">Bestore</a> - API REST completa para e-commerce com gerenciamento de produtos, categorias, carrinho de compras e processamento de pedidos. Desenvolvida em Java com Spring Boot e MySQL, seguindo padrões REST e boas práticas de desenvolvimento. **(finalizado)**<br />
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=api&logoColor=white)
-![E-commerce](https://img.shields.io/badge/E--commerce-FF6F00?style=flat&logo=shopify&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=hibernate&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-<img src="https://github.com/eneas-almeida/bestore/raw/master/media/diagrams/diagrama-v5.png" />
 
 ## Customer Clean Architecture (Guia Arquitetural)
 
