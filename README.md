@@ -48,28 +48,28 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 # Principais Tecnologias e Stacks de Atuação
 
-**Backend**
+### Backend
 -   ☕ **Java (8, 11, 17, 21)** - JBoss, Spring Boot, WebFlux, microserviços de alta performance
 -   ⚡ **Node.js / NestJS / TypeScript** - Desenvolvimento de APIs REST, microserviços e aplicações escaláveis
 -   🔷 **Go (Golang)** - APIs de alta concorrência, gRPC, sistemas distribuídos
 -   🐍 **Python** - Scripts, automação e processamento de dados
 
-**Frontend**
+### Frontend
 -   ⚛️ **React** - Desenvolvimento de interfaces modernas e responsivas
 -   💚 **Vue.js 2 & 3** (Especialista) - Vuetify, PrimeVue, Quasar, Composition API, Pinia
 -   🅰️ **Angular** - Aplicações enterprise
 
-**Arquitetura & Padrões**
+### Arquitetura & Padrões
 -   🏛️ Clean Architecture, CQRS, MVC, DDD, Event-Driven Architecture
 -   🔄 Microserviços, BFF (Backend for Frontend), GraphQL, gRPC
 -   📐 Especialista em documentações **BPMN** e **UML**
 
-**DevOps & Cloud**
+### DevOps & Cloud
 -   ☁️ **AWS**: S3, Redis, DocumentDB, Cognito, SQS, API Gateway, Lambda
 -   🐳 **Docker**, **Kubernetes**, **Istio**, **Helm**, **Terraform**
 -   🔄 CI/CD, GitHub Actions, Pipelines automatizados
 
-**Banco de Dados & Mensageria**
+### Banco de Dados & Mensageria
 -   💾 Oracle, PostgreSQL, MySQL, MongoDB, Redis
 -   📬 RabbitMQ, Apache Kafka, AWS SQS
 -   🔧 TypeORM, Prisma, Mongoose
