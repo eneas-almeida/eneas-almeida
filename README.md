@@ -169,6 +169,8 @@ O fluxo abaixo foi desenvolvido por Enéas Almeida no âmbito de trabalho, dados
 
 👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Sensor</a>
 
+Desenho da arquitetura.
+
 <a href="https://github.com/eneas-almeida/ms-sensors-central"><img src="./images/microservicos.png" /></a>
 
 Desenvolvimento backend em Java, com arquitetura de microserviços e comunicação assíncrona via RabbitMQ, incluindo a evolução de um sistema monolítico para microserviços com uso de message broker para orquestração e troca de mensagens.
@@ -187,6 +189,8 @@ Desenvolvimento backend em Java, com arquitetura de microserviços e comunicaç�
 
 👉 <a href="https://github.com/eneas-almeida/luizalabs">Luizalabs</a>
 
+Telas do sistema em VueJs.
+
 <p align="center">
     <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/tela-resp-lista.png" alt="TELA RESPONSAIVA" /></a>
 </p>
@@ -203,6 +207,49 @@ API RESTful desenvolvida para gerenciar contas de usuários, listas de favoritos
 - ✅ Arquitetura limpa e desacoplada
 - ✅ Testes unitários abrangentes
 - ✅ Tratamento robusto de erros
+
+### Fluxo de Requisição
+
+O fluxo de uma requisição HTTP segue este caminho através das camadas:
+
+```mermaid
+sequenceDiagram
+    participant Client
+    participant Route
+    participant Middleware
+    participant Controller
+    participant Usecase
+    participant Repository
+    participant Database
+
+    Client->>Route: HTTP Request
+    Route->>Middleware: Apply Middlewares
+
+    alt Authentication Required
+        Middleware->>Middleware: Validate JWT Token
+        Middleware-->>Client: 401 Unauthorized (if invalid)
+    end
+
+    Middleware->>Controller: handle(req, res)
+    Controller->>Controller: Create DTO from req.body
+    Controller->>Usecase: execute(dto)
+
+    Usecase->>Usecase: Validate Business Rules
+
+    alt Business Rule Violated
+        Usecase-->>Controller: throw AppError
+        Controller-->>Client: Error Response
+    end
+
+    Usecase->>Repository: Database Operation
+    Repository->>Database: Query/Command
+    Database-->>Repository: Result
+    Repository-->>Usecase: Domain Object
+
+    Usecase-->>Controller: Success Result
+    Controller->>Controller: Format Response
+    Controller-->>Client: HTTP Response (200/201)
+```
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
