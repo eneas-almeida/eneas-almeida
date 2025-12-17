@@ -183,22 +183,15 @@ Desenvolvimento backend em Java, com arquitetura de microserviços e comunicaç�
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## Events-Nest (NestJS + CQRS + Clean Architecture)
-
-👉 <a href="https://github.com/eneas-almeida/events-nest">Events-Nest</a>: Microserviço baseado em eventos implementando padrões avançados de arquitetura. O projeto demonstra a aplicação prática de CQRS (Command Query Responsibility Segregation), Event Sourcing e Clean Architecture com NestJS, separando comandos de consultas e mantendo um histórico completo de eventos.<br />
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS-512BD4?style=flat&logo=csharp&logoColor=white)
-![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-FF6B6B?style=flat&logo=eventstore&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=flat&logo=architecture&logoColor=white)
-![DDD](https://img.shields.io/badge/DDD-4B8BBE?style=flat&logo=domain&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-00599C?style=flat&logo=microgenetics&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFA500?style=flat&logo=pattern&logoColor=white)
-
 ## Luizalabs
 
-👉 <a href="https://github.com/eneas-almeida/luizalabs">Luizalabs</a>: backend em NodeJs utilizando clean architecture e frontend utilizando VueJs.<br />
+👉 <a href="https://github.com/eneas-almeida/luizalabs">Luizalabs</a>
+
+<p align="center">
+    <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/tela-resp-lista.png" alt="TELA RESPONSAIVA" /></a>
+</p>
+
+Backend em NodeJs utilizando clean architecture e frontend utilizando VueJs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -215,9 +208,18 @@ Desenvolvimento backend em Java, com arquitetura de microserviços e comunicaç�
 ![Tests](https://img.shields.io/badge/Tests-C21325?style=flat&logo=testing-library&logoColor=white)
 ![Jdocs](https://img.shields.io/badge/Jdocs-4285F4?style=flat&logo=documentation&logoColor=white)
 
-<p align="center">
-    <a href="https://github.com/eneas-almeida/luizalabs"><img src="./images/tela-resp-lista.png" alt="TELA RESPONSAIVA" /></a>
-</p>
+## Events-Nest (NestJS + CQRS + Clean Architecture)
+
+👉 <a href="https://github.com/eneas-almeida/events-nest">Events-Nest</a>: Microserviço baseado em eventos implementando padrões avançados de arquitetura. O projeto demonstra a aplicação prática de CQRS (Command Query Responsibility Segregation), Event Sourcing e Clean Architecture com NestJS, separando comandos de consultas e mantendo um histórico completo de eventos.<br />
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-512BD4?style=flat&logo=csharp&logoColor=white)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-FF6B6B?style=flat&logo=eventstore&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=flat&logo=architecture&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-4B8BBE?style=flat&logo=domain&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00599C?style=flat&logo=microgenetics&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFA500?style=flat&logo=pattern&logoColor=white)
 
 ## Últimos algoritimos desenvolvidos e utilizados em produção
 
