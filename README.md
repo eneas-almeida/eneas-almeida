@@ -46,7 +46,7 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
 
-## Principais Tecnologias e Stacks de Atuação
+# Principais Tecnologias e Stacks de Atuação
 
 **Backend**
 -   ☕ **Java (8, 11, 17, 21)** - JBoss, Spring Boot, WebFlux, microserviços de alta performance
@@ -113,36 +113,11 @@ Transferência de pontos do cartão Sicoob para os parceiros.
 
 **Integrações**
 
-Web services corporativos:
-
 - Oracle
 - VTEX
 - Siebel
 - Salesforce
 - Linkapi
-
-# Atualmente: Serasa Experian
-
-<p align="center"><img src="./images/serasa.png" width="450" /></p>
-
-**Domínio de Negócio**
-
-Enriquecimento da dados:
-
-- Pessoas
-- Empresas
-
-**Papel**
-
-- Engenheiro de software
-
-**Responsabilidades**
-
-- Evolução dos microsserviços existentes e integração de novas APIs externas
-
-**Tecnologias**
-
-- Microsserviços / Java / gRPC / WebFlux / ElasticSearch / Datadog / Mensageria
 
 ## Sensors
 
