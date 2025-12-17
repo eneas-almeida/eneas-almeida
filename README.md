@@ -76,9 +76,19 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 # Atuação mais significativa: Sicoob
 
+<img src="./images/transferencia-pontos.png" width="100%" />
+
+**Domínio de Negócio**
+
+- Transferência de pontos do cartão Sicoob para:
+  - Livelo
+  - Smiles
+  - Azul
+  - Latam
+
 **Papel**
 
-- Desenvolvedor principal
+- Desenvolvedor principal, desde a concepção até a entrega em produção
 
 **Responsabilidades**
 
@@ -89,15 +99,6 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 
 - Microserviços em produção gerando cerca de **R$ 6 milhões/mês**
 
-**Domínio de Negócio**
-
-- Transferência de pontos do cartão Sicoob para:
-  - Livelo
-  - Decolar
-  - Smiles
-  - Azul
-  - Latam
-
 **Integrações**
 
 - Web services corporativos:
@@ -105,6 +106,7 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
   - VTEX
   - Siebel
   - Salesforce
+  - Linkapi
 
 **Fluxo de exemplo**
 
