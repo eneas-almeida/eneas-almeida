@@ -169,6 +169,8 @@ O fluxo abaixo foi desenvolvido por Enéas Almeida no âmbito de trabalho, dados
 
 👉 <a href="https://github.com/eneas-almeida/ms-sensors-central">Sensor</a>
 
+<a href="https://github.com/eneas-almeida/ms-sensors-central"><img src="./images/microservicos.png" /></a>
+
 Desenvolvimento backend em Java, com arquitetura de microserviços e comunicação assíncrona via RabbitMQ, incluindo a evolução de um sistema monolítico para microserviços com uso de message broker para orquestração e troca de mensagens.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -180,8 +182,6 @@ Desenvolvimento backend em Java, com arquitetura de microserviços e comunicaç�
 ![Dead Queue](https://img.shields.io/badge/Dead_Queue-FF6B6B?style=flat&logo=queue&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-<a href="https://github.com/eneas-almeida/ms-sensors-central"><img src="./images/microservicos.png" /></a>
 
 ## Events-Nest (NestJS + CQRS + Clean Architecture)
 
