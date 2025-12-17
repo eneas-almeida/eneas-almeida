@@ -46,7 +46,7 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
 
-## Stack Tecnológica
+## Principais Tecnologias e Stacks de Atuação
 
 **Backend**
 -   ☕ **Java (8, 11, 17, 21)** - JBoss, Spring Boot, WebFlux, microserviços de alta performance
