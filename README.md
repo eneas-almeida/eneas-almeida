@@ -27,7 +27,7 @@
 
 👉 <a href="https://github.com/eneas-almeida/bridge">Bridge</a>
 
-<a href="https://github.com/eneas-almeida/bridge"><img src="./images/java-grpc-2.png" /></a>
+<a href="https://github.com/eneas-almeida/bridge"><img src="./images/java-grpc-2.png" width="100%" /></a>
 
 O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéas Almeida, composta por dois serviços principais que se comunicam via **gRPC**:
 
@@ -75,19 +75,23 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 -   📬 RabbitMQ, Apache Kafka, AWS SQS
 -   🔧 TypeORM, Prisma, Mongoose
 
-## Atuação mais significativa: SICOOB
+# Atuação mais significativa: SICOOB
 
 **Papel**
+
 - Desenvolvedor principal
 
 **Responsabilidades**
+
 - Migração e desenvolvimento de **4 microserviços principais** e **7 auxiliares**
 - Atuação do entendimento das regras de negócio até a entrega em produção
 
 **Resultados**
+
 - Microserviços em produção gerando cerca de **R$ 6 milhões/mês**
 
 **Domínio de Negócio**
+
 - Transferência de pontos do cartão Sicoob para:
   - Livelo
   - Decolar
@@ -96,6 +100,7 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
   - Latam
 
 **Integrações**
+
 - Web services corporativos:
   - Oracle
   - VTEX
@@ -127,7 +132,7 @@ O fluxo abaixo foi desenvolvido por Enéas Almeida no âmbito de trabalho, dados
 -   Sentry;
 -   Documentação de APIs;
 -   Compreensão de CI/CD;
--   Jira / Bitrix24 / GitLab.
+-   Jira.
 </details>
 
 <details>
