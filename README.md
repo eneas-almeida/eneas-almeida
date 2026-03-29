@@ -7,10 +7,10 @@
 ## 👨‍💻 Sobre
 
 ### Experiência Profissional
--   ❤️ **9+ anos** de experiência em desenvolvimento de software moderno
--   💼 Desenvolvedor Principal no **Sicoob** - Responsável por microserviços que processam **R$ 6 milhões/mês**
+- 🔥 Desenvolvedor fullstack na **Serasa Experian**, projeto que movimenta **R$ 2.5 milhões/mês**
+-   💼 Desenvolvedor Principal no **Sicoob**, responsável por microserviços que processavam **R$ 6 milhões/mês**
+- ⚡ Desenvolvedor fullstack na **Indra Company**, alocado na **Enel**, projeto que movimentava **R$ 2 milhões/mês**
 -   🏗️ Especialista em **Arquitetura de Microserviços** e **Sistemas Distribuídos**
--   📊 Experiência com grandes volumes de dados financeiros e sensíveis em ambientes de alta pressão
 
 ### Formação Acadêmica
 -   🎓 **Bacharel em Engenharia de Computação** - Instituto Federal da Paraíba
@@ -23,6 +23,43 @@
 
 -   ✝️ Professante da fé em **Jesus Cristo** (meu único Senhor e Salvador);
 -   🍖 Fã de churrasco, fez um? me chama! 🔥
+
+### Dia a dia na Serasa Experian
+
+- Stack moderna: Java 17, Spring WebFlux (Reactor), gRPC, REST e integração com legado via XML
+- Plataforma com ~16 milhões de requisições/mês, garantindo alta disponibilidade e resiliência
+- Governança de engenharia altamente estruturada, com papéis bem definidos (PM, Tech Lead, QA) e forte cultura de ownership
+- Arquitetura de microserviços resiliente com fallbacks, circuit breaker e cache estratégico (Redis)
+- Realizei 540 commits no primeiro ano, +60 entregas relevantes
+- Integração com ecossistema AWS: S3, SQS, SNS e Redis, com autenticação via Okta
+- Práticas robustas de segurança: Veracode, SonarQube e compliance com LGPD (data masking em logs, exceptions e persistência)
+- Observabilidade madura: migração de Grafana/Dynatrace para Datadog (APM, logs, métricas e alertas)
+- Monitoramento ativo com alertas em tempo real (Datadog + integração com Microsoft Teams)
+- Gestão de código com Bitbucket + estratégia de feature branch, back merge e conventional commits
+- Cultura de qualidade: 80% de cobertura de testes, testes automatizados com Cucumber, testes de carga (JMeter) e múltiplas camadas de validação
+- Pipeline robusta com gates de qualidade (Veracode, SonarQube, testes automatizados e integrações externas)
+- Deploy contínuo com pipeline customizada, incluindo estratégia de deploy canário e monitoramento pós-release
+- Gestão de ambientes: local, dev, UAT e produção, com validação estruturada via QA
+- Uso de Kubernetes para gestão de pods, variáveis de ambiente e saúde dos serviços
+- Orquestração com Argo para automação de deploys
+- Gestão ágil com Jira (integrado ao Bitbucket), dailies, reviews e retrospectivas
+- Gestão de incidentes via ServiceNow, incluindo abertura e acompanhamento de chamados
+- Documentação técnica centralizada no Confluence
+- Atuação em refinamentos técnico (com QA/Tech Lead) e de negócio (com PO)
+- Desenvolvimento orientado a documentação e uso de GitHub Copilot para produtividade
+- Criação de POCs (spikes) para validação técnica e redução de riscos
+- Liderança técnica: mentoria de desenvolvedores juniores e estagiários
+- Atuação em squad com 20 microserviços, sendo responsável por 10 (9 backend + 1 frontend Angular 19)
+- Evolução de frontend com migração Angular 16 → 19, incluindo UI própria + Angular Material
+- Implementação de features estratégicas como Mosaic e biblioteca de CNPJ alfanumérico
+- Refatoração com foco em robustez utilizando Result/Either Pattern, reduzindo uso de exceptions
+- Upgrade de SDKs críticos (ex: AWS SDK), garantindo segurança e performance
+- Processamento batch de dados (ex: ingestão de múltiplos CPFs via arquivos)
+- Integração com +10 fontes externas, com foco em resiliência e controle de custo
+- Uso de Redis para cache inteligente, reduzindo custo de consultas externas
+- Uso de Elasticsearch com dados anonimizados para buscas performáticas (CPF/CNPJ)
+- Automação de documentação de microserviços com apoio de IA (Copilot)
+- Cultura de feedback contínuo (ciclos trimestrais) e melhoria constante
 
 ## Projeto mais recente (em andamento) 🔥🔥🔥
 
@@ -57,9 +94,9 @@ O projeto **Bridge** é uma arquitetura de microserviços desenvolvida por Enéa
 -   🐍 **Python** - Scripts, automação e processamento de dados
 
 ### Frontend
+-   🅰️ **Angular** - Aplicações enterprise
 -   ⚛️ **React** - Desenvolvimento de interfaces modernas e responsivas
 -   💚 **Vue.js 2 & 3** (Especialista) - Vuetify, PrimeVue, Quasar, Composition API, Pinia
--   🅰️ **Angular** - Aplicações enterprise
 
 ### Arquitetura & Padrões
 -   🏛️ Clean Architecture, CQRS, MVC, DDD, Event-Driven Architecture
