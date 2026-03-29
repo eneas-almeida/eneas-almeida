@@ -9,7 +9,7 @@
 ### Experiência Profissional
 - 🔥 Desenvolvedor fullstack na **Serasa Experian**, projeto que movimenta **R$ 2.5 milhões/mês**
 -   💼 Desenvolvedor Principal no **Sicoob**, responsável por microserviços que processavam **R$ 6 milhões/mês**
-- ⚡ Desenvolvedor fullstack na **Indra Company**, alocado na **Enel**, projeto que movimentava **R$ 2 milhões/mês**
+- ⚡ Desenvolvedor fullstack na **Indra Company**, alocado na **Enel**, projeto que movimentava **R$ 3 milhões/mês**
 -   🏗️ Especialista em **Arquitetura de Microserviços** e **Sistemas Distribuídos**
 
 ### Formação Acadêmica
