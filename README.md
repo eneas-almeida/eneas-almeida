@@ -63,6 +63,40 @@
 
 ## Projeto mais recente (em andamento) 🔥🔥🔥
 
+👉 <a href="https://github.com/eneas-almeida/ms-bet-tracker-api">Bet tracker</a>
+
+#### Gráfico de Dependências (Clean Architecture)
+
+```text
++-------------------------------------------------------+
+|                   Main / Infra Layer                  |
+|          (Express, Prisma, Redis, Configs)            |
++--------------------------+----------------------------+
+                           | Depende de
+                           v
++-------------------------------------------------------+
+|                  Presentation Layer                   |
+|                    (Controllers)                      |
++--------------------------+----------------------------+
+                           | Depende de
+                           v
++-------------------------------------------------------+
+|                   Application Layer                   |
+|                 (Use Cases, DTOs)                     |
++--------------------------+----------------------------+
+                           | Depende de
+                           v
++-------------------------------------------------------+
+|                     Domain Layer                      |
+| (Entities, Repositories Interfaces, Business Rules)   |
++-------------------------------------------------------+
+```
+
+* **Regra de Dependência:** As camadas externas sempre conhecem e dependem das camadas mais internas. A camada `Domain`, no centro, não conhece a existência do banco de dados, da web ou de qualquer ferramenta externa. O fluxo de informações de fora para dentro é resolvido via injeção de dependência.
+
+
+## Projeto recente (em andamento)
+
 👉 <a href="https://github.com/eneas-almeida/bridge">Bridge</a>
 
 <a href="https://github.com/eneas-almeida/bridge"><img src="./images/java-grpc-2.png" width="100%" /></a>
