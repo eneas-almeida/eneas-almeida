@@ -65,7 +65,7 @@
 
 👉 <a href="https://github.com/eneas-almeida/sdd">Spec-Driven Development</a>
 
-<a href="https://github.com/eneas-almeida/sdd"><img src="/images/7 - mesmos-papeis-agora-com-agentes-especializados-v2.png" width="100%" /></a>
+<a href="https://github.com/eneas-almeida/sdd"><img src="./images/7 - mesmos-papeis-agora-com-agentes-especializados-v2.png" width="100%" /></a>
 
 **SDD (Spec-Driven Development)** é uma metodologia que aplica a filosofia do TDD/BDD ao desenvolvimento com IA: especificação completa primeiro, implementação depois. Em vez de prompts livres (*vibe coding*), o SDD define um documento de especificação estruturado como fonte da verdade, legível tanto por humanos quanto por agentes de IA.
 
@@ -865,7 +865,7 @@ Problemas de concorrência e sobrecarga de banco de dados. Múltiplas consultas 
 | Foto                                            | Descrição                                                                                                                                                                                                |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="./images/placa-1.jpeg" width="350" /> | 👉 <a href="https://github.com/eneas-almeida/sistemas-embarcados">Sistemas Embarcados</a> - Projeto final da disciplina de Sistemas Embarcados em Engenharia de Computação, IFPB. **(finalizado)**<br /> |
-| <img src="./images/shield.png" width="350" />   | 👉 <a href="https://github.com/eneas-almeida/shield_dados">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />                      |
+| <img src="./images/shield.png" width="350" />   | 👉 <a href="https://github.com/eneas-almeida/prototipagem">Prototipagem</a> - Projeto final da disciplina de Prototipagem em Engenharia de Computação, IFPB. **(finalizado)**<br />                      |
 
 <hr>
 
