@@ -61,6 +61,23 @@
 - Automação de documentação de microserviços com apoio de IA (Copilot)
 - Cultura de feedback contínuo (ciclos trimestrais) e melhoria constante
 
+## SDD — Spec-Driven Development
+
+👉 <a href="https://github.com/eneas-almeida/sdd">Spec-Driven Development</a>
+
+<a href="https://github.com/eneas-almeida/sdd"><img src="/images/7 - mesmos-papeis-agora-com-agentes-especializados-v2.png" width="100%" /></a>
+
+**SDD (Spec-Driven Development)** é uma metodologia que aplica a filosofia do TDD/BDD ao desenvolvimento com IA: especificação completa primeiro, implementação depois. Em vez de prompts livres (*vibe coding*), o SDD define um documento de especificação estruturado como fonte da verdade, legível tanto por humanos quanto por agentes de IA.
+
+O fluxo evolui em camadas progressivas: ideia → especificação → arquitetura → breakdown de tarefas → execução por agentes → código testável. Um arquivo `constitution.md` estabelece princípios inegociáveis (testes obrigatórios, segurança, stack, modularidade) que os agentes verificam antes de codificar.
+
+![SDD](https://img.shields.io/badge/SDD-Spec--Driven_Development-4B8BBE?style=flat&logo=read-the-docs&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat&logo=openai&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-C21325?style=flat&logo=testing-library&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-4CAF50?style=flat&logo=cucumber&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-00599C?style=flat&logo=blueprint&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat&logo=anthropic&logoColor=white)
+
 ## Projeto mais recente (em andamento) 🔥🔥🔥
 
 👉 <a href="https://github.com/eneas-almeida/ms-bet-tracker-api">Bet tracker</a>
